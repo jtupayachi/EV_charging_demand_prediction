@@ -1,11 +1,11 @@
 # EV charging demand prediction
 ### Objective: 
-#### Prediction of electric vehicle (EV) charging demand (station-level) using spatio-temporal Graph Neural Networks(ST-GNN). 
+Prediction of electric vehicle (EV) charging demand (station-level) using spatio-temporal Graph Neural Networks(ST-GNN). 
 ### Dataset:
-#### (i) Historical EV charging demand dataset from Palo Alto City, California and Boulder City, Colorado.  
-#### (ii) Historical weather dataset
-#### (iii) Point of Interest (POI) dataset near the station
-#### (iv) Traffic dataset near the station
+(i) Historical EV charging demand dataset from Palo Alto City, California and Boulder City, Colorado.  
+(ii) Historical weather dataset
+(iii) Point of Interest (POI) dataset near the station
+(iv) Traffic dataset near the station
 
 #### Tentative methods to implement:
 1. decision tree and cluster analysis 
