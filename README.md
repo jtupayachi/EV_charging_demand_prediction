@@ -8,7 +8,7 @@ Prediction of electric vehicle (EV) charging demand (station-level) using spatio
 (iv) Traffic dataset near the station
 
 #### Tentative methods to implement:
-1. decision tree and cluster analysis 
+1. Decision tree and Cluster analysis 
 2. Regression Tree and the Random Forest (RF) 
 3. SVM
 4. Monte Carlo forecasting technique
