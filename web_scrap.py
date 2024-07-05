@@ -328,7 +328,7 @@ for index, row in data.iterrows():
     # Check if 100 rows have been processed
     if counter % 10 == 0:
         # If 100 rows have been processed, create a new file or append to existing file
-        filename = f'output_{counter // 10}.csv'
+        filename = f'output/output_{counter // 10}.csv'
         # Concatenate all DataFrames so far
         concatenated_df = pd.concat(all_dfs, ignore_index=True)
         # Save concatenated DataFrame to CSV
@@ -338,6 +338,6 @@ for index, row in data.iterrows():
 
 # After the loop, save any remaining DataFrames
 if all_dfs:
-    filename = f'output_{counter // 10 + 1}.csv'
+    filename = f'output/output_{counter // 10 + 1}.csv'
     concatenated_df = pd.concat(all_dfs, ignore_index=True)
     concatenated_df.to_csv(filename, index=False)
