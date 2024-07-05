@@ -46,7 +46,7 @@ df['Date List'] = df['Date List'].apply(lambda x: [x])
 # df['Date List'] = df['Date List'].apply(ast.literal_eval)
 
 
-df.to_csv('simplified/california.csv',index=False)
+df.to_csv('simplified/california.csv',index=True)
 
 
 print(df)

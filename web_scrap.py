@@ -20,7 +20,14 @@ import time
 # (base) ➜  ~ spctl --add --label 'Approved' chromedriver
 
 """_summary_: Main Data Scrapper
+    
+    IN THE SIMPLIFIED FILE REMOVE ALL THOSE ROWS THAT WERE PROCESSED YOU HAVE THE LAST INDEX UNDER THE INDEX COLUM
+    
 """
+
+counter = 0 ####IMPORATANT
+
+
 
 def render_page(url,d,postal_code,city):
     string_d=d.split(" ")
@@ -298,11 +305,11 @@ data['City'] = data['City'].str.replace(' ', '%20')
 #     print(page)
 
 # Initialize a counter to track rows processed
-counter = 0
+
 
 # Initialize an empty list to store all DataFrames
 all_dfs = []
-
+print(data)
 for index, row in data.iterrows():
     # Construct URL or page details based on row data
     page_1 = 'https://www.wunderground.com/weather/us/'
@@ -328,7 +335,7 @@ for index, row in data.iterrows():
     # Check if 100 rows have been processed
     if counter % 10 == 0:
         # If 100 rows have been processed, create a new file or append to existing file
-        filename = f'output/output_{counter // 10}.csv'
+        filename = 'output/output_'+str(row['Unnamed: 0'])+'.csv'
         # Concatenate all DataFrames so far
         concatenated_df = pd.concat(all_dfs, ignore_index=True)
         # Save concatenated DataFrame to CSV
@@ -338,6 +345,6 @@ for index, row in data.iterrows():
 
 # After the loop, save any remaining DataFrames
 if all_dfs:
-    filename = f'output/output_{counter // 10 + 1}.csv'
+    filename = 'output/output_'+str(row['Unnamed: 0'])+'.csv'
     concatenated_df = pd.concat(all_dfs, ignore_index=True)
     concatenated_df.to_csv(filename, index=False)
