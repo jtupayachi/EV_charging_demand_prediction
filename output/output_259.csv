@@ -1,0 +1,262 @@
+Time,Temperature,Dew Point,Humidity,Wind,Wind Speed,Wind Gust,Pressure,Precip.,Condition,date_collector,postal_code,city
+11:53 PM,51 °F,45 °F,80 °%,WNW,13 °mph,0 °mph,30.07 °in,0.0 °in,Cloudy,2012 April 04,94301,Palo%20Alto
+12:53 AM,50 °F,42 °F,74 °%,W,10 °mph,0 °mph,30.09 °in,0.0 °in,Cloudy,2012 April 04,94301,Palo%20Alto
+1:53 AM,49 °F,41 °F,74 °%,W,10 °mph,0 °mph,30.09 °in,0.0 °in,Fair,2012 April 04,94301,Palo%20Alto
+2:53 AM,48 °F,40 °F,74 °%,SW,3 °mph,0 °mph,30.09 °in,0.0 °in,Fair,2012 April 04,94301,Palo%20Alto
+3:25 AM,48 °F,39 °F,71 °%,CALM,0 °mph,0 °mph,30.10 °in,0.0 °in,Mostly Cloudy,2012 April 04,94301,Palo%20Alto
+3:41 AM,48 °F,39 °F,71 °%,CALM,0 °mph,0 °mph,30.10 °in,0.0 °in,Cloudy,2012 April 04,94301,Palo%20Alto
+3:53 AM,49 °F,40 °F,71 °%,CALM,0 °mph,0 °mph,30.10 °in,0.0 °in,Mostly Cloudy,2012 April 04,94301,Palo%20Alto
+4:53 AM,49 °F,41 °F,74 °%,NW,3 °mph,0 °mph,30.10 °in,0.0 °in,Mostly Cloudy,2012 April 04,94301,Palo%20Alto
+5:39 AM,48 °F,37 °F,66 °%,N,6 °mph,0 °mph,30.11 °in,0.0 °in,Mostly Cloudy,2012 April 04,94301,Palo%20Alto
+5:53 AM,49 °F,39 °F,69 °%,NNE,3 °mph,0 °mph,30.11 °in,0.0 °in,Partly Cloudy,2012 April 04,94301,Palo%20Alto
+6:53 AM,46 °F,38 °F,73 °%,W,5 °mph,0 °mph,30.12 °in,0.0 °in,Fair,2012 April 04,94301,Palo%20Alto
+7:53 AM,48 °F,41 °F,76 °%,W,8 °mph,0 °mph,30.14 °in,0.0 °in,Fair,2012 April 04,94301,Palo%20Alto
+8:53 AM,51 °F,39 °F,63 °%,NW,13 °mph,0 °mph,30.14 °in,0.0 °in,Fair,2012 April 04,94301,Palo%20Alto
+9:53 AM,54 °F,39 °F,58 °%,WNW,14 °mph,0 °mph,30.15 °in,0.0 °in,Partly Cloudy,2012 April 04,94301,Palo%20Alto
+10:53 AM,55 °F,37 °F,51 °%,W,16 °mph,23 °mph,30.15 °in,0.0 °in,Partly Cloudy,2012 April 04,94301,Palo%20Alto
+11:53 AM,58 °F,33 °F,39 °%,WNW,16 °mph,23 °mph,30.14 °in,0.0 °in,Fair,2012 April 04,94301,Palo%20Alto
+12:53 PM,58 °F,30 °F,35 °%,WNW,17 °mph,24 °mph,30.12 °in,0.0 °in,Fair,2012 April 04,94301,Palo%20Alto
+1:53 PM,59 °F,34 °F,39 °%,NW,20 °mph,26 °mph,30.12 °in,0.0 °in,Fair,2012 April 04,94301,Palo%20Alto
+2:53 PM,60 °F,35 °F,39 °%,NW,18 °mph,30 °mph,30.11 °in,0.0 °in,Fair,2012 April 04,94301,Palo%20Alto
+3:53 PM,60 °F,26 °F,27 °%,NW,20 °mph,26 °mph,30.10 °in,0.0 °in,Fair,2012 April 04,94301,Palo%20Alto
+4:53 PM,59 °F,29 °F,32 °%,WNW,18 °mph,0 °mph,30.08 °in,0.0 °in,Fair,2012 April 04,94301,Palo%20Alto
+5:53 PM,57 °F,30 °F,36 °%,WNW,20 °mph,28 °mph,30.08 °in,0.0 °in,Fair,2012 April 04,94301,Palo%20Alto
+6:53 PM,53 °F,31 °F,43 °%,W,16 °mph,0 °mph,30.10 °in,0.0 °in,Fair,2012 April 04,94301,Palo%20Alto
+7:53 PM,50 °F,35 °F,57 °%,WNW,15 °mph,0 °mph,30.10 °in,0.0 °in,Fair,2012 April 04,94301,Palo%20Alto
+8:53 PM,49 °F,35 °F,59 °%,W,13 °mph,0 °mph,30.11 °in,0.0 °in,Fair,2012 April 04,94301,Palo%20Alto
+9:53 PM,49 °F,36 °F,61 °%,W,14 °mph,0 °mph,30.12 °in,0.0 °in,Fair,2012 April 04,94301,Palo%20Alto
+10:53 PM,48 °F,35 °F,61 °%,W,12 °mph,0 °mph,30.12 °in,0.0 °in,Fair,2012 April 04,94301,Palo%20Alto
+11:53 PM,47 °F,35 °F,63 °%,W,9 °mph,0 °mph,30.11 °in,0.0 °in,Fair,2012 April 05,94301,Palo%20Alto
+12:53 AM,46 °F,35 °F,66 °%,W,7 °mph,0 °mph,30.10 °in,0.0 °in,Fair,2012 April 05,94301,Palo%20Alto
+1:53 AM,45 °F,35 °F,68 °%,W,8 °mph,0 °mph,30.09 °in,0.0 °in,Fair,2012 April 05,94301,Palo%20Alto
+2:53 AM,45 °F,34 °F,65 °%,W,10 °mph,0 °mph,30.08 °in,0.0 °in,Fair,2012 April 05,94301,Palo%20Alto
+3:53 AM,44 °F,34 °F,68 °%,WNW,9 °mph,0 °mph,30.08 °in,0.0 °in,Fair,2012 April 05,94301,Palo%20Alto
+4:53 AM,43 °F,33 °F,68 °%,W,8 °mph,0 °mph,30.07 °in,0.0 °in,Fair,2012 April 05,94301,Palo%20Alto
+5:44 AM,43 °F,0 °F,66 °%,WNW,6 °mph,0 °mph,30.08 °in,0.0 °in,Partly Cloudy,2012 April 05,94301,Palo%20Alto
+5:53 AM,42 °F,33 °F,70 °%,WNW,5 °mph,0 °mph,30.07 °in,0.0 °in,Fair,2012 April 05,94301,Palo%20Alto
+6:53 AM,42 °F,33 °F,70 °%,CALM,0 °mph,0 °mph,30.07 °in,0.0 °in,Fair,2012 April 05,94301,Palo%20Alto
+7:53 AM,46 °F,34 °F,63 °%,W,3 °mph,0 °mph,30.09 °in,0.0 °in,Fair,2012 April 05,94301,Palo%20Alto
+8:53 AM,48 °F,34 °F,58 °%,NW,7 °mph,0 °mph,30.09 °in,0.0 °in,Fair,2012 April 05,94301,Palo%20Alto
+9:53 AM,51 °F,0 °F,48 °%,WNW,10 °mph,0 °mph,30.09 °in,0.0 °in,Partly Cloudy,2012 April 05,94301,Palo%20Alto
+10:53 AM,52 °F,30 °F,43 °%,NW,12 °mph,20 °mph,30.09 °in,0.0 °in,Partly Cloudy,2012 April 05,94301,Palo%20Alto
+11:53 AM,54 °F,30 °F,40 °%,NW,16 °mph,0 °mph,30.08 °in,0.0 °in,Partly Cloudy,2012 April 05,94301,Palo%20Alto
+12:53 PM,55 °F,30 °F,38 °%,WNW,15 °mph,21 °mph,30.07 °in,0.0 °in,Fair,2012 April 05,94301,Palo%20Alto
+1:53 PM,57 °F,0 °F,39 °%,NW,16 °mph,0 °mph,30.06 °in,0.0 °in,Fair,2012 April 05,94301,Palo%20Alto
+2:53 PM,58 °F,31 °F,36 °%,NW,16 °mph,25 °mph,30.06 °in,0.0 °in,Fair,2012 April 05,94301,Palo%20Alto
+3:53 PM,58 °F,33 °F,39 °%,NW,16 °mph,0 °mph,30.05 °in,0.0 °in,Fair,2012 April 05,94301,Palo%20Alto
+4:53 PM,57 °F,28 °F,33 °%,W,16 °mph,23 °mph,30.05 °in,0.0 °in,Fair,2012 April 05,94301,Palo%20Alto
+5:53 PM,55 °F,30 °F,38 °%,WNW,18 °mph,24 °mph,30.06 °in,0.0 °in,Fair,2012 April 05,94301,Palo%20Alto
+6:53 PM,52 °F,30 °F,43 °%,WNW,18 °mph,0 °mph,30.07 °in,0.0 °in,Fair,2012 April 05,94301,Palo%20Alto
+7:53 PM,49 °F,0 °F,52 °%,W,14 °mph,0 °mph,30.09 °in,0.0 °in,Fair,2012 April 05,94301,Palo%20Alto
+8:53 PM,48 °F,34 °F,58 °%,WNW,5 °mph,0 °mph,30.12 °in,0.0 °in,Fair,2012 April 05,94301,Palo%20Alto
+9:53 PM,47 °F,34 °F,61 °%,W,6 °mph,0 °mph,30.13 °in,0.0 °in,Fair,2012 April 05,94301,Palo%20Alto
+10:53 PM,47 °F,34 °F,61 °%,WSW,5 °mph,0 °mph,30.13 °in,0.0 °in,Fair,2012 April 05,94301,Palo%20Alto
+11:53 PM,46 °F,0 °F,58 °%,SW,3 °mph,0 °mph,30.15 °in,0.0 °in,Fair,2012 April 06,94301,Palo%20Alto
+12:53 AM,44 °F,35 °F,71 °%,WNW,7 °mph,0 °mph,30.15 °in,0.0 °in,Fair,2012 April 06,94301,Palo%20Alto
+1:53 AM,44 °F,34 °F,68 °%,CALM,0 °mph,0 °mph,30.17 °in,0.0 °in,Fair,2012 April 06,94301,Palo%20Alto
+2:53 AM,41 °F,34 °F,76 °%,SE,5 °mph,0 °mph,30.17 °in,0.0 °in,Fair,2012 April 06,94301,Palo%20Alto
+3:53 AM,42 °F,33 °F,70 °%,SSE,3 °mph,0 °mph,30.18 °in,0.0 °in,Fair,2012 April 06,94301,Palo%20Alto
+4:53 AM,39 °F,33 °F,79 °%,SE,3 °mph,0 °mph,30.18 °in,0.0 °in,Fair,2012 April 06,94301,Palo%20Alto
+5:39 AM,39 °F,34 °F,81 °%,ESE,3 °mph,0 °mph,30.20 °in,0.0 °in,Mostly Cloudy,2012 April 06,94301,Palo%20Alto
+5:53 AM,40 °F,33 °F,77 °%,SE,3 °mph,0 °mph,30.19 °in,0.0 °in,Mostly Cloudy,2012 April 06,94301,Palo%20Alto
+6:53 AM,42 °F,34 °F,73 °%,SSE,3 °mph,0 °mph,30.20 °in,0.0 °in,Mostly Cloudy,2012 April 06,94301,Palo%20Alto
+7:53 AM,44 °F,35 °F,71 °%,CALM,0 °mph,0 °mph,30.22 °in,0.0 °in,Fair,2012 April 06,94301,Palo%20Alto
+8:53 AM,47 °F,36 °F,66 °%,CALM,0 °mph,0 °mph,30.22 °in,0.0 °in,Fair,2012 April 06,94301,Palo%20Alto
+9:53 AM,50 °F,36 °F,59 °%,VAR,5 °mph,0 °mph,30.22 °in,0.0 °in,Fair,2012 April 06,94301,Palo%20Alto
+10:53 AM,53 °F,34 °F,48 °%,VAR,3 °mph,0 °mph,30.22 °in,0.0 °in,Fair,2012 April 06,94301,Palo%20Alto
+11:53 AM,56 °F,0 °F,40 °%,NE,3 °mph,0 °mph,30.20 °in,0.0 °in,Fair,2012 April 06,94301,Palo%20Alto
+12:53 PM,58 °F,30 °F,35 °%,NNW,6 °mph,0 °mph,30.18 °in,0.0 °in,Fair,2012 April 06,94301,Palo%20Alto
+1:53 PM,61 °F,28 °F,29 °%,WNW,6 °mph,0 °mph,30.17 °in,0.0 °in,Fair,2012 April 06,94301,Palo%20Alto
+2:53 PM,62 °F,23 °F,22 °%,W,10 °mph,0 °mph,30.15 °in,0.0 °in,Fair,2012 April 06,94301,Palo%20Alto
+3:53 PM,62 °F,24 °F,23 °%,WNW,8 °mph,0 °mph,30.13 °in,0.0 °in,Fair,2012 April 06,94301,Palo%20Alto
+4:53 PM,62 °F,24 °F,23 °%,WNW,14 °mph,0 °mph,30.13 °in,0.0 °in,Fair,2012 April 06,94301,Palo%20Alto
+5:53 PM,60 °F,29 °F,31 °%,NW,13 °mph,0 °mph,30.12 °in,0.0 °in,Fair,2012 April 06,94301,Palo%20Alto
+6:53 PM,56 °F,36 °F,47 °%,NW,14 °mph,0 °mph,30.11 °in,0.0 °in,Partly Cloudy,2012 April 06,94301,Palo%20Alto
+7:53 PM,54 °F,36 °F,51 °%,NW,12 °mph,0 °mph,30.11 °in,0.0 °in,Partly Cloudy,2012 April 06,94301,Palo%20Alto
+8:53 PM,52 °F,36 °F,54 °%,NW,7 °mph,0 °mph,30.11 °in,0.0 °in,Fair,2012 April 06,94301,Palo%20Alto
+9:53 PM,51 °F,38 °F,61 °%,NW,7 °mph,0 °mph,30.12 °in,0.0 °in,Fair,2012 April 06,94301,Palo%20Alto
+10:53 PM,51 °F,35 °F,54 °%,NNW,5 °mph,0 °mph,30.12 °in,0.0 °in,Fair,2012 April 06,94301,Palo%20Alto
+11:53 PM,50 °F,37 °F,62 °%,CALM,0 °mph,0 °mph,30.12 °in,0.0 °in,Fair,2012 April 07,94301,Palo%20Alto
+12:53 AM,48 °F,36 °F,63 °%,CALM,0 °mph,0 °mph,30.11 °in,0.0 °in,Fair,2012 April 07,94301,Palo%20Alto
+1:53 AM,47 °F,35 °F,63 °%,CALM,0 °mph,0 °mph,30.11 °in,0.0 °in,Fair,2012 April 07,94301,Palo%20Alto
+2:53 AM,45 °F,33 °F,63 °%,CALM,0 °mph,0 °mph,30.10 °in,0.0 °in,Fair,2012 April 07,94301,Palo%20Alto
+3:53 AM,43 °F,33 °F,68 °%,SSE,3 °mph,0 °mph,30.08 °in,0.0 °in,Fair,2012 April 07,94301,Palo%20Alto
+4:53 AM,43 °F,34 °F,71 °%,E,3 °mph,0 °mph,30.07 °in,0.0 °in,Fair,2012 April 07,94301,Palo%20Alto
+5:53 AM,42 °F,33 °F,70 °%,SE,3 °mph,0 °mph,30.07 °in,0.0 °in,Fair,2012 April 07,94301,Palo%20Alto
+6:53 AM,40 °F,33 °F,77 °%,ESE,5 °mph,0 °mph,30.07 °in,0.0 °in,Fair,2012 April 07,94301,Palo%20Alto
+7:53 AM,43 °F,35 °F,74 °%,CALM,0 °mph,0 °mph,30.07 °in,0.0 °in,Fair,2012 April 07,94301,Palo%20Alto
+8:53 AM,48 °F,36 °F,63 °%,CALM,0 °mph,0 °mph,30.06 °in,0.0 °in,Fair,2012 April 07,94301,Palo%20Alto
+9:53 AM,54 °F,37 °F,53 °%,CALM,0 °mph,0 °mph,30.06 °in,0.0 °in,Fair,2012 April 07,94301,Palo%20Alto
+10:53 AM,59 °F,34 °F,39 °%,VAR,3 °mph,0 °mph,30.06 °in,0.0 °in,Mostly Cloudy,2012 April 07,94301,Palo%20Alto
+11:53 AM,63 °F,29 °F,28 °%,VAR,3 °mph,0 °mph,30.05 °in,0.0 °in,Mostly Cloudy,2012 April 07,94301,Palo%20Alto
+12:53 PM,66 °F,28 °F,24 °%,CALM,0 °mph,0 °mph,30.03 °in,0.0 °in,Mostly Cloudy,2012 April 07,94301,Palo%20Alto
+1:53 PM,69 °F,31 °F,24 °%,NW,8 °mph,0 °mph,30.00 °in,0.0 °in,Mostly Cloudy,2012 April 07,94301,Palo%20Alto
+2:53 PM,69 °F,0 °F,25 °%,WNW,9 °mph,0 °mph,29.99 °in,0.0 °in,Mostly Cloudy,2012 April 07,94301,Palo%20Alto
+3:53 PM,71 °F,31 °F,23 °%,WNW,10 °mph,0 °mph,29.97 °in,0.0 °in,Mostly Cloudy,2012 April 07,94301,Palo%20Alto
+4:53 PM,68 °F,35 °F,30 °%,NW,15 °mph,0 °mph,29.97 °in,0.0 °in,Mostly Cloudy,2012 April 07,94301,Palo%20Alto
+5:53 PM,64 °F,36 °F,34 °%,NW,13 °mph,0 °mph,29.98 °in,0.0 °in,Mostly Cloudy,2012 April 07,94301,Palo%20Alto
+6:53 PM,62 °F,40 °F,44 °%,WNW,13 °mph,0 °mph,29.97 °in,0.0 °in,Mostly Cloudy,2012 April 07,94301,Palo%20Alto
+7:53 PM,57 °F,42 °F,57 °%,WNW,8 °mph,0 °mph,29.97 °in,0.0 °in,Partly Cloudy,2012 April 07,94301,Palo%20Alto
+8:53 PM,55 °F,37 °F,51 °%,WNW,8 °mph,0 °mph,30.00 °in,0.0 °in,Fair,2012 April 07,94301,Palo%20Alto
+9:53 PM,55 °F,38 °F,53 °%,W,3 °mph,0 °mph,30.00 °in,0.0 °in,Fair,2012 April 07,94301,Palo%20Alto
+10:53 PM,55 °F,40 °F,57 °%,CALM,0 °mph,0 °mph,30.01 °in,0.0 °in,Fair,2012 April 07,94301,Palo%20Alto
+11:53 PM,53 °F,42 °F,66 °%,CALM,0 °mph,0 °mph,30.01 °in,0.0 °in,Fair,2012 April 08,94301,Palo%20Alto
+12:53 AM,50 °F,41 °F,71 °%,S,3 °mph,0 °mph,30.02 °in,0.0 °in,Fair,2012 April 08,94301,Palo%20Alto
+1:53 AM,49 °F,39 °F,69 °%,CALM,0 °mph,0 °mph,30.01 °in,0.0 °in,Fair,2012 April 08,94301,Palo%20Alto
+2:53 AM,48 °F,36 °F,63 °%,CALM,0 °mph,0 °mph,30.01 °in,0.0 °in,Fair,2012 April 08,94301,Palo%20Alto
+3:53 AM,46 °F,35 °F,66 °%,CALM,0 °mph,0 °mph,30.00 °in,0.0 °in,Fair,2012 April 08,94301,Palo%20Alto
+4:53 AM,45 °F,35 °F,68 °%,CALM,0 °mph,0 °mph,30.00 °in,0.0 °in,Fair,2012 April 08,94301,Palo%20Alto
+5:53 AM,42 °F,34 °F,73 °%,ESE,5 °mph,0 °mph,29.99 °in,0.0 °in,Fair,2012 April 08,94301,Palo%20Alto
+6:53 AM,43 °F,35 °F,74 °%,SSE,3 °mph,0 °mph,30.00 °in,0.0 °in,Partly Cloudy,2012 April 08,94301,Palo%20Alto
+7:53 AM,45 °F,38 °F,76 °%,ESE,7 °mph,0 °mph,30.00 °in,0.0 °in,Partly Cloudy,2012 April 08,94301,Palo%20Alto
+8:53 AM,50 °F,39 °F,66 °%,CALM,0 °mph,0 °mph,30.00 °in,0.0 °in,Partly Cloudy,2012 April 08,94301,Palo%20Alto
+9:53 AM,55 °F,40 °F,57 °%,NNW,3 °mph,0 °mph,30.00 °in,0.0 °in,Partly Cloudy,2012 April 08,94301,Palo%20Alto
+10:53 AM,59 °F,40 °F,49 °%,CALM,0 °mph,0 °mph,29.99 °in,0.0 °in,Partly Cloudy,2012 April 08,94301,Palo%20Alto
+11:53 AM,64 °F,38 °F,38 °%,CALM,0 °mph,0 °mph,29.97 °in,0.0 °in,Partly Cloudy,2012 April 08,94301,Palo%20Alto
+12:53 PM,68 °F,35 °F,30 °%,W,5 °mph,0 °mph,29.96 °in,0.0 °in,Mostly Cloudy,2012 April 08,94301,Palo%20Alto
+1:53 PM,71 °F,39 °F,31 °%,NW,8 °mph,0 °mph,29.95 °in,0.0 °in,Mostly Cloudy,2012 April 08,94301,Palo%20Alto
+2:53 PM,70 °F,39 °F,32 °%,WNW,14 °mph,0 °mph,29.94 °in,0.0 °in,Cloudy,2012 April 08,94301,Palo%20Alto
+3:53 PM,67 °F,39 °F,36 °%,WNW,17 °mph,0 °mph,29.94 °in,0.0 °in,Cloudy,2012 April 08,94301,Palo%20Alto
+4:53 PM,63 °F,41 °F,45 °%,NNW,20 °mph,0 °mph,29.94 °in,0.0 °in,Cloudy,2012 April 08,94301,Palo%20Alto
+5:53 PM,61 °F,41 °F,48 °%,NW,17 °mph,23 °mph,29.97 °in,0.0 °in,Mostly Cloudy,2012 April 08,94301,Palo%20Alto
+6:53 PM,57 °F,40 °F,53 °%,NNW,13 °mph,0 °mph,29.97 °in,0.0 °in,Mostly Cloudy,2012 April 08,94301,Palo%20Alto
+7:53 PM,56 °F,39 °F,53 °%,NW,8 °mph,0 °mph,29.97 °in,0.0 °in,Mostly Cloudy,2012 April 08,94301,Palo%20Alto
+8:53 PM,55 °F,39 °F,55 °%,N,5 °mph,0 °mph,29.98 °in,0.0 °in,Fair,2012 April 08,94301,Palo%20Alto
+9:53 PM,54 °F,39 °F,57 °%,CALM,0 °mph,0 °mph,29.97 °in,0.0 °in,Fair,2012 April 08,94301,Palo%20Alto
+10:53 PM,54 °F,39 °F,57 °%,CALM,0 °mph,0 °mph,29.97 °in,0.0 °in,Partly Cloudy,2012 April 08,94301,Palo%20Alto
+11:53 PM,50 °F,40 °F,68 °%,ESE,6 °mph,0 °mph,29.96 °in,0.0 °in,Partly Cloudy,2012 April 09,94301,Palo%20Alto
+12:53 AM,50 °F,39 °F,66 °%,SE,5 °mph,0 °mph,29.95 °in,0.0 °in,Fair,2012 April 09,94301,Palo%20Alto
+1:53 AM,50 °F,40 °F,68 °%,SSE,6 °mph,0 °mph,29.94 °in,0.0 °in,Fair,2012 April 09,94301,Palo%20Alto
+2:53 AM,47 °F,37 °F,68 °%,W,5 °mph,0 °mph,29.94 °in,0.0 °in,Fair,2012 April 09,94301,Palo%20Alto
+3:53 AM,47 °F,37 °F,68 °%,SE,3 °mph,0 °mph,29.94 °in,0.0 °in,Fair,2012 April 09,94301,Palo%20Alto
+4:53 AM,46 °F,35 °F,66 °%,SSE,3 °mph,0 °mph,29.93 °in,0.0 °in,Fair,2012 April 09,94301,Palo%20Alto
+5:53 AM,45 °F,35 °F,68 °%,ESE,5 °mph,0 °mph,29.93 °in,0.0 °in,Fair,2012 April 09,94301,Palo%20Alto
+6:53 AM,45 °F,35 °F,68 °%,SSE,5 °mph,0 °mph,29.93 °in,0.0 °in,Cloudy,2012 April 09,94301,Palo%20Alto
+7:53 AM,47 °F,36 °F,66 °%,SSE,6 °mph,0 °mph,29.93 °in,0.0 °in,Cloudy,2012 April 09,94301,Palo%20Alto
+8:53 AM,51 °F,38 °F,61 °%,CALM,0 °mph,0 °mph,29.92 °in,0.0 °in,Cloudy,2012 April 09,94301,Palo%20Alto
+9:53 AM,54 °F,41 °F,62 °%,CALM,0 °mph,0 °mph,29.92 °in,0.0 °in,Cloudy,2012 April 09,94301,Palo%20Alto
+10:53 AM,58 °F,40 °F,51 °%,CALM,0 °mph,0 °mph,29.91 °in,0.0 °in,Cloudy,2012 April 09,94301,Palo%20Alto
+11:53 AM,60 °F,37 °F,42 °%,CALM,0 °mph,0 °mph,29.88 °in,0.0 °in,Cloudy,2012 April 09,94301,Palo%20Alto
+12:53 PM,66 °F,36 °F,33 °%,WNW,9 °mph,0 °mph,29.86 °in,0.0 °in,Cloudy,2012 April 09,94301,Palo%20Alto
+1:53 PM,67 °F,35 °F,31 °%,CALM,0 °mph,0 °mph,29.83 °in,0.0 °in,Cloudy,2012 April 09,94301,Palo%20Alto
+2:53 PM,70 °F,35 °F,28 °%,VAR,6 °mph,0 °mph,29.80 °in,0.0 °in,Cloudy,2012 April 09,94301,Palo%20Alto
+3:53 PM,71 °F,35 °F,27 °%,NW,8 °mph,0 °mph,29.78 °in,0.0 °in,Cloudy,2012 April 09,94301,Palo%20Alto
+4:53 PM,72 °F,5 °F,7 °%,S,14 °mph,22 °mph,29.77 °in,0.0 °in,Cloudy,2012 April 09,94301,Palo%20Alto
+5:53 PM,70 °F,10 °F,10 °%,S,14 °mph,23 °mph,29.75 °in,0.0 °in,Cloudy,2012 April 09,94301,Palo%20Alto
+6:53 PM,62 °F,26 °F,25 °%,S,21 °mph,32 °mph,29.77 °in,0.0 °in,Cloudy / Windy,2012 April 09,94301,Palo%20Alto
+7:53 PM,55 °F,40 °F,57 °%,S,23 °mph,30 °mph,29.80 °in,0.0 °in,Mostly Cloudy / Windy,2012 April 09,94301,Palo%20Alto
+8:53 PM,55 °F,37 °F,51 °%,SSE,15 °mph,23 °mph,29.84 °in,0.0 °in,Mostly Cloudy,2012 April 09,94301,Palo%20Alto
+9:53 PM,54 °F,40 °F,59 °%,ESE,10 °mph,0 °mph,29.84 °in,0.0 °in,Mostly Cloudy,2012 April 09,94301,Palo%20Alto
+10:53 PM,52 °F,40 °F,63 °%,E,7 °mph,0 °mph,29.84 °in,0.0 °in,Partly Cloudy,2012 April 09,94301,Palo%20Alto
+11:53 PM,52 °F,40 °F,63 °%,SE,7 °mph,0 °mph,29.84 °in,0.0 °in,Partly Cloudy,2012 April 10,94301,Palo%20Alto
+12:53 AM,53 °F,40 °F,61 °%,SE,5 °mph,0 °mph,29.82 °in,0.0 °in,Fair,2012 April 10,94301,Palo%20Alto
+1:53 AM,54 °F,38 °F,55 °%,SE,9 °mph,0 °mph,29.81 °in,0.0 °in,Mostly Cloudy,2012 April 10,94301,Palo%20Alto
+2:53 AM,55 °F,38 °F,53 °%,SE,8 °mph,0 °mph,29.82 °in,0.0 °in,Mostly Cloudy,2012 April 10,94301,Palo%20Alto
+3:53 AM,55 °F,40 °F,57 °%,S,5 °mph,0 °mph,29.83 °in,0.0 °in,Cloudy,2012 April 10,94301,Palo%20Alto
+4:53 AM,54 °F,40 °F,59 °%,SE,9 °mph,0 °mph,29.83 °in,0.0 °in,Cloudy,2012 April 10,94301,Palo%20Alto
+5:10 AM,54 °F,41 °F,62 °%,ESE,9 °mph,0 °mph,29.83 °in,0.0 °in,Mostly Cloudy,2012 April 10,94301,Palo%20Alto
+5:53 AM,54 °F,41 °F,62 °%,SE,5 °mph,0 °mph,29.82 °in,0.0 °in,Mostly Cloudy,2012 April 10,94301,Palo%20Alto
+6:53 AM,54 °F,43 °F,66 °%,SSE,5 °mph,0 °mph,29.82 °in,0.0 °in,Mostly Cloudy,2012 April 10,94301,Palo%20Alto
+7:34 AM,54 °F,45 °F,72 °%,CALM,0 °mph,0 °mph,29.82 °in,0.0 °in,Cloudy,2012 April 10,94301,Palo%20Alto
+7:53 AM,54 °F,47 °F,77 °%,CALM,0 °mph,0 °mph,29.83 °in,0.0 °in,Cloudy,2012 April 10,94301,Palo%20Alto
+8:53 AM,54 °F,47 °F,77 °%,SE,5 °mph,0 °mph,29.83 °in,0.0 °in,Cloudy,2012 April 10,94301,Palo%20Alto
+9:53 AM,52 °F,47 °F,83 °%,SE,8 °mph,0 °mph,29.84 °in,0.1 °in,Cloudy,2012 April 10,94301,Palo%20Alto
+10:53 AM,54 °F,48 °F,80 °%,SSE,5 °mph,0 °mph,29.85 °in,0.0 °in,Cloudy,2012 April 10,94301,Palo%20Alto
+11:53 AM,55 °F,48 °F,77 °%,ESE,5 °mph,0 °mph,29.83 °in,0.0 °in,Cloudy,2012 April 10,94301,Palo%20Alto
+12:53 PM,56 °F,50 °F,80 °%,ESE,7 °mph,0 °mph,29.82 °in,0.0 °in,Cloudy,2012 April 10,94301,Palo%20Alto
+1:53 PM,56 °F,51 °F,84 °%,S,5 °mph,0 °mph,29.82 °in,0.0 °in,Cloudy,2012 April 10,94301,Palo%20Alto
+2:53 PM,56 °F,52 °F,87 °%,CALM,0 °mph,0 °mph,29.79 °in,0.1 °in,Cloudy,2012 April 10,94301,Palo%20Alto
+3:53 PM,57 °F,52 °F,83 °%,SSE,6 °mph,0 °mph,29.79 °in,0.0 °in,Cloudy,2012 April 10,94301,Palo%20Alto
+4:53 PM,56 °F,52 °F,87 °%,ESE,6 °mph,0 °mph,29.78 °in,0.0 °in,Cloudy,2012 April 10,94301,Palo%20Alto
+5:53 PM,55 °F,53 °F,93 °%,ESE,6 °mph,0 °mph,29.77 °in,0.1 °in,Cloudy,2012 April 10,94301,Palo%20Alto
+6:53 PM,55 °F,49 °F,79 °%,SE,10 °mph,0 °mph,29.78 °in,0.0 °in,Cloudy,2012 April 10,94301,Palo%20Alto
+7:24 PM,54 °F,54 °F,100 °%,E,8 °mph,0 °mph,29.77 °in,0.0 °in,Cloudy,2012 April 10,94301,Palo%20Alto
+7:53 PM,54 °F,49 °F,84 °%,E,7 °mph,0 °mph,29.77 °in,0.0 °in,Cloudy,2012 April 10,94301,Palo%20Alto
+8:53 PM,54 °F,49 °F,84 °%,SE,6 °mph,0 °mph,29.77 °in,0.0 °in,Cloudy,2012 April 10,94301,Palo%20Alto
+9:53 PM,54 °F,51 °F,90 °%,SE,7 °mph,0 °mph,29.78 °in,0.0 °in,Cloudy,2012 April 10,94301,Palo%20Alto
+10:53 PM,53 °F,51 °F,93 °%,CALM,0 °mph,0 °mph,29.76 °in,0.0 °in,Cloudy,2012 April 10,94301,Palo%20Alto
+11:53 PM,53 °F,51 °F,93 °%,ESE,5 °mph,0 °mph,29.77 °in,0.0 °in,Mostly Cloudy,2012 April 11,94301,Palo%20Alto
+12:53 AM,53 °F,51 °F,93 °%,SE,5 °mph,0 °mph,29.77 °in,0.0 °in,Cloudy,2012 April 11,94301,Palo%20Alto
+1:53 AM,53 °F,50 °F,89 °%,SE,7 °mph,0 °mph,29.76 °in,0.0 °in,Cloudy,2012 April 11,94301,Palo%20Alto
+2:53 AM,52 °F,50 °F,93 °%,ESE,8 °mph,0 °mph,29.76 °in,0.0 °in,Cloudy,2012 April 11,94301,Palo%20Alto
+3:11 AM,52 °F,52 °F,100 °%,ESE,5 °mph,0 °mph,29.76 °in,0.0 °in,Cloudy,2012 April 11,94301,Palo%20Alto
+3:38 AM,52 °F,50 °F,94 °%,CALM,0 °mph,0 °mph,29.77 °in,0.0 °in,Cloudy,2012 April 11,94301,Palo%20Alto
+3:53 AM,52 °F,50 °F,93 °%,SW,3 °mph,0 °mph,29.77 °in,0.0 °in,Cloudy,2012 April 11,94301,Palo%20Alto
+4:09 AM,52 °F,52 °F,100 °%,SE,3 °mph,0 °mph,29.77 °in,0.0 °in,Cloudy,2012 April 11,94301,Palo%20Alto
+4:53 AM,51 °F,49 °F,92 °%,CALM,0 °mph,0 °mph,29.77 °in,0.0 °in,Fair,2012 April 11,94301,Palo%20Alto
+5:07 AM,50 °F,48 °F,94 °%,CALM,0 °mph,0 °mph,29.78 °in,0.0 °in,Partly Cloudy,2012 April 11,94301,Palo%20Alto
+5:53 AM,50 °F,48 °F,93 °%,CALM,0 °mph,0 °mph,29.78 °in,0.0 °in,Partly Cloudy,2012 April 11,94301,Palo%20Alto
+6:53 AM,51 °F,49 °F,92 °%,E,5 °mph,0 °mph,29.79 °in,0.0 °in,Mostly Cloudy,2012 April 11,94301,Palo%20Alto
+7:53 AM,52 °F,50 °F,93 °%,SE,5 °mph,0 °mph,29.81 °in,0.0 °in,Mostly Cloudy,2012 April 11,94301,Palo%20Alto
+8:53 AM,53 °F,50 °F,89 °%,SE,7 °mph,0 °mph,29.83 °in,0.0 °in,Mostly Cloudy,2012 April 11,94301,Palo%20Alto
+9:53 AM,56 °F,49 °F,77 °%,SE,6 °mph,0 °mph,29.85 °in,0.0 °in,Mostly Cloudy,2012 April 11,94301,Palo%20Alto
+10:53 AM,56 °F,46 °F,69 °%,SE,5 °mph,0 °mph,29.87 °in,0.0 °in,Mostly Cloudy,2012 April 11,94301,Palo%20Alto
+11:53 AM,59 °F,44 °F,58 °%,S,5 °mph,0 °mph,29.87 °in,0.0 °in,Mostly Cloudy,2012 April 11,94301,Palo%20Alto
+12:53 PM,61 °F,41 °F,48 °%,SW,15 °mph,0 °mph,29.88 °in,0.0 °in,Mostly Cloudy,2012 April 11,94301,Palo%20Alto
+1:53 PM,60 °F,42 °F,51 °%,S,16 °mph,22 °mph,29.89 °in,0.0 °in,Mostly Cloudy,2012 April 11,94301,Palo%20Alto
+2:53 PM,60 °F,43 °F,53 °%,S,12 °mph,16 °mph,29.89 °in,0.0 °in,Mostly Cloudy,2012 April 11,94301,Palo%20Alto
+3:53 PM,58 °F,45 °F,62 °%,SSE,10 °mph,17 °mph,29.89 °in,0.0 °in,Mostly Cloudy,2012 April 11,94301,Palo%20Alto
+4:53 PM,58 °F,43 °F,58 °%,SSE,15 °mph,0 °mph,29.90 °in,0.0 °in,Mostly Cloudy,2012 April 11,94301,Palo%20Alto
+5:53 PM,58 °F,43 °F,58 °%,SSE,15 °mph,21 °mph,29.91 °in,0.0 °in,Mostly Cloudy,2012 April 11,94301,Palo%20Alto
+6:53 PM,57 °F,43 °F,59 °%,SSE,15 °mph,0 °mph,29.92 °in,0.0 °in,Mostly Cloudy,2012 April 11,94301,Palo%20Alto
+7:53 PM,55 °F,45 °F,69 °%,S,13 °mph,22 °mph,29.93 °in,0.0 °in,Mostly Cloudy,2012 April 11,94301,Palo%20Alto
+8:53 PM,55 °F,44 °F,67 °%,SE,8 °mph,0 °mph,29.94 °in,0.0 °in,Mostly Cloudy,2012 April 11,94301,Palo%20Alto
+9:53 PM,55 °F,45 °F,69 °%,SE,6 °mph,0 °mph,29.96 °in,0.0 °in,Mostly Cloudy,2012 April 11,94301,Palo%20Alto
+10:53 PM,54 °F,45 °F,72 °%,SE,9 °mph,0 °mph,29.95 °in,0.0 °in,Mostly Cloudy,2012 April 11,94301,Palo%20Alto
+11:53 PM,54 °F,46 °F,75 °%,ESE,5 °mph,0 °mph,29.96 °in,0.0 °in,Mostly Cloudy,2012 April 12,94301,Palo%20Alto
+12:53 AM,54 °F,46 °F,75 °%,SE,12 °mph,0 °mph,29.95 °in,0.0 °in,Cloudy,2012 April 12,94301,Palo%20Alto
+1:53 AM,54 °F,45 °F,72 °%,SE,10 °mph,22 °mph,29.93 °in,0.0 °in,Cloudy,2012 April 12,94301,Palo%20Alto
+2:53 AM,54 °F,45 °F,72 °%,SE,10 °mph,22 °mph,29.91 °in,0.0 °in,Cloudy,2012 April 12,94301,Palo%20Alto
+3:53 AM,56 °F,44 °F,64 °%,SSE,14 °mph,24 °mph,29.91 °in,0.0 °in,Cloudy,2012 April 12,94301,Palo%20Alto
+4:53 AM,52 °F,46 °F,80 °%,ESE,14 °mph,22 °mph,29.92 °in,0.1 °in,Cloudy,2012 April 12,94301,Palo%20Alto
+5:29 AM,50 °F,48 °F,94 °%,SE,12 °mph,0 °mph,29.95 °in,0.3 °in,Cloudy,2012 April 12,94301,Palo%20Alto
+5:53 AM,50 °F,47 °F,90 °%,SE,9 °mph,0 °mph,29.95 °in,0.3 °in,Cloudy,2012 April 12,94301,Palo%20Alto
+6:53 AM,49 °F,46 °F,88 °%,ESE,10 °mph,0 °mph,29.96 °in,0.0 °in,Cloudy,2012 April 12,94301,Palo%20Alto
+7:53 AM,51 °F,45 °F,81 °%,SSE,8 °mph,0 °mph,29.97 °in,0.0 °in,Mostly Cloudy,2012 April 12,94301,Palo%20Alto
+8:53 AM,53 °F,49 °F,86 °%,ESE,9 °mph,0 °mph,29.98 °in,0.0 °in,Partly Cloudy,2012 April 12,94301,Palo%20Alto
+9:53 AM,55 °F,49 °F,80 °%,SE,9 °mph,0 °mph,29.98 °in,0.0 °in,Partly Cloudy,2012 April 12,94301,Palo%20Alto
+10:53 AM,58 °F,43 °F,58 °%,SE,10 °mph,0 °mph,29.99 °in,0.0 °in,Partly Cloudy,2012 April 12,94301,Palo%20Alto
+11:53 AM,60 °F,37 °F,42 °%,SSW,9 °mph,0 °mph,29.98 °in,0.0 °in,Partly Cloudy,2012 April 12,94301,Palo%20Alto
+12:53 PM,61 °F,36 °F,39 °%,SE,9 °mph,23 °mph,29.96 °in,0.0 °in,Mostly Cloudy,2012 April 12,94301,Palo%20Alto
+1:53 PM,62 °F,34 °F,35 °%,SE,8 °mph,20 °mph,29.94 °in,0.0 °in,Mostly Cloudy,2012 April 12,94301,Palo%20Alto
+2:53 PM,62 °F,38 °F,41 °%,S,22 °mph,30 °mph,29.93 °in,0.0 °in,Mostly Cloudy / Windy,2012 April 12,94301,Palo%20Alto
+3:53 PM,62 °F,36 °F,38 °%,S,21 °mph,31 °mph,29.91 °in,0.0 °in,Cloudy / Windy,2012 April 12,94301,Palo%20Alto
+4:53 PM,59 °F,35 °F,41 °%,S,21 °mph,26 °mph,29.91 °in,0.0 °in,Cloudy / Windy,2012 April 12,94301,Palo%20Alto
+5:53 PM,56 °F,39 °F,53 °%,SE,9 °mph,17 °mph,29.90 °in,0.0 °in,Cloudy,2012 April 12,94301,Palo%20Alto
+6:53 PM,54 °F,44 °F,69 °%,SSE,8 °mph,0 °mph,29.88 °in,0.0 °in,Cloudy,2012 April 12,94301,Palo%20Alto
+7:53 PM,53 °F,45 °F,74 °%,ESE,14 °mph,0 °mph,29.85 °in,0.0 °in,Cloudy,2012 April 12,94301,Palo%20Alto
+8:53 PM,53 °F,45 °F,74 °%,SE,20 °mph,26 °mph,29.83 °in,0.1 °in,Cloudy,2012 April 12,94301,Palo%20Alto
+9:53 PM,54 °F,44 °F,69 °%,SE,12 °mph,23 °mph,29.81 °in,0.0 °in,Cloudy,2012 April 12,94301,Palo%20Alto
+10:53 PM,54 °F,44 °F,69 °%,SSE,9 °mph,0 °mph,29.79 °in,0.0 °in,Cloudy,2012 April 12,94301,Palo%20Alto
+11:42 PM,52 °F,45 °F,76 °%,SSE,6 °mph,0 °mph,29.80 °in,0.1 °in,Cloudy,2012 April 12,94301,Palo%20Alto
+11:53 PM,51 °F,44 °F,76 °%,E,6 °mph,0 °mph,29.79 °in,0.2 °in,Cloudy,2012 April 13,94301,Palo%20Alto
+12:00 AM,52 °F,45 °F,76 °%,ENE,6 °mph,0 °mph,29.79 °in,0.0 °in,Cloudy,2012 April 13,94301,Palo%20Alto
+12:11 AM,50 °F,0 °F,0 °%,E,12 °mph,0 °mph,29.79 °in,0.0 °in,Cloudy,2012 April 13,94301,Palo%20Alto
+12:20 AM,48 °F,0 °F,0 °%,E,12 °mph,0 °mph,29.78 °in,0.1 °in,Cloudy,2012 April 13,94301,Palo%20Alto
+12:29 AM,50 °F,0 °F,0 °%,E,14 °mph,0 °mph,29.78 °in,0.1 °in,Cloudy,2012 April 13,94301,Palo%20Alto
+12:46 AM,50 °F,0 °F,0 °%,ESE,17 °mph,0 °mph,29.77 °in,0.1 °in,Cloudy,2012 April 13,94301,Palo%20Alto
+12:53 AM,50 °F,0 °F,0 °%,ESE,14 °mph,24 °mph,29.75 °in,0.1 °in,Cloudy,2012 April 13,94301,Palo%20Alto
+1:53 AM,50 °F,0 °F,0 °%,ESE,17 °mph,23 °mph,29.74 °in,0.0 °in,Cloudy,2012 April 13,94301,Palo%20Alto
+2:53 AM,49 °F,0 °F,0 °%,E,14 °mph,0 °mph,29.70 °in,0.0 °in,Cloudy,2012 April 13,94301,Palo%20Alto
+3:53 AM,49 °F,0 °F,0 °%,ESE,17 °mph,0 °mph,29.68 °in,0.0 °in,Cloudy,2012 April 13,94301,Palo%20Alto
+4:53 AM,49 °F,0 °F,0 °%,SE,10 °mph,0 °mph,29.67 °in,0.0 °in,Cloudy,2012 April 13,94301,Palo%20Alto
+5:06 AM,48 °F,46 °F,93 °%,WSW,12 °mph,0 °mph,29.70 °in,0.1 °in,Cloudy,2012 April 13,94301,Palo%20Alto
+5:53 AM,47 °F,44 °F,90 °%,CALM,0 °mph,0 °mph,29.69 °in,0.2 °in,Cloudy,2012 April 13,94301,Palo%20Alto
+6:29 AM,48 °F,45 °F,87 °%,E,5 °mph,0 °mph,29.69 °in,0.0 °in,Cloudy,2012 April 13,94301,Palo%20Alto
+6:53 AM,48 °F,44 °F,86 °%,E,5 °mph,0 °mph,29.70 °in,0.0 °in,Cloudy,2012 April 13,94301,Palo%20Alto
+7:53 AM,48 °F,45 °F,89 °%,SE,7 °mph,0 °mph,29.71 °in,0.0 °in,Partly Cloudy,2012 April 13,94301,Palo%20Alto
+8:53 AM,49 °F,44 °F,83 °%,SE,5 °mph,0 °mph,29.72 °in,0.0 °in,Mostly Cloudy,2012 April 13,94301,Palo%20Alto
+9:53 AM,52 °F,44 °F,74 °%,CALM,0 °mph,0 °mph,29.72 °in,0.0 °in,Mostly Cloudy,2012 April 13,94301,Palo%20Alto
+10:53 AM,50 °F,42 °F,74 °%,NNW,6 °mph,0 °mph,29.74 °in,0.0 °in,Mostly Cloudy,2012 April 13,94301,Palo%20Alto
+11:53 AM,53 °F,42 °F,66 °%,NW,5 °mph,0 °mph,29.74 °in,0.0 °in,Mostly Cloudy,2012 April 13,94301,Palo%20Alto
+12:53 PM,53 °F,42 °F,66 °%,NW,12 °mph,0 °mph,29.74 °in,0.0 °in,Mostly Cloudy,2012 April 13,94301,Palo%20Alto
+1:53 PM,57 °F,43 °F,59 °%,WSW,15 °mph,20 °mph,29.74 °in,0.0 °in,Mostly Cloudy,2012 April 13,94301,Palo%20Alto
+2:53 PM,56 °F,40 °F,55 °%,W,18 °mph,0 °mph,29.74 °in,0.0 °in,Mostly Cloudy,2012 April 13,94301,Palo%20Alto
+3:53 PM,55 °F,39 °F,55 °%,WNW,16 °mph,0 °mph,29.75 °in,0.0 °in,Mostly Cloudy,2012 April 13,94301,Palo%20Alto
+4:53 PM,56 °F,38 °F,51 °%,W,16 °mph,25 °mph,29.76 °in,0.0 °in,Mostly Cloudy,2012 April 13,94301,Palo%20Alto
+5:53 PM,53 °F,38 °F,57 °%,WNW,17 °mph,29 °mph,29.78 °in,0.0 °in,Mostly Cloudy,2012 April 13,94301,Palo%20Alto
+6:53 PM,52 °F,37 °F,57 °%,W,16 °mph,26 °mph,29.79 °in,0.0 °in,Partly Cloudy,2012 April 13,94301,Palo%20Alto
+7:53 PM,51 °F,39 °F,63 °%,W,16 °mph,24 °mph,29.79 °in,0.0 °in,Mostly Cloudy,2012 April 13,94301,Palo%20Alto
+8:53 PM,50 °F,39 °F,66 °%,W,16 °mph,28 °mph,29.80 °in,0.0 °in,Mostly Cloudy,2012 April 13,94301,Palo%20Alto
+9:53 PM,50 °F,40 °F,68 °%,W,18 °mph,25 °mph,29.81 °in,0.0 °in,Partly Cloudy,2012 April 13,94301,Palo%20Alto
+10:53 PM,49 °F,40 °F,71 °%,W,15 °mph,0 °mph,29.81 °in,0.0 °in,Fair,2012 April 13,94301,Palo%20Alto

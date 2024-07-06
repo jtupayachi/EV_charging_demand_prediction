@@ -1,0 +1,260 @@
+Time,Temperature,Dew Point,Humidity,Wind,Wind Speed,Wind Gust,Pressure,Precip.,Condition,date_collector,postal_code,city
+11:53 PM,58 °F,52 °F,81 °%,NW,8 °mph,0 °mph,29.90 °in,0.0 °in,Fair,2012 June 13,94301,Palo%20Alto
+12:53 AM,58 °F,52 °F,81 °%,NW,8 °mph,0 °mph,29.89 °in,0.0 °in,Fair,2012 June 13,94301,Palo%20Alto
+1:53 AM,56 °F,51 °F,84 °%,NW,7 °mph,0 °mph,29.88 °in,0.0 °in,Fair,2012 June 13,94301,Palo%20Alto
+2:53 AM,56 °F,51 °F,84 °%,NNW,3 °mph,0 °mph,29.87 °in,0.0 °in,Fair,2012 June 13,94301,Palo%20Alto
+3:53 AM,55 °F,52 °F,88 °%,NW,5 °mph,0 °mph,29.87 °in,0.0 °in,Fair,2012 June 13,94301,Palo%20Alto
+4:53 AM,56 °F,51 °F,84 °%,NNW,3 °mph,0 °mph,29.85 °in,0.0 °in,Fair,2012 June 13,94301,Palo%20Alto
+5:08 AM,55 °F,52 °F,88 °%,NNW,3 °mph,0 °mph,29.85 °in,0.0 °in,Partly Cloudy,2012 June 13,94301,Palo%20Alto
+5:15 AM,55 °F,52 °F,88 °%,CALM,0 °mph,0 °mph,29.85 °in,0.0 °in,Mostly Cloudy,2012 June 13,94301,Palo%20Alto
+5:53 AM,56 °F,51 °F,84 °%,NW,3 °mph,0 °mph,29.84 °in,0.0 °in,Mostly Cloudy,2012 June 13,94301,Palo%20Alto
+6:34 AM,57 °F,52 °F,82 °%,VAR,3 °mph,0 °mph,29.85 °in,0.0 °in,Mostly Cloudy,2012 June 13,94301,Palo%20Alto
+6:53 AM,57 °F,51 °F,81 °%,SE,5 °mph,0 °mph,29.84 °in,0.0 °in,Mostly Cloudy,2012 June 13,94301,Palo%20Alto
+7:53 AM,57 °F,51 °F,81 °%,ESE,7 °mph,0 °mph,29.84 °in,0.0 °in,Mostly Cloudy,2012 June 13,94301,Palo%20Alto
+8:42 AM,57 °F,52 °F,82 °%,SE,8 °mph,0 °mph,29.84 °in,0.0 °in,Mostly Cloudy,2012 June 13,94301,Palo%20Alto
+8:53 AM,58 °F,51 °F,78 °%,E,6 °mph,0 °mph,29.84 °in,0.0 °in,Mostly Cloudy,2012 June 13,94301,Palo%20Alto
+9:08 AM,59 °F,52 °F,77 °%,SE,6 °mph,0 °mph,29.84 °in,0.0 °in,Partly Cloudy,2012 June 13,94301,Palo%20Alto
+9:53 AM,62 °F,51 °F,67 °%,E,6 °mph,0 °mph,29.83 °in,0.0 °in,Fair,2012 June 13,94301,Palo%20Alto
+10:53 AM,66 °F,51 °F,59 °%,CALM,0 °mph,0 °mph,29.81 °in,0.0 °in,Fair,2012 June 13,94301,Palo%20Alto
+11:53 AM,72 °F,51 °F,48 °%,VAR,3 °mph,0 °mph,29.80 °in,0.0 °in,Fair,2012 June 13,94301,Palo%20Alto
+12:53 PM,76 °F,51 °F,42 °%,NW,10 °mph,0 °mph,29.78 °in,0.0 °in,Fair,2012 June 13,94301,Palo%20Alto
+1:53 PM,79 °F,51 °F,38 °%,NNW,12 °mph,0 °mph,29.77 °in,0.0 °in,Fair,2012 June 13,94301,Palo%20Alto
+2:53 PM,78 °F,56 °F,46 °%,WNW,12 °mph,0 °mph,29.75 °in,0.0 °in,Fair,2012 June 13,94301,Palo%20Alto
+3:53 PM,74 °F,55 °F,52 °%,WNW,14 °mph,0 °mph,29.74 °in,0.0 °in,Fair,2012 June 13,94301,Palo%20Alto
+4:53 PM,73 °F,53 °F,49 °%,WNW,15 °mph,0 °mph,29.73 °in,0.0 °in,Fair,2012 June 13,94301,Palo%20Alto
+5:53 PM,72 °F,54 °F,53 °%,WNW,13 °mph,0 °mph,29.72 °in,0.0 °in,Fair,2012 June 13,94301,Palo%20Alto
+6:53 PM,69 °F,53 °F,57 °%,WNW,13 °mph,0 °mph,29.71 °in,0.0 °in,Fair,2012 June 13,94301,Palo%20Alto
+7:53 PM,66 °F,51 °F,59 °%,WNW,10 °mph,0 °mph,29.72 °in,0.0 °in,Fair,2012 June 13,94301,Palo%20Alto
+8:53 PM,62 °F,50 °F,65 °%,NW,8 °mph,0 °mph,29.72 °in,0.0 °in,Fair,2012 June 13,94301,Palo%20Alto
+9:53 PM,60 °F,50 °F,69 °%,WNW,8 °mph,0 °mph,29.74 °in,0.0 °in,Fair,2012 June 13,94301,Palo%20Alto
+10:53 PM,59 °F,49 °F,69 °%,NW,7 °mph,0 °mph,29.74 °in,0.0 °in,Fair,2012 June 13,94301,Palo%20Alto
+11:53 PM,59 °F,50 °F,72 °%,NW,6 °mph,0 °mph,29.74 °in,0.0 °in,Fair,2012 June 14,94301,Palo%20Alto
+12:53 AM,58 °F,50 °F,75 °%,CALM,0 °mph,0 °mph,29.74 °in,0.0 °in,Fair,2012 June 14,94301,Palo%20Alto
+1:53 AM,57 °F,50 °F,77 °%,NNW,3 °mph,0 °mph,29.74 °in,0.0 °in,Fair,2012 June 14,94301,Palo%20Alto
+2:53 AM,57 °F,50 °F,77 °%,NW,3 °mph,0 °mph,29.74 °in,0.0 °in,Fair,2012 June 14,94301,Palo%20Alto
+3:53 AM,55 °F,49 °F,80 °%,SE,10 °mph,0 °mph,29.73 °in,0.0 °in,Fair,2012 June 14,94301,Palo%20Alto
+4:53 AM,54 °F,49 °F,83 °%,SE,8 °mph,0 °mph,29.74 °in,0.0 °in,Fair,2012 June 14,94301,Palo%20Alto
+5:34 AM,54 °F,48 °F,82 °%,SE,12 °mph,0 °mph,29.75 °in,0.0 °in,Fair,2012 June 14,94301,Palo%20Alto
+5:53 AM,54 °F,49 °F,83 °%,SE,12 °mph,0 °mph,29.74 °in,0.0 °in,Fair,2012 June 14,94301,Palo%20Alto
+6:53 AM,55 °F,49 °F,80 °%,ESE,8 °mph,0 °mph,29.75 °in,0.0 °in,Fair,2012 June 14,94301,Palo%20Alto
+7:53 AM,57 °F,50 °F,77 °%,SE,8 °mph,0 °mph,29.77 °in,0.0 °in,Fair,2012 June 14,94301,Palo%20Alto
+8:53 AM,59 °F,50 °F,72 °%,ESE,5 °mph,0 °mph,29.77 °in,0.0 °in,Fair,2012 June 14,94301,Palo%20Alto
+9:53 AM,63 °F,50 °F,63 °%,VAR,5 °mph,0 °mph,29.76 °in,0.0 °in,Fair,2012 June 14,94301,Palo%20Alto
+10:53 AM,68 °F,50 °F,52 °%,CALM,0 °mph,0 °mph,29.75 °in,0.0 °in,Fair,2012 June 14,94301,Palo%20Alto
+11:53 AM,73 °F,49 °F,42 °%,NW,5 °mph,0 °mph,29.75 °in,0.0 °in,Fair,2012 June 14,94301,Palo%20Alto
+12:53 PM,78 °F,51 °F,39 °%,NW,8 °mph,0 °mph,29.74 °in,0.0 °in,Fair,2012 June 14,94301,Palo%20Alto
+1:53 PM,76 °F,54 °F,46 °%,WNW,12 °mph,0 °mph,29.74 °in,0.0 °in,Fair,2012 June 14,94301,Palo%20Alto
+2:53 PM,76 °F,53 °F,45 °%,WNW,14 °mph,0 °mph,29.73 °in,0.0 °in,Fair,2012 June 14,94301,Palo%20Alto
+3:53 PM,75 °F,53 °F,46 °%,WNW,15 °mph,0 °mph,29.72 °in,0.0 °in,Fair,2012 June 14,94301,Palo%20Alto
+4:53 PM,75 °F,50 °F,41 °%,WNW,12 °mph,0 °mph,29.72 °in,0.0 °in,Fair,2012 June 14,94301,Palo%20Alto
+5:53 PM,73 °F,50 °F,44 °%,NW,9 °mph,0 °mph,29.72 °in,0.0 °in,Fair,2012 June 14,94301,Palo%20Alto
+6:53 PM,70 °F,50 °F,49 °%,NW,13 °mph,0 °mph,29.72 °in,0.0 °in,Fair,2012 June 14,94301,Palo%20Alto
+7:53 PM,65 °F,49 °F,56 °%,NW,10 °mph,0 °mph,29.73 °in,0.0 °in,Fair,2012 June 14,94301,Palo%20Alto
+8:53 PM,62 °F,48 °F,60 °%,NW,9 °mph,0 °mph,29.75 °in,0.0 °in,Fair,2012 June 14,94301,Palo%20Alto
+9:53 PM,60 °F,48 °F,64 °%,NNW,6 °mph,0 °mph,29.76 °in,0.0 °in,Fair,2012 June 14,94301,Palo%20Alto
+10:53 PM,58 °F,47 °F,67 °%,NNW,6 °mph,0 °mph,29.77 °in,0.0 °in,Fair,2012 June 14,94301,Palo%20Alto
+11:53 PM,57 °F,46 °F,67 °%,NNW,6 °mph,0 °mph,29.76 °in,0.0 °in,Fair,2012 June 15,94301,Palo%20Alto
+12:53 AM,56 °F,46 °F,69 °%,N,5 °mph,0 °mph,29.76 °in,0.0 °in,Fair,2012 June 15,94301,Palo%20Alto
+1:53 AM,56 °F,46 °F,69 °%,CALM,0 °mph,0 °mph,29.75 °in,0.0 °in,Fair,2012 June 15,94301,Palo%20Alto
+2:53 AM,55 °F,46 °F,72 °%,E,3 °mph,0 °mph,29.75 °in,0.0 °in,Fair,2012 June 15,94301,Palo%20Alto
+3:53 AM,54 °F,47 °F,77 °%,SE,8 °mph,0 °mph,29.74 °in,0.0 °in,Fair,2012 June 15,94301,Palo%20Alto
+4:53 AM,53 °F,47 °F,80 °%,ESE,8 °mph,0 °mph,29.74 °in,0.0 °in,Fair,2012 June 15,94301,Palo%20Alto
+5:45 AM,52 °F,46 °F,82 °%,SE,9 °mph,0 °mph,29.75 °in,0.0 °in,Partly Cloudy,2012 June 15,94301,Palo%20Alto
+5:53 AM,52 °F,47 °F,83 °%,ESE,10 °mph,0 °mph,29.75 °in,0.0 °in,Partly Cloudy,2012 June 15,94301,Palo%20Alto
+6:53 AM,54 °F,48 °F,80 °%,SE,7 °mph,0 °mph,29.75 °in,0.0 °in,Partly Cloudy,2012 June 15,94301,Palo%20Alto
+7:53 AM,56 °F,47 °F,72 °%,SE,8 °mph,0 °mph,29.76 °in,0.0 °in,Fair,2012 June 15,94301,Palo%20Alto
+8:53 AM,60 °F,48 °F,64 °%,CALM,0 °mph,0 °mph,29.77 °in,0.0 °in,Fair,2012 June 15,94301,Palo%20Alto
+9:53 AM,64 °F,48 °F,56 °%,CALM,0 °mph,0 °mph,29.76 °in,0.0 °in,Partly Cloudy,2012 June 15,94301,Palo%20Alto
+10:53 AM,69 °F,47 °F,45 °%,CALM,0 °mph,0 °mph,29.75 °in,0.0 °in,Partly Cloudy,2012 June 15,94301,Palo%20Alto
+11:53 AM,74 °F,44 °F,34 °%,NW,7 °mph,0 °mph,29.74 °in,0.0 °in,Fair,2012 June 15,94301,Palo%20Alto
+12:53 PM,78 °F,43 °F,29 °%,NW,9 °mph,0 °mph,29.74 °in,0.0 °in,Fair,2012 June 15,94301,Palo%20Alto
+1:53 PM,82 °F,44 °F,26 °%,VAR,7 °mph,0 °mph,29.73 °in,0.0 °in,Fair,2012 June 15,94301,Palo%20Alto
+2:53 PM,84 °F,44 °F,25 °%,NW,6 °mph,0 °mph,29.72 °in,0.0 °in,Fair,2012 June 15,94301,Palo%20Alto
+3:53 PM,84 °F,51 °F,32 °%,WNW,14 °mph,0 °mph,29.71 °in,0.0 °in,Fair,2012 June 15,94301,Palo%20Alto
+4:53 PM,83 °F,50 °F,32 °%,WNW,13 °mph,0 °mph,29.71 °in,0.0 °in,Fair,2012 June 15,94301,Palo%20Alto
+5:53 PM,81 °F,50 °F,34 °%,WNW,12 °mph,0 °mph,29.71 °in,0.0 °in,Partly Cloudy,2012 June 15,94301,Palo%20Alto
+6:53 PM,80 °F,51 °F,36 °%,W,7 °mph,0 °mph,29.71 °in,0.0 °in,Partly Cloudy,2012 June 15,94301,Palo%20Alto
+7:53 PM,74 °F,50 °F,43 °%,WNW,8 °mph,0 °mph,29.72 °in,0.0 °in,Partly Cloudy,2012 June 15,94301,Palo%20Alto
+8:53 PM,68 °F,53 °F,59 °%,WNW,3 °mph,0 °mph,29.74 °in,0.0 °in,Partly Cloudy,2012 June 15,94301,Palo%20Alto
+9:53 PM,66 °F,54 °F,65 °%,WNW,5 °mph,0 °mph,29.76 °in,0.0 °in,Fair,2012 June 15,94301,Palo%20Alto
+10:53 PM,64 °F,55 °F,72 °%,CALM,0 °mph,0 °mph,29.77 °in,0.0 °in,Fair,2012 June 15,94301,Palo%20Alto
+11:53 PM,65 °F,48 °F,54 °%,ESE,8 °mph,0 °mph,29.76 °in,0.0 °in,Fair,2012 June 16,94301,Palo%20Alto
+12:53 AM,64 °F,47 °F,54 °%,SE,5 °mph,0 °mph,29.76 °in,0.0 °in,Fair,2012 June 16,94301,Palo%20Alto
+1:53 AM,63 °F,47 °F,56 °%,SE,9 °mph,0 °mph,29.75 °in,0.0 °in,Fair,2012 June 16,94301,Palo%20Alto
+2:53 AM,63 °F,46 °F,55 °%,SSE,6 °mph,0 °mph,29.75 °in,0.0 °in,Fair,2012 June 16,94301,Palo%20Alto
+3:53 AM,62 °F,47 °F,58 °%,SSE,3 °mph,0 °mph,29.75 °in,0.0 °in,Fair,2012 June 16,94301,Palo%20Alto
+4:53 AM,60 °F,48 °F,64 °%,ESE,3 °mph,0 °mph,29.77 °in,0.0 °in,Fair,2012 June 16,94301,Palo%20Alto
+5:53 AM,59 °F,48 °F,67 °%,ESE,5 °mph,0 °mph,29.77 °in,0.0 °in,Fair,2012 June 16,94301,Palo%20Alto
+6:53 AM,62 °F,50 °F,65 °%,SSE,3 °mph,0 °mph,29.77 °in,0.0 °in,Fair,2012 June 16,94301,Palo%20Alto
+7:53 AM,65 °F,51 °F,61 °%,CALM,0 °mph,0 °mph,29.78 °in,0.0 °in,Fair,2012 June 16,94301,Palo%20Alto
+8:53 AM,71 °F,51 °F,49 °%,CALM,0 °mph,0 °mph,29.78 °in,0.0 °in,Fair,2012 June 16,94301,Palo%20Alto
+9:53 AM,75 °F,52 °F,44 °%,CALM,0 °mph,0 °mph,29.78 °in,0.0 °in,Fair,2012 June 16,94301,Palo%20Alto
+10:53 AM,82 °F,53 °F,37 °%,CALM,0 °mph,0 °mph,29.77 °in,0.0 °in,Fair,2012 June 16,94301,Palo%20Alto
+11:53 AM,87 °F,55 °F,33 °%,CALM,0 °mph,0 °mph,29.76 °in,0.0 °in,Partly Cloudy,2012 June 16,94301,Palo%20Alto
+12:53 PM,92 °F,51 °F,25 °%,CALM,0 °mph,0 °mph,29.75 °in,0.0 °in,Partly Cloudy,2012 June 16,94301,Palo%20Alto
+1:53 PM,95 °F,48 °F,20 °%,NNW,7 °mph,0 °mph,29.73 °in,0.0 °in,Partly Cloudy,2012 June 16,94301,Palo%20Alto
+2:53 PM,96 °F,48 °F,19 °%,WNW,9 °mph,0 °mph,29.72 °in,0.0 °in,Partly Cloudy,2012 June 16,94301,Palo%20Alto
+3:53 PM,97 °F,48 °F,19 °%,WNW,13 °mph,0 °mph,29.71 °in,0.0 °in,Mostly Cloudy,2012 June 16,94301,Palo%20Alto
+4:53 PM,93 °F,52 °F,25 °%,WNW,15 °mph,0 °mph,29.70 °in,0.0 °in,Mostly Cloudy,2012 June 16,94301,Palo%20Alto
+5:53 PM,93 °F,51 °F,24 °%,WNW,14 °mph,0 °mph,29.69 °in,0.0 °in,Mostly Cloudy,2012 June 16,94301,Palo%20Alto
+6:53 PM,90 °F,50 °F,25 °%,WNW,14 °mph,0 °mph,29.69 °in,0.0 °in,Mostly Cloudy,2012 June 16,94301,Palo%20Alto
+7:53 PM,86 °F,50 °F,29 °%,W,9 °mph,0 °mph,29.70 °in,0.0 °in,Mostly Cloudy,2012 June 16,94301,Palo%20Alto
+8:53 PM,83 °F,51 °F,33 °%,SSW,3 °mph,0 °mph,29.71 °in,0.0 °in,Mostly Cloudy,2012 June 16,94301,Palo%20Alto
+9:53 PM,82 °F,48 °F,30 °%,CALM,0 °mph,0 °mph,29.72 °in,0.0 °in,Partly Cloudy,2012 June 16,94301,Palo%20Alto
+10:53 PM,80 °F,49 °F,34 °%,CALM,0 °mph,0 °mph,29.72 °in,0.0 °in,Partly Cloudy,2012 June 16,94301,Palo%20Alto
+11:53 PM,77 °F,50 °F,39 °%,SE,6 °mph,0 °mph,29.73 °in,0.0 °in,Fair,2012 June 17,94301,Palo%20Alto
+12:53 AM,74 °F,49 °F,41 °%,SE,7 °mph,0 °mph,29.72 °in,0.0 °in,Fair,2012 June 17,94301,Palo%20Alto
+1:53 AM,72 °F,49 °F,44 °%,ESE,8 °mph,0 °mph,29.71 °in,0.0 °in,Fair,2012 June 17,94301,Palo%20Alto
+2:53 AM,70 °F,49 °F,47 °%,SE,6 °mph,0 °mph,29.72 °in,0.0 °in,Fair,2012 June 17,94301,Palo%20Alto
+3:53 AM,68 °F,49 °F,50 °%,SSE,9 °mph,0 °mph,29.73 °in,0.0 °in,Fair,2012 June 17,94301,Palo%20Alto
+4:53 AM,67 °F,49 °F,52 °%,SE,13 °mph,0 °mph,29.75 °in,0.0 °in,Fair,2012 June 17,94301,Palo%20Alto
+5:53 AM,63 °F,50 °F,63 °%,ESE,13 °mph,0 °mph,29.77 °in,0.0 °in,Fair,2012 June 17,94301,Palo%20Alto
+6:53 AM,64 °F,51 °F,63 °%,SE,15 °mph,0 °mph,29.78 °in,0.0 °in,Fair,2012 June 17,94301,Palo%20Alto
+7:53 AM,67 °F,52 °F,59 °%,ESE,15 °mph,0 °mph,29.79 °in,0.0 °in,Fair,2012 June 17,94301,Palo%20Alto
+8:53 AM,71 °F,52 °F,51 °%,ESE,8 °mph,0 °mph,29.81 °in,0.0 °in,Fair,2012 June 17,94301,Palo%20Alto
+9:53 AM,76 °F,53 °F,45 °%,CALM,0 °mph,0 °mph,29.81 °in,0.0 °in,Fair,2012 June 17,94301,Palo%20Alto
+10:53 AM,81 °F,54 °F,39 °%,WNW,5 °mph,0 °mph,29.81 °in,0.0 °in,Fair,2012 June 17,94301,Palo%20Alto
+11:53 AM,81 °F,57 °F,44 °%,WNW,5 °mph,0 °mph,29.80 °in,0.0 °in,Fair,2012 June 17,94301,Palo%20Alto
+12:53 PM,86 °F,57 °F,37 °%,WNW,7 °mph,0 °mph,29.79 °in,0.0 °in,Fair,2012 June 17,94301,Palo%20Alto
+1:53 PM,83 °F,59 °F,44 °%,WNW,14 °mph,0 °mph,29.78 °in,0.0 °in,Fair,2012 June 17,94301,Palo%20Alto
+2:53 PM,80 °F,57 °F,45 °%,NW,18 °mph,0 °mph,29.78 °in,0.0 °in,Fair,2012 June 17,94301,Palo%20Alto
+3:53 PM,77 °F,57 °F,50 °%,WNW,16 °mph,0 °mph,29.78 °in,0.0 °in,Fair,2012 June 17,94301,Palo%20Alto
+4:53 PM,75 °F,57 °F,53 °%,WNW,15 °mph,0 °mph,29.78 °in,0.0 °in,Fair,2012 June 17,94301,Palo%20Alto
+5:53 PM,73 °F,57 °F,57 °%,WNW,12 °mph,0 °mph,29.79 °in,0.0 °in,Fair,2012 June 17,94301,Palo%20Alto
+6:53 PM,71 °F,57 °F,61 °%,W,13 °mph,0 °mph,29.78 °in,0.0 °in,Fair,2012 June 17,94301,Palo%20Alto
+7:53 PM,68 °F,55 °F,63 °%,WNW,13 °mph,0 °mph,29.79 °in,0.0 °in,Fair,2012 June 17,94301,Palo%20Alto
+8:53 PM,64 °F,55 °F,72 °%,WNW,10 °mph,0 °mph,29.81 °in,0.0 °in,Fair,2012 June 17,94301,Palo%20Alto
+9:53 PM,62 °F,55 °F,78 °%,WNW,7 °mph,0 °mph,29.82 °in,0.0 °in,Fair,2012 June 17,94301,Palo%20Alto
+10:53 PM,62 °F,55 °F,78 °%,CALM,0 °mph,0 °mph,29.82 °in,0.0 °in,Fair,2012 June 17,94301,Palo%20Alto
+11:53 PM,60 °F,55 °F,83 °%,WNW,6 °mph,0 °mph,29.83 °in,0.0 °in,Fair,2012 June 18,94301,Palo%20Alto
+12:53 AM,60 °F,56 °F,86 °%,CALM,0 °mph,0 °mph,29.82 °in,0.0 °in,Fair,2012 June 18,94301,Palo%20Alto
+1:53 AM,60 °F,53 °F,78 °%,E,3 °mph,0 °mph,29.82 °in,0.0 °in,Fair,2012 June 18,94301,Palo%20Alto
+2:53 AM,58 °F,54 °F,87 °%,NNW,3 °mph,0 °mph,29.82 °in,0.0 °in,Fair,2012 June 18,94301,Palo%20Alto
+3:53 AM,58 °F,54 °F,87 °%,NNW,6 °mph,0 °mph,29.83 °in,0.0 °in,Fair,2012 June 18,94301,Palo%20Alto
+4:29 AM,57 °F,55 °F,94 °%,CALM,0 °mph,0 °mph,29.84 °in,0.0 °in,Mostly Cloudy,2012 June 18,94301,Palo%20Alto
+4:53 AM,57 °F,53 °F,87 °%,ESE,7 °mph,0 °mph,29.83 °in,0.0 °in,Cloudy,2012 June 18,94301,Palo%20Alto
+5:09 AM,57 °F,52 °F,82 °%,ESE,7 °mph,0 °mph,29.84 °in,0.0 °in,Partly Cloudy,2012 June 18,94301,Palo%20Alto
+5:53 AM,56 °F,52 °F,87 °%,SSE,5 °mph,0 °mph,29.84 °in,0.0 °in,Partly Cloudy,2012 June 18,94301,Palo%20Alto
+6:40 AM,55 °F,52 °F,88 °%,ESE,6 °mph,0 °mph,29.86 °in,0.0 °in,Mostly Cloudy,2012 June 18,94301,Palo%20Alto
+6:53 AM,57 °F,52 °F,83 °%,SE,7 °mph,0 °mph,29.86 °in,0.0 °in,Mostly Cloudy,2012 June 18,94301,Palo%20Alto
+7:09 AM,57 °F,52 °F,82 °%,ESE,9 °mph,0 °mph,29.85 °in,0.0 °in,Partly Cloudy,2012 June 18,94301,Palo%20Alto
+7:53 AM,59 °F,51 °F,75 °%,ESE,13 °mph,0 °mph,29.84 °in,0.0 °in,Fair,2012 June 18,94301,Palo%20Alto
+8:53 AM,61 °F,51 °F,70 °%,CALM,0 °mph,0 °mph,29.85 °in,0.0 °in,Fair,2012 June 18,94301,Palo%20Alto
+9:53 AM,65 °F,52 °F,63 °%,VAR,3 °mph,0 °mph,29.84 °in,0.0 °in,Fair,2012 June 18,94301,Palo%20Alto
+10:53 AM,70 °F,52 °F,53 °%,VAR,3 °mph,0 °mph,29.83 °in,0.0 °in,Fair,2012 June 18,94301,Palo%20Alto
+11:53 AM,77 °F,53 °F,43 °%,VAR,5 °mph,0 °mph,29.82 °in,0.0 °in,Fair,2012 June 18,94301,Palo%20Alto
+12:53 PM,77 °F,55 °F,46 °%,WNW,9 °mph,0 °mph,29.81 °in,0.0 °in,Fair,2012 June 18,94301,Palo%20Alto
+1:53 PM,75 °F,55 °F,50 °%,WNW,12 °mph,0 °mph,29.80 °in,0.0 °in,Fair,2012 June 18,94301,Palo%20Alto
+2:53 PM,77 °F,55 °F,46 °%,W,12 °mph,0 °mph,29.79 °in,0.0 °in,Fair,2012 June 18,94301,Palo%20Alto
+3:53 PM,74 °F,54 °F,50 °%,WNW,14 °mph,0 °mph,29.78 °in,0.0 °in,Fair,2012 June 18,94301,Palo%20Alto
+4:53 PM,74 °F,50 °F,43 °%,NW,14 °mph,0 °mph,29.78 °in,0.0 °in,Fair,2012 June 18,94301,Palo%20Alto
+5:53 PM,73 °F,50 °F,44 °%,WNW,15 °mph,0 °mph,29.78 °in,0.0 °in,Fair,2012 June 18,94301,Palo%20Alto
+6:53 PM,69 °F,50 °F,51 °%,WNW,13 °mph,0 °mph,29.79 °in,0.0 °in,Fair,2012 June 18,94301,Palo%20Alto
+7:53 PM,66 °F,50 °F,56 °%,NW,8 °mph,0 °mph,29.79 °in,0.0 °in,Fair,2012 June 18,94301,Palo%20Alto
+8:53 PM,65 °F,49 °F,56 °%,NNW,5 °mph,0 °mph,29.79 °in,0.0 °in,Fair,2012 June 18,94301,Palo%20Alto
+9:53 PM,63 °F,47 °F,56 °%,CALM,0 °mph,0 °mph,29.79 °in,0.0 °in,Fair,2012 June 18,94301,Palo%20Alto
+10:53 PM,61 °F,48 °F,62 °%,SE,10 °mph,0 °mph,29.80 °in,0.0 °in,Fair,2012 June 18,94301,Palo%20Alto
+11:53 PM,58 °F,49 °F,72 °%,SE,15 °mph,0 °mph,29.79 °in,0.0 °in,Fair,2012 June 19,94301,Palo%20Alto
+12:53 AM,56 °F,49 °F,77 °%,ESE,12 °mph,0 °mph,29.79 °in,0.0 °in,Fair,2012 June 19,94301,Palo%20Alto
+1:53 AM,55 °F,48 °F,77 °%,SE,10 °mph,0 °mph,29.79 °in,0.0 °in,Fair,2012 June 19,94301,Palo%20Alto
+2:53 AM,54 °F,48 °F,82 °%,ESE,13 °mph,0 °mph,29.79 °in,0.0 °in,Fair,2012 June 19,94301,Palo%20Alto
+3:53 AM,54 °F,48 °F,80 °%,SE,10 °mph,0 °mph,29.79 °in,0.0 °in,Fair,2012 June 19,94301,Palo%20Alto
+4:53 AM,54 °F,48 °F,82 °%,SSE,7 °mph,0 °mph,29.80 °in,0.0 °in,Fair,2012 June 19,94301,Palo%20Alto
+5:30 AM,54 °F,48 °F,82 °%,ESE,12 °mph,0 °mph,29.81 °in,0.0 °in,Fair,2012 June 19,94301,Palo%20Alto
+5:53 AM,52 °F,48 °F,86 °%,SE,12 °mph,0 °mph,29.82 °in,0.0 °in,Fair,2012 June 19,94301,Palo%20Alto
+6:53 AM,54 °F,48 °F,80 °%,ESE,13 °mph,0 °mph,29.82 °in,0.0 °in,Fair,2012 June 19,94301,Palo%20Alto
+7:53 AM,56 °F,48 °F,75 °%,ESE,7 °mph,0 °mph,29.83 °in,0.0 °in,Fair,2012 June 19,94301,Palo%20Alto
+8:53 AM,59 °F,48 °F,67 °%,SSE,6 °mph,0 °mph,29.84 °in,0.0 °in,Fair,2012 June 19,94301,Palo%20Alto
+9:53 AM,64 °F,48 °F,56 °%,SSE,6 °mph,0 °mph,29.84 °in,0.0 °in,Fair,2012 June 19,94301,Palo%20Alto
+10:53 AM,68 °F,48 °F,49 °%,CALM,0 °mph,0 °mph,29.84 °in,0.0 °in,Fair,2012 June 19,94301,Palo%20Alto
+11:53 AM,73 °F,47 °F,39 °%,N,3 °mph,0 °mph,29.84 °in,0.0 °in,Fair,2012 June 19,94301,Palo%20Alto
+12:53 PM,77 °F,51 °F,40 °%,NW,8 °mph,0 °mph,29.83 °in,0.0 °in,Fair,2012 June 19,94301,Palo%20Alto
+1:53 PM,78 °F,49 °F,36 °%,NW,13 °mph,0 °mph,29.83 °in,0.0 °in,Fair,2012 June 19,94301,Palo%20Alto
+2:53 PM,78 °F,51 °F,39 °%,WNW,10 °mph,0 °mph,29.81 °in,0.0 °in,Fair,2012 June 19,94301,Palo%20Alto
+3:53 PM,80 °F,49 °F,34 °%,WNW,14 °mph,0 °mph,29.79 °in,0.0 °in,Fair,2012 June 19,94301,Palo%20Alto
+4:53 PM,81 °F,48 °F,31 °%,NW,10 °mph,0 °mph,29.77 °in,0.0 °in,Fair,2012 June 19,94301,Palo%20Alto
+5:53 PM,80 °F,52 °F,38 °%,WNW,16 °mph,0 °mph,29.76 °in,0.0 °in,Fair,2012 June 19,94301,Palo%20Alto
+6:53 PM,75 °F,51 °F,43 °%,NW,15 °mph,0 °mph,29.76 °in,0.0 °in,Fair,2012 June 19,94301,Palo%20Alto
+7:53 PM,72 °F,51 °F,48 °%,W,13 °mph,0 °mph,29.77 °in,0.0 °in,Fair,2012 June 19,94301,Palo%20Alto
+8:53 PM,68 °F,52 °F,56 °%,W,9 °mph,0 °mph,29.77 °in,0.0 °in,Fair,2012 June 19,94301,Palo%20Alto
+9:53 PM,67 °F,51 °F,57 °%,CALM,0 °mph,0 °mph,29.78 °in,0.0 °in,Fair,2012 June 19,94301,Palo%20Alto
+10:53 PM,66 °F,52 °F,60 °%,WSW,3 °mph,0 °mph,29.78 °in,0.0 °in,Fair,2012 June 19,94301,Palo%20Alto
+11:53 PM,64 °F,55 °F,72 °%,NNW,3 °mph,0 °mph,29.78 °in,0.0 °in,Fair,2012 June 20,94301,Palo%20Alto
+12:28 AM,64 °F,55 °F,73 °%,CALM,0 °mph,0 °mph,29.78 °in,0.0 °in,Fair,2012 June 20,94301,Palo%20Alto
+12:53 AM,63 °F,56 °F,78 °%,CALM,0 °mph,0 °mph,29.77 °in,0.0 °in,Fair,2012 June 20,94301,Palo%20Alto
+1:53 AM,62 °F,51 °F,67 °%,SE,6 °mph,0 °mph,29.77 °in,0.0 °in,Fair,2012 June 20,94301,Palo%20Alto
+2:53 AM,61 °F,50 °F,67 °%,SE,3 °mph,0 °mph,29.76 °in,0.0 °in,Fair,2012 June 20,94301,Palo%20Alto
+3:53 AM,60 °F,51 °F,72 °%,CALM,0 °mph,0 °mph,29.76 °in,0.0 °in,Fair,2012 June 20,94301,Palo%20Alto
+4:53 AM,59 °F,50 °F,72 °%,CALM,0 °mph,0 °mph,29.77 °in,0.0 °in,Fair,2012 June 20,94301,Palo%20Alto
+5:53 AM,59 °F,50 °F,72 °%,SE,5 °mph,0 °mph,29.77 °in,0.0 °in,Fair,2012 June 20,94301,Palo%20Alto
+6:53 AM,61 °F,51 °F,70 °%,CALM,0 °mph,0 °mph,29.78 °in,0.0 °in,Fair,2012 June 20,94301,Palo%20Alto
+7:53 AM,64 °F,51 °F,63 °%,CALM,0 °mph,0 °mph,29.78 °in,0.0 °in,Fair,2012 June 20,94301,Palo%20Alto
+8:53 AM,69 °F,52 °F,54 °%,CALM,0 °mph,0 °mph,29.78 °in,0.0 °in,Fair,2012 June 20,94301,Palo%20Alto
+9:53 AM,73 °F,52 °F,47 °%,CALM,0 °mph,0 °mph,29.77 °in,0.0 °in,Fair,2012 June 20,94301,Palo%20Alto
+10:53 AM,80 °F,52 °F,38 °%,NNW,3 °mph,0 °mph,29.77 °in,0.0 °in,Fair,2012 June 20,94301,Palo%20Alto
+11:53 AM,84 °F,49 °F,29 °%,NW,8 °mph,0 °mph,29.76 °in,0.0 °in,Fair,2012 June 20,94301,Palo%20Alto
+12:53 PM,88 °F,51 °F,28 °%,NNW,8 °mph,0 °mph,29.75 °in,0.0 °in,Fair,2012 June 20,94301,Palo%20Alto
+1:53 PM,92 °F,45 °F,20 °%,NW,9 °mph,0 °mph,29.73 °in,0.0 °in,Fair,2012 June 20,94301,Palo%20Alto
+2:53 PM,92 °F,47 °F,21 °%,WNW,14 °mph,0 °mph,29.72 °in,0.0 °in,Fair,2012 June 20,94301,Palo%20Alto
+3:53 PM,89 °F,49 °F,25 °%,NW,17 °mph,0 °mph,29.72 °in,0.0 °in,Fair,2012 June 20,94301,Palo%20Alto
+4:53 PM,87 °F,52 °F,30 °%,WNW,16 °mph,0 °mph,29.72 °in,0.0 °in,Fair,2012 June 20,94301,Palo%20Alto
+5:53 PM,82 °F,54 °F,38 °%,WNW,15 °mph,0 °mph,29.72 °in,0.0 °in,Fair,2012 June 20,94301,Palo%20Alto
+6:53 PM,77 °F,54 °F,45 °%,W,14 °mph,0 °mph,29.72 °in,0.0 °in,Fair,2012 June 20,94301,Palo%20Alto
+7:53 PM,71 °F,53 °F,53 °%,WNW,12 °mph,0 °mph,29.73 °in,0.0 °in,Fair,2012 June 20,94301,Palo%20Alto
+8:53 PM,66 °F,53 °F,63 °%,W,10 °mph,0 °mph,29.75 °in,0.0 °in,Fair,2012 June 20,94301,Palo%20Alto
+9:53 PM,63 °F,53 °F,70 °%,W,9 °mph,0 °mph,29.77 °in,0.0 °in,Fair,2012 June 20,94301,Palo%20Alto
+10:53 PM,61 °F,53 °F,75 °%,WNW,6 °mph,0 °mph,29.78 °in,0.0 °in,Fair,2012 June 20,94301,Palo%20Alto
+11:53 PM,59 °F,52 °F,78 °%,CALM,0 °mph,0 °mph,29.77 °in,0.0 °in,Fair,2012 June 21,94301,Palo%20Alto
+12:53 AM,60 °F,52 °F,75 °%,CALM,0 °mph,0 °mph,29.77 °in,0.0 °in,Fair,2012 June 21,94301,Palo%20Alto
+1:53 AM,58 °F,53 °F,84 °%,WNW,6 °mph,0 °mph,29.76 °in,0.0 °in,Fair,2012 June 21,94301,Palo%20Alto
+2:53 AM,58 °F,53 °F,84 °%,NNW,7 °mph,0 °mph,29.77 °in,0.0 °in,Fair,2012 June 21,94301,Palo%20Alto
+3:53 AM,57 °F,52 °F,83 °%,WNW,5 °mph,0 °mph,29.79 °in,0.0 °in,Fair,2012 June 21,94301,Palo%20Alto
+4:53 AM,56 °F,50 °F,80 °%,SE,6 °mph,0 °mph,29.79 °in,0.0 °in,Fair,2012 June 21,94301,Palo%20Alto
+5:33 AM,55 °F,50 °F,82 °%,ESE,8 °mph,0 °mph,29.80 °in,0.0 °in,Fair,2012 June 21,94301,Palo%20Alto
+5:53 AM,55 °F,50 °F,83 °%,SE,8 °mph,0 °mph,29.80 °in,0.0 °in,Fair,2012 June 21,94301,Palo%20Alto
+6:53 AM,56 °F,51 °F,84 °%,ESE,8 °mph,0 °mph,29.82 °in,0.0 °in,Partly Cloudy,2012 June 21,94301,Palo%20Alto
+7:06 AM,55 °F,52 °F,88 °%,SE,8 °mph,0 °mph,29.83 °in,0.0 °in,Mostly Cloudy,2012 June 21,94301,Palo%20Alto
+7:53 AM,57 °F,51 °F,81 °%,ESE,6 °mph,0 °mph,29.84 °in,0.0 °in,Cloudy,2012 June 21,94301,Palo%20Alto
+8:53 AM,58 °F,51 °F,78 °%,VAR,3 °mph,0 °mph,29.86 °in,0.0 °in,Mostly Cloudy,2012 June 21,94301,Palo%20Alto
+9:53 AM,61 °F,51 °F,70 °%,CALM,0 °mph,0 °mph,29.86 °in,0.0 °in,Mostly Cloudy,2012 June 21,94301,Palo%20Alto
+10:53 AM,64 °F,51 °F,63 °%,NW,12 °mph,0 °mph,29.87 °in,0.0 °in,Mostly Cloudy,2012 June 21,94301,Palo%20Alto
+11:41 AM,64 °F,50 °F,59 °%,WNW,14 °mph,0 °mph,29.89 °in,0.0 °in,Partly Cloudy,2012 June 21,94301,Palo%20Alto
+11:53 AM,65 °F,50 °F,58 °%,NW,14 °mph,0 °mph,29.89 °in,0.0 °in,Partly Cloudy,2012 June 21,94301,Palo%20Alto
+12:53 PM,65 °F,50 °F,58 °%,WNW,13 °mph,0 °mph,29.89 °in,0.0 °in,Fair,2012 June 21,94301,Palo%20Alto
+1:53 PM,67 °F,50 °F,54 °%,NNW,15 °mph,23 °mph,29.89 °in,0.0 °in,Fair,2012 June 21,94301,Palo%20Alto
+2:53 PM,66 °F,49 °F,54 °%,NW,15 °mph,24 °mph,29.89 °in,0.0 °in,Fair,2012 June 21,94301,Palo%20Alto
+3:53 PM,66 °F,50 °F,56 °%,NW,15 °mph,0 °mph,29.88 °in,0.0 °in,Fair,2012 June 21,94301,Palo%20Alto
+4:53 PM,66 °F,50 °F,56 °%,WNW,14 °mph,0 °mph,29.88 °in,0.0 °in,Fair,2012 June 21,94301,Palo%20Alto
+5:53 PM,65 °F,50 °F,58 °%,NW,15 °mph,0 °mph,29.88 °in,0.0 °in,Fair,2012 June 21,94301,Palo%20Alto
+6:53 PM,63 °F,50 °F,63 °%,NW,18 °mph,0 °mph,29.89 °in,0.0 °in,Fair,2012 June 21,94301,Palo%20Alto
+7:53 PM,60 °F,49 °F,67 °%,NW,14 °mph,0 °mph,29.91 °in,0.0 °in,Fair,2012 June 21,94301,Palo%20Alto
+8:53 PM,57 °F,49 °F,74 °%,NW,14 °mph,0 °mph,29.92 °in,0.0 °in,Fair,2012 June 21,94301,Palo%20Alto
+9:53 PM,57 °F,48 °F,72 °%,NW,12 °mph,0 °mph,29.93 °in,0.0 °in,Fair,2012 June 21,94301,Palo%20Alto
+10:53 PM,54 °F,47 °F,77 °%,WNW,7 °mph,0 °mph,29.93 °in,0.0 °in,Fair,2012 June 21,94301,Palo%20Alto
+11:53 PM,53 °F,47 °F,80 °%,WNW,6 °mph,0 °mph,29.91 °in,0.0 °in,Fair,2012 June 22,94301,Palo%20Alto
+12:53 AM,53 °F,46 °F,77 °%,WNW,5 °mph,0 °mph,29.90 °in,0.0 °in,Fair,2012 June 22,94301,Palo%20Alto
+1:53 AM,52 °F,46 °F,80 °%,WNW,3 °mph,0 °mph,29.89 °in,0.0 °in,Fair,2012 June 22,94301,Palo%20Alto
+2:39 AM,54 °F,46 °F,77 °%,W,3 °mph,0 °mph,29.90 °in,0.0 °in,Mostly Cloudy,2012 June 22,94301,Palo%20Alto
+2:53 AM,54 °F,47 °F,77 °%,CALM,0 °mph,0 °mph,29.89 °in,0.0 °in,Cloudy,2012 June 22,94301,Palo%20Alto
+3:53 AM,54 °F,47 °F,77 °%,CALM,0 °mph,0 °mph,29.89 °in,0.0 °in,Cloudy,2012 June 22,94301,Palo%20Alto
+4:53 AM,55 °F,47 °F,74 °%,CALM,0 °mph,0 °mph,29.88 °in,0.0 °in,Cloudy,2012 June 22,94301,Palo%20Alto
+5:37 AM,55 °F,46 °F,72 °%,CALM,0 °mph,0 °mph,29.90 °in,0.0 °in,Cloudy,2012 June 22,94301,Palo%20Alto
+5:53 AM,55 °F,47 °F,74 °%,CALM,0 °mph,0 °mph,29.90 °in,0.0 °in,Cloudy,2012 June 22,94301,Palo%20Alto
+6:53 AM,56 °F,47 °F,72 °%,CALM,0 °mph,0 °mph,29.91 °in,0.0 °in,Cloudy,2012 June 22,94301,Palo%20Alto
+7:53 AM,56 °F,47 °F,72 °%,W,3 °mph,0 °mph,29.90 °in,0.0 °in,Cloudy,2012 June 22,94301,Palo%20Alto
+8:53 AM,58 °F,47 °F,67 °%,CALM,0 °mph,0 °mph,29.91 °in,0.0 °in,Partly Cloudy,2012 June 22,94301,Palo%20Alto
+9:53 AM,62 °F,47 °F,58 °%,VAR,5 °mph,0 °mph,29.89 °in,0.0 °in,Fair,2012 June 22,94301,Palo%20Alto
+10:53 AM,65 °F,47 °F,52 °%,VAR,3 °mph,0 °mph,29.89 °in,0.0 °in,Fair,2012 June 22,94301,Palo%20Alto
+11:53 AM,66 °F,48 °F,52 °%,NW,9 °mph,0 °mph,29.89 °in,0.0 °in,Fair,2012 June 22,94301,Palo%20Alto
+12:53 PM,67 °F,51 °F,57 °%,WNW,12 °mph,23 °mph,29.90 °in,0.0 °in,Partly Cloudy,2012 June 22,94301,Palo%20Alto
+1:53 PM,68 °F,51 °F,55 °%,WNW,13 °mph,0 °mph,29.89 °in,0.0 °in,Partly Cloudy,2012 June 22,94301,Palo%20Alto
+2:53 PM,69 °F,50 °F,51 °%,WNW,9 °mph,20 °mph,29.89 °in,0.0 °in,Partly Cloudy,2012 June 22,94301,Palo%20Alto
+3:53 PM,72 °F,51 °F,48 °%,W,12 °mph,0 °mph,29.87 °in,0.0 °in,Partly Cloudy,2012 June 22,94301,Palo%20Alto
+4:53 PM,73 °F,51 °F,46 °%,WNW,12 °mph,0 °mph,29.85 °in,0.0 °in,Partly Cloudy,2012 June 22,94301,Palo%20Alto
+5:53 PM,72 °F,52 °F,49 °%,WNW,13 °mph,0 °mph,29.83 °in,0.0 °in,Partly Cloudy,2012 June 22,94301,Palo%20Alto
+6:41 PM,70 °F,54 °F,56 °%,NW,16 °mph,0 °mph,29.84 °in,0.0 °in,Mostly Cloudy,2012 June 22,94301,Palo%20Alto
+6:53 PM,68 °F,53 °F,59 °%,NW,17 °mph,0 °mph,29.83 °in,0.0 °in,Mostly Cloudy,2012 June 22,94301,Palo%20Alto
+7:53 PM,67 °F,53 °F,61 °%,NNW,14 °mph,0 °mph,29.82 °in,0.0 °in,Mostly Cloudy,2012 June 22,94301,Palo%20Alto
+8:53 PM,64 °F,54 °F,70 °%,NW,12 °mph,0 °mph,29.82 °in,0.0 °in,Partly Cloudy,2012 June 22,94301,Palo%20Alto
+9:53 PM,62 °F,55 °F,78 °%,NNW,7 °mph,0 °mph,29.82 °in,0.0 °in,Partly Cloudy,2012 June 22,94301,Palo%20Alto
+10:53 PM,62 °F,55 °F,78 °%,NW,8 °mph,0 °mph,29.81 °in,0.0 °in,Mostly Cloudy,2012 June 22,94301,Palo%20Alto

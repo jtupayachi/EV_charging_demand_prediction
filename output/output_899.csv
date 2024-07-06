@@ -1,0 +1,271 @@
+Time,Temperature,Dew Point,Humidity,Wind,Wind Speed,Wind Gust,Pressure,Precip.,Condition,date_collector,postal_code,city
+12:53 AM,48 °F,35 °F,61 °%,E,5 °mph,0 °mph,29.93 °in,0.0 °in,Fair,2014 January 04,94301,Palo%20Alto
+1:53 AM,47 °F,35 °F,63 °%,CALM,0 °mph,0 °mph,29.92 °in,0.0 °in,Fair,2014 January 04,94301,Palo%20Alto
+2:53 AM,45 °F,36 °F,71 °%,W,5 °mph,0 °mph,29.93 °in,0.0 °in,Fair,2014 January 04,94301,Palo%20Alto
+3:53 AM,41 °F,35 °F,79 °%,SE,5 °mph,0 °mph,29.93 °in,0.0 °in,Fair,2014 January 04,94301,Palo%20Alto
+4:53 AM,42 °F,36 °F,79 °%,CALM,0 °mph,0 °mph,29.94 °in,0.0 °in,Fair,2014 January 04,94301,Palo%20Alto
+5:53 AM,42 °F,37 °F,82 °%,CALM,0 °mph,0 °mph,29.94 °in,0.0 °in,Fair,2014 January 04,94301,Palo%20Alto
+6:33 AM,39 °F,36 °F,87 °%,CALM,0 °mph,0 °mph,29.94 °in,0.0 °in,Fair,2014 January 04,94301,Palo%20Alto
+6:53 AM,42 °F,36 °F,79 °%,NE,3 °mph,0 °mph,29.94 °in,0.0 °in,Fair,2014 January 04,94301,Palo%20Alto
+7:53 AM,41 °F,35 °F,79 °%,SSE,3 °mph,0 °mph,29.94 °in,0.0 °in,Fair,2014 January 04,94301,Palo%20Alto
+8:53 AM,41 °F,36 °F,82 °%,CALM,0 °mph,0 °mph,29.96 °in,0.0 °in,Fair,2014 January 04,94301,Palo%20Alto
+9:53 AM,46 °F,37 °F,71 °%,CALM,0 °mph,0 °mph,29.98 °in,0.0 °in,Fair,2014 January 04,94301,Palo%20Alto
+10:53 AM,50 °F,39 °F,66 °%,CALM,0 °mph,0 °mph,30.00 °in,0.0 °in,Fair,2014 January 04,94301,Palo%20Alto
+11:53 AM,53 °F,44 °F,71 °%,WNW,3 °mph,0 °mph,29.99 °in,0.0 °in,Fair,2014 January 04,94301,Palo%20Alto
+12:53 PM,57 °F,43 °F,59 °%,NW,5 °mph,0 °mph,29.96 °in,0.0 °in,Fair,2014 January 04,94301,Palo%20Alto
+1:53 PM,60 °F,40 °F,47 °%,W,3 °mph,0 °mph,29.94 °in,0.0 °in,Fair,2014 January 04,94301,Palo%20Alto
+2:53 PM,63 °F,38 °F,40 °%,SSW,3 °mph,0 °mph,29.93 °in,0.0 °in,Fair,2014 January 04,94301,Palo%20Alto
+3:53 PM,66 °F,35 °F,32 °%,W,5 °mph,0 °mph,29.92 °in,0.0 °in,Fair,2014 January 04,94301,Palo%20Alto
+4:53 PM,65 °F,37 °F,36 °%,WNW,5 °mph,0 °mph,29.92 °in,0.0 °in,Fair,2014 January 04,94301,Palo%20Alto
+5:53 PM,62 °F,36 °F,38 °%,WSW,6 °mph,0 °mph,29.93 °in,0.0 °in,Fair,2014 January 04,94301,Palo%20Alto
+6:53 PM,60 °F,30 °F,32 °%,SW,3 °mph,0 °mph,29.94 °in,0.0 °in,Fair,2014 January 04,94301,Palo%20Alto
+7:53 PM,57 °F,29 °F,34 °%,SW,6 °mph,0 °mph,29.96 °in,0.0 °in,Fair,2014 January 04,94301,Palo%20Alto
+8:53 PM,53 °F,29 °F,40 °%,CALM,0 °mph,0 °mph,29.97 °in,0.0 °in,Fair,2014 January 04,94301,Palo%20Alto
+9:53 PM,49 °F,35 °F,59 °%,CALM,0 °mph,0 °mph,29.98 °in,0.0 °in,Fair,2014 January 04,94301,Palo%20Alto
+10:53 PM,46 °F,33 °F,61 °%,ESE,5 °mph,0 °mph,30.00 °in,0.0 °in,Fair,2014 January 04,94301,Palo%20Alto
+11:53 PM,47 °F,33 °F,59 °%,E,3 °mph,0 °mph,30.01 °in,0.0 °in,Fair,2014 January 04,94301,Palo%20Alto
+12:53 AM,45 °F,29 °F,53 °%,SE,3 °mph,0 °mph,30.02 °in,0.0 °in,Fair,2014 January 05,94301,Palo%20Alto
+1:53 AM,43 °F,0 °F,65 °%,CALM,0 °mph,0 °mph,30.02 °in,0.0 °in,Fair,2014 January 05,94301,Palo%20Alto
+2:53 AM,42 °F,29 °F,60 °%,CALM,0 °mph,0 °mph,30.03 °in,0.0 °in,Fair,2014 January 05,94301,Palo%20Alto
+3:53 AM,38 °F,29 °F,70 °%,CALM,0 °mph,0 °mph,30.05 °in,0.0 °in,Fair,2014 January 05,94301,Palo%20Alto
+4:53 AM,39 °F,29 °F,67 °%,E,3 °mph,0 °mph,30.05 °in,0.0 °in,Fair,2014 January 05,94301,Palo%20Alto
+5:53 AM,38 °F,28 °F,68 °%,CALM,0 °mph,0 °mph,30.05 °in,0.0 °in,Fair,2014 January 05,94301,Palo%20Alto
+6:53 AM,37 °F,27 °F,67 °%,CALM,0 °mph,0 °mph,30.06 °in,0.0 °in,Fair,2014 January 05,94301,Palo%20Alto
+7:53 AM,35 °F,26 °F,70 °%,CALM,0 °mph,0 °mph,30.08 °in,0.0 °in,Fair,2014 January 05,94301,Palo%20Alto
+8:53 AM,37 °F,26 °F,65 °%,CALM,0 °mph,0 °mph,30.11 °in,0.0 °in,Fair,2014 January 05,94301,Palo%20Alto
+9:53 AM,43 °F,25 °F,49 °%,CALM,0 °mph,0 °mph,30.13 °in,0.0 °in,Fair,2014 January 05,94301,Palo%20Alto
+10:53 AM,49 °F,25 °F,39 °%,CALM,0 °mph,0 °mph,30.15 °in,0.0 °in,Fair,2014 January 05,94301,Palo%20Alto
+11:53 AM,54 °F,23 °F,30 °%,CALM,0 °mph,0 °mph,30.14 °in,0.0 °in,Fair,2014 January 05,94301,Palo%20Alto
+12:53 PM,59 °F,23 °F,25 °%,CALM,0 °mph,0 °mph,30.11 °in,0.0 °in,Fair,2014 January 05,94301,Palo%20Alto
+1:53 PM,62 °F,24 °F,23 °%,CALM,0 °mph,0 °mph,30.09 °in,0.0 °in,Fair,2014 January 05,94301,Palo%20Alto
+2:53 PM,64 °F,22 °F,20 °%,CALM,0 °mph,0 °mph,30.07 °in,0.0 °in,Fair,2014 January 05,94301,Palo%20Alto
+3:53 PM,65 °F,26 °F,23 °%,CALM,0 °mph,0 °mph,30.07 °in,0.0 °in,Fair,2014 January 05,94301,Palo%20Alto
+4:53 PM,66 °F,27 °F,23 °%,CALM,0 °mph,0 °mph,30.07 °in,0.0 °in,Fair,2014 January 05,94301,Palo%20Alto
+5:53 PM,62 °F,30 °F,30 °%,NW,5 °mph,0 °mph,30.07 °in,0.0 °in,Fair,2014 January 05,94301,Palo%20Alto
+6:53 PM,58 °F,31 °F,36 °%,CALM,0 °mph,0 °mph,30.08 °in,0.0 °in,Fair,2014 January 05,94301,Palo%20Alto
+7:53 PM,56 °F,0 °F,40 °%,S,3 °mph,0 °mph,30.10 °in,0.0 °in,Fair,2014 January 05,94301,Palo%20Alto
+8:53 PM,53 °F,33 °F,47 °%,SSE,3 °mph,0 °mph,30.11 °in,0.0 °in,Fair,2014 January 05,94301,Palo%20Alto
+9:53 PM,48 °F,0 °F,54 °%,ESE,3 °mph,0 °mph,30.12 °in,0.0 °in,Fair,2014 January 05,94301,Palo%20Alto
+10:53 PM,50 °F,30 °F,46 °%,SE,5 °mph,0 °mph,30.13 °in,0.0 °in,Fair,2014 January 05,94301,Palo%20Alto
+11:53 PM,46 °F,30 °F,54 °%,E,3 °mph,0 °mph,30.14 °in,0.0 °in,Fair,2014 January 05,94301,Palo%20Alto
+12:53 AM,46 °F,30 °F,54 °%,CALM,0 °mph,0 °mph,30.13 °in,0.0 °in,Fair,2014 January 06,94301,Palo%20Alto
+1:53 AM,44 °F,30 °F,58 °%,CALM,0 °mph,0 °mph,30.13 °in,0.0 °in,Fair,2014 January 06,94301,Palo%20Alto
+2:53 AM,41 °F,30 °F,65 °%,CALM,0 °mph,0 °mph,30.15 °in,0.0 °in,Fair,2014 January 06,94301,Palo%20Alto
+3:53 AM,41 °F,31 °F,67 °%,CALM,0 °mph,0 °mph,30.16 °in,0.0 °in,Fair,2014 January 06,94301,Palo%20Alto
+4:53 AM,40 °F,31 °F,70 °%,CALM,0 °mph,0 °mph,30.15 °in,0.0 °in,Fair,2014 January 06,94301,Palo%20Alto
+5:53 AM,40 °F,31 °F,70 °%,CALM,0 °mph,0 °mph,30.15 °in,0.0 °in,Fair,2014 January 06,94301,Palo%20Alto
+6:53 AM,40 °F,31 °F,70 °%,CALM,0 °mph,0 °mph,30.16 °in,0.0 °in,Fair,2014 January 06,94301,Palo%20Alto
+7:53 AM,40 °F,31 °F,70 °%,CALM,0 °mph,0 °mph,30.17 °in,0.0 °in,Mostly Cloudy,2014 January 06,94301,Palo%20Alto
+8:53 AM,43 °F,31 °F,62 °%,CALM,0 °mph,0 °mph,30.19 °in,0.0 °in,Cloudy,2014 January 06,94301,Palo%20Alto
+9:53 AM,45 °F,0 °F,60 °%,CALM,0 °mph,0 °mph,30.22 °in,0.0 °in,Cloudy,2014 January 06,94301,Palo%20Alto
+10:53 AM,49 °F,34 °F,56 °%,CALM,0 °mph,0 °mph,30.22 °in,0.0 °in,Cloudy,2014 January 06,94301,Palo%20Alto
+11:53 AM,51 °F,36 °F,56 °%,CALM,0 °mph,0 °mph,30.22 °in,0.0 °in,Cloudy,2014 January 06,94301,Palo%20Alto
+12:53 PM,53 °F,35 °F,50 °%,ESE,3 °mph,0 °mph,30.18 °in,0.0 °in,Cloudy,2014 January 06,94301,Palo%20Alto
+1:53 PM,55 °F,36 °F,49 °%,CALM,0 °mph,0 °mph,30.15 °in,0.0 °in,Mostly Cloudy,2014 January 06,94301,Palo%20Alto
+2:53 PM,58 °F,34 °F,41 °%,CALM,0 °mph,0 °mph,30.11 °in,0.0 °in,Mostly Cloudy,2014 January 06,94301,Palo%20Alto
+3:53 PM,61 °F,33 °F,35 °%,W,6 °mph,0 °mph,30.11 °in,0.0 °in,Mostly Cloudy,2014 January 06,94301,Palo%20Alto
+4:53 PM,60 °F,35 °F,39 °%,WNW,6 °mph,0 °mph,30.10 °in,0.0 °in,Mostly Cloudy,2014 January 06,94301,Palo%20Alto
+5:53 PM,57 °F,37 °F,47 °%,CALM,0 °mph,0 °mph,30.10 °in,0.0 °in,Mostly Cloudy,2014 January 06,94301,Palo%20Alto
+6:53 PM,56 °F,35 °F,45 °%,NW,3 °mph,0 °mph,30.11 °in,0.0 °in,Cloudy,2014 January 06,94301,Palo%20Alto
+7:53 PM,55 °F,35 °F,47 °%,WNW,8 °mph,0 °mph,30.12 °in,0.0 °in,Cloudy,2014 January 06,94301,Palo%20Alto
+8:53 PM,54 °F,37 °F,53 °%,W,3 °mph,0 °mph,30.14 °in,0.0 °in,Cloudy,2014 January 06,94301,Palo%20Alto
+9:53 PM,53 °F,37 °F,55 °%,CALM,0 °mph,0 °mph,30.15 °in,0.0 °in,Mostly Cloudy,2014 January 06,94301,Palo%20Alto
+10:53 PM,53 °F,37 °F,55 °%,SE,5 °mph,0 °mph,30.13 °in,0.0 °in,Mostly Cloudy,2014 January 06,94301,Palo%20Alto
+11:53 PM,51 °F,36 °F,56 °%,CALM,0 °mph,0 °mph,30.12 °in,0.0 °in,Mostly Cloudy,2014 January 06,94301,Palo%20Alto
+12:53 AM,52 °F,37 °F,57 °%,CALM,0 °mph,0 °mph,30.10 °in,0.0 °in,Mostly Cloudy,2014 January 07,94301,Palo%20Alto
+1:53 AM,49 °F,37 °F,64 °%,CALM,0 °mph,0 °mph,30.12 °in,0.0 °in,Fair,2014 January 07,94301,Palo%20Alto
+2:53 AM,48 °F,39 °F,71 °%,CALM,0 °mph,0 °mph,30.13 °in,0.0 °in,Fair,2014 January 07,94301,Palo%20Alto
+3:53 AM,47 °F,38 °F,71 °%,E,3 °mph,0 °mph,30.12 °in,0.0 °in,Fair,2014 January 07,94301,Palo%20Alto
+4:53 AM,47 °F,38 °F,71 °%,CALM,0 °mph,0 °mph,30.12 °in,0.0 °in,Fair,2014 January 07,94301,Palo%20Alto
+5:53 AM,45 °F,37 °F,74 °%,SE,5 °mph,0 °mph,30.10 °in,0.0 °in,Fair,2014 January 07,94301,Palo%20Alto
+6:53 AM,45 °F,37 °F,74 °%,CALM,0 °mph,0 °mph,30.10 °in,0.0 °in,Fair,2014 January 07,94301,Palo%20Alto
+7:53 AM,45 °F,37 °F,74 °%,CALM,0 °mph,0 °mph,30.11 °in,0.0 °in,Mostly Cloudy,2014 January 07,94301,Palo%20Alto
+8:53 AM,46 °F,37 °F,71 °%,SSE,3 °mph,0 °mph,30.11 °in,0.0 °in,Cloudy,2014 January 07,94301,Palo%20Alto
+9:53 AM,49 °F,36 °F,61 °%,ESE,6 °mph,0 °mph,30.12 °in,0.0 °in,Cloudy,2014 January 07,94301,Palo%20Alto
+10:53 AM,51 °F,35 °F,54 °%,SSW,3 °mph,0 °mph,30.12 °in,0.0 °in,Cloudy,2014 January 07,94301,Palo%20Alto
+11:53 AM,54 °F,39 °F,57 °%,NW,9 °mph,0 °mph,30.15 °in,0.0 °in,Cloudy,2014 January 07,94301,Palo%20Alto
+12:53 PM,56 °F,39 °F,53 °%,NW,6 °mph,0 °mph,30.13 °in,0.0 °in,Cloudy,2014 January 07,94301,Palo%20Alto
+1:53 PM,57 °F,38 °F,49 °%,CALM,0 °mph,0 °mph,30.10 °in,0.0 °in,Mostly Cloudy,2014 January 07,94301,Palo%20Alto
+2:53 PM,60 °F,37 °F,42 °%,WSW,3 °mph,0 °mph,30.08 °in,0.0 °in,Mostly Cloudy,2014 January 07,94301,Palo%20Alto
+3:53 PM,62 °F,35 °F,37 °%,W,5 °mph,0 °mph,30.07 °in,0.0 °in,Partly Cloudy,2014 January 07,94301,Palo%20Alto
+4:53 PM,61 °F,36 °F,39 °%,WNW,9 °mph,0 °mph,30.08 °in,0.0 °in,Partly Cloudy,2014 January 07,94301,Palo%20Alto
+5:53 PM,57 °F,40 °F,53 °%,WNW,8 °mph,0 °mph,30.09 °in,0.0 °in,Partly Cloudy,2014 January 07,94301,Palo%20Alto
+6:53 PM,55 °F,41 °F,59 °%,W,6 °mph,0 °mph,30.08 °in,0.0 °in,Fair,2014 January 07,94301,Palo%20Alto
+7:53 PM,54 °F,41 °F,62 °%,CALM,0 °mph,0 °mph,30.07 °in,0.0 °in,Fair,2014 January 07,94301,Palo%20Alto
+8:53 PM,52 °F,41 °F,66 °%,CALM,0 °mph,0 °mph,30.09 °in,0.0 °in,Fair,2014 January 07,94301,Palo%20Alto
+9:53 PM,50 °F,41 °F,71 °%,CALM,0 °mph,0 °mph,30.12 °in,0.0 °in,Fair,2014 January 07,94301,Palo%20Alto
+10:44 PM,48 °F,39 °F,71 °%,SSW,3 °mph,0 °mph,30.14 °in,0.0 °in,Mostly Cloudy,2014 January 07,94301,Palo%20Alto
+10:53 PM,49 °F,40 °F,71 °%,CALM,0 °mph,0 °mph,30.14 °in,0.0 °in,Mostly Cloudy,2014 January 07,94301,Palo%20Alto
+11:53 PM,50 °F,44 °F,80 °%,CALM,0 °mph,0 °mph,30.15 °in,0.0 °in,Mostly Cloudy,2014 January 07,94301,Palo%20Alto
+12:53 AM,50 °F,42 °F,74 °%,S,3 °mph,0 °mph,30.15 °in,0.0 °in,Mostly Cloudy,2014 January 08,94301,Palo%20Alto
+1:29 AM,50 °F,43 °F,76 °%,S,3 °mph,0 °mph,30.14 °in,0.0 °in,Cloudy,2014 January 08,94301,Palo%20Alto
+1:53 AM,50 °F,43 °F,77 °%,CALM,0 °mph,0 °mph,30.14 °in,0.0 °in,Cloudy,2014 January 08,94301,Palo%20Alto
+2:25 AM,52 °F,43 °F,71 °%,CALM,0 °mph,0 °mph,30.14 °in,0.0 °in,Cloudy,2014 January 08,94301,Palo%20Alto
+2:53 AM,51 °F,43 °F,74 °%,CALM,0 °mph,0 °mph,30.13 °in,0.0 °in,Cloudy,2014 January 08,94301,Palo%20Alto
+3:21 AM,52 °F,45 °F,76 °%,CALM,0 °mph,0 °mph,30.13 °in,0.0 °in,Cloudy,2014 January 08,94301,Palo%20Alto
+3:53 AM,51 °F,43 °F,74 °%,ENE,3 °mph,0 °mph,30.13 °in,0.0 °in,Cloudy,2014 January 08,94301,Palo%20Alto
+4:04 AM,50 °F,43 °F,76 °%,ENE,3 °mph,0 °mph,30.13 °in,0.0 °in,Cloudy,2014 January 08,94301,Palo%20Alto
+4:53 AM,51 °F,44 °F,77 °%,CALM,0 °mph,0 °mph,30.12 °in,0.0 °in,Cloudy,2014 January 08,94301,Palo%20Alto
+5:21 AM,50 °F,45 °F,82 °%,CALM,0 °mph,0 °mph,30.13 °in,0.0 °in,Cloudy,2014 January 08,94301,Palo%20Alto
+5:38 AM,50 °F,45 °F,82 °%,SW,3 °mph,0 °mph,30.13 °in,0.0 °in,Cloudy,2014 January 08,94301,Palo%20Alto
+5:53 AM,50 °F,45 °F,83 °%,CALM,0 °mph,0 °mph,30.13 °in,0.0 °in,Cloudy,2014 January 08,94301,Palo%20Alto
+6:08 AM,50 °F,46 °F,87 °%,CALM,0 °mph,0 °mph,30.14 °in,0.0 °in,Cloudy,2014 January 08,94301,Palo%20Alto
+6:48 AM,50 °F,48 °F,94 °%,CALM,0 °mph,0 °mph,30.14 °in,0.0 °in,Cloudy,2014 January 08,94301,Palo%20Alto
+6:53 AM,50 °F,48 °F,93 °%,CALM,0 °mph,0 °mph,30.13 °in,0.0 °in,Cloudy,2014 January 08,94301,Palo%20Alto
+7:44 AM,52 °F,48 °F,88 °%,NNW,5 °mph,0 °mph,30.16 °in,0.0 °in,Cloudy,2014 January 08,94301,Palo%20Alto
+7:53 AM,51 °F,50 °F,96 °%,NNW,6 °mph,0 °mph,30.15 °in,0.0 °in,Cloudy,2014 January 08,94301,Palo%20Alto
+8:19 AM,52 °F,50 °F,94 °%,WNW,5 °mph,0 °mph,30.15 °in,0.0 °in,Cloudy,2014 January 08,94301,Palo%20Alto
+8:53 AM,52 °F,50 °F,93 °%,WNW,3 °mph,0 °mph,30.15 °in,0.0 °in,Mostly Cloudy,2014 January 08,94301,Palo%20Alto
+9:00 AM,52 °F,50 °F,94 °%,CALM,0 °mph,0 °mph,30.15 °in,0.0 °in,Mostly Cloudy,2014 January 08,94301,Palo%20Alto
+9:53 AM,52 °F,50 °F,93 °%,CALM,0 °mph,0 °mph,30.16 °in,0.0 °in,Mostly Cloudy,2014 January 08,94301,Palo%20Alto
+9:59 AM,54 °F,48 °F,82 °%,VAR,3 °mph,0 °mph,30.16 °in,0.0 °in,Mostly Cloudy,2014 January 08,94301,Palo%20Alto
+10:53 AM,53 °F,49 °F,86 °%,WNW,3 °mph,0 °mph,30.17 °in,0.0 °in,Cloudy,2014 January 08,94301,Palo%20Alto
+11:40 AM,54 °F,48 °F,82 °%,WNW,3 °mph,0 °mph,30.17 °in,0.0 °in,Cloudy,2014 January 08,94301,Palo%20Alto
+11:53 AM,54 °F,49 °F,83 °%,NW,5 °mph,0 °mph,30.17 °in,0.0 °in,Cloudy,2014 January 08,94301,Palo%20Alto
+12:49 PM,55 °F,46 °F,72 °%,WNW,8 °mph,0 °mph,30.16 °in,0.0 °in,Cloudy,2014 January 08,94301,Palo%20Alto
+12:53 PM,56 °F,47 °F,72 °%,WNW,8 °mph,0 °mph,30.15 °in,0.0 °in,Cloudy,2014 January 08,94301,Palo%20Alto
+1:53 PM,56 °F,46 °F,69 °%,NW,7 °mph,0 °mph,30.12 °in,0.0 °in,Cloudy,2014 January 08,94301,Palo%20Alto
+2:12 PM,57 °F,46 °F,67 °%,NNW,6 °mph,0 °mph,30.11 °in,0.0 °in,Cloudy,2014 January 08,94301,Palo%20Alto
+2:53 PM,58 °F,47 °F,67 °%,NW,8 °mph,0 °mph,30.10 °in,0.0 °in,Mostly Cloudy,2014 January 08,94301,Palo%20Alto
+3:53 PM,57 °F,48 °F,72 °%,NNW,7 °mph,0 °mph,30.10 °in,0.0 °in,Mostly Cloudy,2014 January 08,94301,Palo%20Alto
+4:53 PM,56 °F,48 °F,75 °%,NW,7 °mph,0 °mph,30.11 °in,0.0 °in,Mostly Cloudy,2014 January 08,94301,Palo%20Alto
+5:23 PM,55 °F,48 °F,77 °%,NW,12 °mph,0 °mph,30.12 °in,0.0 °in,Mostly Cloudy,2014 January 08,94301,Palo%20Alto
+5:53 PM,54 °F,49 °F,83 °%,NW,12 °mph,0 °mph,30.12 °in,0.0 °in,Mostly Cloudy,2014 January 08,94301,Palo%20Alto
+6:53 PM,53 °F,49 °F,86 °%,NW,10 °mph,0 °mph,30.13 °in,0.0 °in,Mostly Cloudy,2014 January 08,94301,Palo%20Alto
+7:28 PM,52 °F,48 °F,88 °%,NW,10 °mph,0 °mph,30.15 °in,0.0 °in,Cloudy,2014 January 08,94301,Palo%20Alto
+7:53 PM,53 °F,49 °F,86 °%,NW,8 °mph,0 °mph,30.15 °in,0.0 °in,Cloudy,2014 January 08,94301,Palo%20Alto
+8:53 PM,53 °F,49 °F,86 °%,NW,6 °mph,0 °mph,30.17 °in,0.0 °in,Cloudy,2014 January 08,94301,Palo%20Alto
+9:53 PM,53 °F,48 °F,83 °%,NW,7 °mph,0 °mph,30.17 °in,0.0 °in,Mostly Cloudy,2014 January 08,94301,Palo%20Alto
+10:53 PM,53 °F,48 °F,83 °%,NW,5 °mph,0 °mph,30.16 °in,0.0 °in,Mostly Cloudy,2014 January 08,94301,Palo%20Alto
+11:53 PM,53 °F,48 °F,83 °%,CALM,0 °mph,0 °mph,30.14 °in,0.0 °in,Mostly Cloudy,2014 January 08,94301,Palo%20Alto
+12:08 AM,54 °F,48 °F,82 °%,CALM,0 °mph,0 °mph,30.16 °in,0.0 °in,Mostly Cloudy,2014 January 08,94301,Palo%20Alto
+12:53 AM,51 °F,46 °F,83 °%,SSW,3 °mph,0 °mph,30.15 °in,0.0 °in,Mostly Cloudy,2014 January 09,94301,Palo%20Alto
+1:49 AM,48 °F,45 °F,87 °%,CALM,0 °mph,0 °mph,30.15 °in,0.0 °in,Cloudy,2014 January 09,94301,Palo%20Alto
+1:53 AM,49 °F,45 °F,86 °%,CALM,0 °mph,0 °mph,30.15 °in,0.0 °in,Cloudy,2014 January 09,94301,Palo%20Alto
+2:45 AM,48 °F,45 °F,87 °%,CALM,0 °mph,0 °mph,30.16 °in,0.0 °in,Cloudy,2014 January 09,94301,Palo%20Alto
+2:53 AM,49 °F,45 °F,86 °%,CALM,0 °mph,0 °mph,30.15 °in,0.0 °in,Cloudy,2014 January 09,94301,Palo%20Alto
+3:53 AM,49 °F,44 °F,83 °%,CALM,0 °mph,0 °mph,30.17 °in,0.0 °in,Cloudy,2014 January 09,94301,Palo%20Alto
+4:53 AM,48 °F,44 °F,86 °%,CALM,0 °mph,0 °mph,30.16 °in,0.0 °in,Cloudy,2014 January 09,94301,Palo%20Alto
+5:53 AM,49 °F,44 °F,83 °%,CALM,0 °mph,0 °mph,30.17 °in,0.0 °in,Mostly Cloudy,2014 January 09,94301,Palo%20Alto
+6:53 AM,50 °F,46 °F,86 °%,SSE,5 °mph,0 °mph,30.17 °in,0.0 °in,Cloudy,2014 January 09,94301,Palo%20Alto
+7:32 AM,50 °F,46 °F,87 °%,SE,5 °mph,0 °mph,30.16 °in,0.0 °in,Cloudy,2014 January 09,94301,Palo%20Alto
+7:43 AM,50 °F,48 °F,94 °%,SE,6 °mph,0 °mph,30.15 °in,0.0 °in,Cloudy,2014 January 09,94301,Palo%20Alto
+7:53 AM,49 °F,48 °F,97 °%,SE,7 °mph,0 °mph,30.15 °in,0.0 °in,Cloudy,2014 January 09,94301,Palo%20Alto
+8:34 AM,50 °F,48 °F,94 °%,ESE,5 °mph,0 °mph,30.16 °in,0.0 °in,Cloudy,2014 January 09,94301,Palo%20Alto
+8:46 AM,50 °F,48 °F,94 °%,CALM,0 °mph,0 °mph,30.16 °in,0.0 °in,Cloudy,2014 January 09,94301,Palo%20Alto
+8:53 AM,50 °F,50 °F,100 °%,CALM,0 °mph,0 °mph,30.16 °in,0.0 °in,Cloudy,2014 January 09,94301,Palo%20Alto
+9:53 AM,51 °F,50 °F,96 °%,E,3 °mph,0 °mph,30.18 °in,0.0 °in,Mostly Cloudy,2014 January 09,94301,Palo%20Alto
+10:53 AM,53 °F,52 °F,96 °%,CALM,0 °mph,0 °mph,30.20 °in,0.0 °in,Mostly Cloudy,2014 January 09,94301,Palo%20Alto
+11:53 AM,56 °F,50 °F,80 °%,NW,3 °mph,0 °mph,30.20 °in,0.0 °in,Mostly Cloudy,2014 January 09,94301,Palo%20Alto
+12:25 PM,57 °F,48 °F,72 °%,NW,7 °mph,0 °mph,30.20 °in,0.0 °in,Mostly Cloudy,2014 January 09,94301,Palo%20Alto
+12:53 PM,58 °F,48 °F,70 °%,NW,7 °mph,0 °mph,30.18 °in,0.0 °in,Mostly Cloudy,2014 January 09,94301,Palo%20Alto
+1:53 PM,59 °F,46 °F,62 °%,WNW,9 °mph,0 °mph,30.16 °in,0.0 °in,Partly Cloudy,2014 January 09,94301,Palo%20Alto
+2:53 PM,58 °F,47 °F,67 °%,NW,10 °mph,0 °mph,30.14 °in,0.0 °in,Fair,2014 January 09,94301,Palo%20Alto
+4:53 PM,58 °F,45 °F,62 °%,WNW,17 °mph,0 °mph,30.16 °in,0.0 °in,Partly Cloudy,2014 January 09,94301,Palo%20Alto
+5:53 PM,55 °F,43 °F,64 °%,WNW,13 °mph,0 °mph,30.16 °in,0.0 °in,Mostly Cloudy,2014 January 09,94301,Palo%20Alto
+6:53 PM,54 °F,45 °F,72 °%,NNW,7 °mph,0 °mph,30.16 °in,0.0 °in,Partly Cloudy,2014 January 09,94301,Palo%20Alto
+7:53 PM,52 °F,46 °F,80 °%,WNW,7 °mph,0 °mph,30.19 °in,0.0 °in,Partly Cloudy,2014 January 09,94301,Palo%20Alto
+8:53 PM,52 °F,44 °F,74 °%,CALM,0 °mph,0 °mph,30.19 °in,0.0 °in,Mostly Cloudy,2014 January 09,94301,Palo%20Alto
+9:53 PM,51 °F,45 °F,80 °%,CALM,0 °mph,0 °mph,30.20 °in,0.0 °in,Mostly Cloudy,2014 January 09,94301,Palo%20Alto
+10:53 PM,50 °F,45 °F,83 °%,CALM,0 °mph,0 °mph,30.20 °in,0.0 °in,Fair,2014 January 09,94301,Palo%20Alto
+11:53 PM,48 °F,44 °F,86 °%,CALM,0 °mph,0 °mph,30.21 °in,0.0 °in,Fair,2014 January 09,94301,Palo%20Alto
+12:53 AM,47 °F,42 °F,83 °%,CALM,0 °mph,0 °mph,30.20 °in,0.0 °in,Fair,2014 January 10,94301,Palo%20Alto
+1:53 AM,46 °F,40 °F,79 °%,CALM,0 °mph,0 °mph,30.20 °in,0.0 °in,Fair,2014 January 10,94301,Palo%20Alto
+2:53 AM,44 °F,39 °F,82 °%,CALM,0 °mph,0 °mph,30.18 °in,0.0 °in,Fair,2014 January 10,94301,Palo%20Alto
+3:53 AM,43 °F,37 °F,80 °%,CALM,0 °mph,0 °mph,30.20 °in,0.0 °in,Fair,2014 January 10,94301,Palo%20Alto
+4:53 AM,42 °F,37 °F,82 °%,CALM,0 °mph,0 °mph,30.18 °in,0.0 °in,Fair,2014 January 10,94301,Palo%20Alto
+5:53 AM,42 °F,37 °F,82 °%,CALM,0 °mph,0 °mph,30.19 °in,0.0 °in,Fair,2014 January 10,94301,Palo%20Alto
+6:53 AM,41 °F,37 °F,86 °%,CALM,0 °mph,0 °mph,30.20 °in,0.0 °in,Fair,2014 January 10,94301,Palo%20Alto
+7:53 AM,41 °F,37 °F,86 °%,CALM,0 °mph,0 °mph,30.20 °in,0.0 °in,Fair,2014 January 10,94301,Palo%20Alto
+8:53 AM,43 °F,38 °F,82 °%,S,3 °mph,0 °mph,30.21 °in,0.0 °in,Partly Cloudy,2014 January 10,94301,Palo%20Alto
+9:53 AM,47 °F,40 °F,77 °%,CALM,0 °mph,0 °mph,30.23 °in,0.0 °in,Cloudy,2014 January 10,94301,Palo%20Alto
+10:53 AM,52 °F,44 °F,74 °%,NW,5 °mph,0 °mph,30.25 °in,0.0 °in,Cloudy,2014 January 10,94301,Palo%20Alto
+11:53 AM,53 °F,47 °F,80 °%,W,3 °mph,0 °mph,30.24 °in,0.0 °in,Mostly Cloudy,2014 January 10,94301,Palo%20Alto
+12:53 PM,56 °F,48 °F,75 °%,W,6 °mph,0 °mph,30.20 °in,0.0 °in,Mostly Cloudy,2014 January 10,94301,Palo%20Alto
+1:53 PM,58 °F,46 °F,65 °%,NW,7 °mph,0 °mph,30.17 °in,0.0 °in,Mostly Cloudy,2014 January 10,94301,Palo%20Alto
+2:53 PM,59 °F,45 °F,60 °%,CALM,0 °mph,0 °mph,30.14 °in,0.0 °in,Mostly Cloudy,2014 January 10,94301,Palo%20Alto
+3:53 PM,62 °F,45 °F,53 °%,NW,6 °mph,0 °mph,30.12 °in,0.0 °in,Mostly Cloudy,2014 January 10,94301,Palo%20Alto
+4:53 PM,62 °F,45 °F,53 °%,NNW,5 °mph,0 °mph,30.12 °in,0.0 °in,Mostly Cloudy,2014 January 10,94301,Palo%20Alto
+5:53 PM,60 °F,46 °F,60 °%,NW,5 °mph,0 °mph,30.12 °in,0.0 °in,Mostly Cloudy,2014 January 10,94301,Palo%20Alto
+6:53 PM,55 °F,46 °F,72 °%,WNW,6 °mph,0 °mph,30.12 °in,0.0 °in,Partly Cloudy,2014 January 10,94301,Palo%20Alto
+7:53 PM,54 °F,46 °F,75 °%,CALM,0 °mph,0 °mph,30.14 °in,0.0 °in,Fair,2014 January 10,94301,Palo%20Alto
+8:53 PM,53 °F,45 °F,74 °%,WNW,3 °mph,0 °mph,30.14 °in,0.0 °in,Fair,2014 January 10,94301,Palo%20Alto
+9:53 PM,52 °F,45 °F,77 °%,CALM,0 °mph,0 °mph,30.15 °in,0.0 °in,Fair,2014 January 10,94301,Palo%20Alto
+10:53 PM,51 °F,45 °F,80 °%,CALM,0 °mph,0 °mph,30.15 °in,0.0 °in,Fair,2014 January 10,94301,Palo%20Alto
+11:53 PM,50 °F,45 °F,83 °%,CALM,0 °mph,0 °mph,30.15 °in,0.0 °in,Fair,2014 January 10,94301,Palo%20Alto
+12:53 AM,48 °F,44 °F,86 °%,CALM,0 °mph,0 °mph,30.14 °in,0.0 °in,Fair,2014 January 11,94301,Palo%20Alto
+1:53 AM,46 °F,41 °F,83 °%,CALM,0 °mph,0 °mph,30.13 °in,0.0 °in,Fair,2014 January 11,94301,Palo%20Alto
+2:53 AM,46 °F,42 °F,86 °%,CALM,0 °mph,0 °mph,30.13 °in,0.0 °in,Fair,2014 January 11,94301,Palo%20Alto
+3:53 AM,44 °F,41 °F,89 °%,CALM,0 °mph,0 °mph,30.14 °in,0.0 °in,Fair,2014 January 11,94301,Palo%20Alto
+4:53 AM,44 °F,41 °F,89 °%,ESE,3 °mph,0 °mph,30.14 °in,0.0 °in,Fair,2014 January 11,94301,Palo%20Alto
+5:53 AM,44 °F,40 °F,85 °%,CALM,0 °mph,0 °mph,30.14 °in,0.0 °in,Fair,2014 January 11,94301,Palo%20Alto
+6:53 AM,44 °F,40 °F,85 °%,ESE,3 °mph,0 °mph,30.14 °in,0.0 °in,Fair,2014 January 11,94301,Palo%20Alto
+7:53 AM,45 °F,40 °F,82 °%,NW,6 °mph,0 °mph,30.16 °in,0.0 °in,Mostly Cloudy,2014 January 11,94301,Palo%20Alto
+8:53 AM,47 °F,43 °F,86 °%,CALM,0 °mph,0 °mph,30.18 °in,0.0 °in,Mostly Cloudy,2014 January 11,94301,Palo%20Alto
+9:53 AM,47 °F,42 °F,83 °%,SE,7 °mph,0 °mph,30.19 °in,0.0 °in,Mostly Cloudy,2014 January 11,94301,Palo%20Alto
+10:53 AM,50 °F,44 °F,80 °%,CALM,0 °mph,0 °mph,30.18 °in,0.0 °in,Mostly Cloudy,2014 January 11,94301,Palo%20Alto
+11:53 AM,53 °F,44 °F,71 °%,CALM,0 °mph,0 °mph,30.16 °in,0.0 °in,Cloudy,2014 January 11,94301,Palo%20Alto
+12:53 PM,54 °F,46 °F,75 °%,NNE,5 °mph,0 °mph,30.16 °in,0.0 °in,Cloudy,2014 January 11,94301,Palo%20Alto
+1:53 PM,56 °F,45 °F,67 °%,CALM,0 °mph,0 °mph,30.14 °in,0.0 °in,Cloudy,2014 January 11,94301,Palo%20Alto
+2:53 PM,58 °F,47 °F,67 °%,CALM,0 °mph,0 °mph,30.10 °in,0.0 °in,Cloudy,2014 January 11,94301,Palo%20Alto
+3:53 PM,59 °F,47 °F,64 °%,CALM,0 °mph,0 °mph,30.11 °in,0.0 °in,Cloudy,2014 January 11,94301,Palo%20Alto
+4:53 PM,59 °F,49 °F,69 °%,W,12 °mph,0 °mph,30.13 °in,0.0 °in,Cloudy,2014 January 11,94301,Palo%20Alto
+5:53 PM,58 °F,50 °F,75 °%,NNW,12 °mph,0 °mph,30.15 °in,0.0 °in,Cloudy,2014 January 11,94301,Palo%20Alto
+6:53 PM,53 °F,46 °F,77 °%,NW,10 °mph,0 °mph,30.16 °in,0.0 °in,Partly Cloudy,2014 January 11,94301,Palo%20Alto
+7:53 PM,51 °F,47 °F,86 °%,NW,6 °mph,0 °mph,30.19 °in,0.0 °in,Fair,2014 January 11,94301,Palo%20Alto
+8:53 PM,50 °F,47 °F,89 °%,CALM,0 °mph,0 °mph,30.20 °in,0.0 °in,Fair,2014 January 11,94301,Palo%20Alto
+9:53 PM,49 °F,46 °F,90 °%,CALM,0 °mph,0 °mph,30.22 °in,0.0 °in,Fair,2014 January 11,94301,Palo%20Alto
+10:53 PM,49 °F,47 °F,93 °%,CALM,0 °mph,0 °mph,30.23 °in,0.0 °in,Mostly Cloudy,2014 January 11,94301,Palo%20Alto
+11:53 PM,47 °F,44 °F,90 °%,CALM,0 °mph,0 °mph,30.23 °in,0.0 °in,Partly Cloudy,2014 January 11,94301,Palo%20Alto
+12:53 AM,46 °F,44 °F,93 °%,CALM,0 °mph,0 °mph,30.22 °in,0.0 °in,Partly Cloudy,2014 January 12,94301,Palo%20Alto
+1:53 AM,45 °F,43 °F,93 °%,CALM,0 °mph,0 °mph,30.21 °in,0.0 °in,Fair,2014 January 12,94301,Palo%20Alto
+2:11 AM,45 °F,45 °F,100 °%,CALM,0 °mph,0 °mph,30.22 °in,0.0 °in,Mostly Cloudy,2014 January 12,94301,Palo%20Alto
+2:22 AM,45 °F,45 °F,100 °%,CALM,0 °mph,0 °mph,30.22 °in,0.0 °in,Mostly Cloudy,2014 January 12,94301,Palo%20Alto
+2:53 AM,45 °F,43 °F,93 °%,CALM,0 °mph,0 °mph,30.22 °in,0.0 °in,Cloudy,2014 January 12,94301,Palo%20Alto
+3:53 AM,48 °F,46 °F,93 °%,WNW,3 °mph,0 °mph,30.22 °in,0.0 °in,Cloudy,2014 January 12,94301,Palo%20Alto
+4:53 AM,47 °F,44 °F,90 °%,SSE,3 °mph,0 °mph,30.21 °in,0.0 °in,Cloudy,2014 January 12,94301,Palo%20Alto
+5:53 AM,46 °F,44 °F,93 °%,WSW,3 °mph,0 °mph,30.22 °in,0.0 °in,Cloudy,2014 January 12,94301,Palo%20Alto
+6:35 AM,46 °F,43 °F,87 °%,CALM,0 °mph,0 °mph,30.25 °in,0.0 °in,Mostly Cloudy,2014 January 12,94301,Palo%20Alto
+6:49 AM,46 °F,45 °F,93 °%,CALM,0 °mph,0 °mph,30.25 °in,0.0 °in,Partly Cloudy,2014 January 12,94301,Palo%20Alto
+6:53 AM,46 °F,44 °F,93 °%,CALM,0 °mph,0 °mph,30.25 °in,0.0 °in,Partly Cloudy,2014 January 12,94301,Palo%20Alto
+7:53 AM,45 °F,45 °F,100 °%,WSW,3 °mph,0 °mph,30.26 °in,0.0 °in,Partly Cloudy,2014 January 12,94301,Palo%20Alto
+8:53 AM,44 °F,43 °F,96 °%,CALM,0 °mph,0 °mph,30.28 °in,0.0 °in,Cloudy,2014 January 12,94301,Palo%20Alto
+9:53 AM,48 °F,44 °F,86 °%,W,7 °mph,0 °mph,30.31 °in,0.0 °in,Mostly Cloudy,2014 January 12,94301,Palo%20Alto
+10:53 AM,49 °F,43 °F,80 °%,WNW,13 °mph,0 °mph,30.32 °in,0.0 °in,Mostly Cloudy,2014 January 12,94301,Palo%20Alto
+11:53 AM,53 °F,43 °F,69 °%,W,14 °mph,0 °mph,30.31 °in,0.0 °in,Mostly Cloudy,2014 January 12,94301,Palo%20Alto
+12:53 PM,55 °F,41 °F,59 °%,W,14 °mph,0 °mph,30.29 °in,0.0 °in,Partly Cloudy,2014 January 12,94301,Palo%20Alto
+1:53 PM,56 °F,41 °F,57 °%,W,12 °mph,0 °mph,30.26 °in,0.0 °in,Fair,2014 January 12,94301,Palo%20Alto
+2:53 PM,58 °F,40 °F,51 °%,W,17 °mph,0 °mph,30.24 °in,0.0 °in,Fair,2014 January 12,94301,Palo%20Alto
+3:53 PM,59 °F,38 °F,46 °%,W,14 °mph,0 °mph,30.23 °in,0.0 °in,Fair,2014 January 12,94301,Palo%20Alto
+4:53 PM,59 °F,38 °F,46 °%,W,15 °mph,0 °mph,30.24 °in,0.0 °in,Fair,2014 January 12,94301,Palo%20Alto
+5:53 PM,56 °F,40 °F,55 °%,WNW,12 °mph,0 °mph,30.24 °in,0.0 °in,Fair,2014 January 12,94301,Palo%20Alto
+6:53 PM,54 °F,40 °F,59 °%,WSW,9 °mph,0 °mph,30.25 °in,0.0 °in,Fair,2014 January 12,94301,Palo%20Alto
+7:53 PM,53 °F,38 °F,57 °%,WSW,9 °mph,0 °mph,30.25 °in,0.0 °in,Fair,2014 January 12,94301,Palo%20Alto
+8:53 PM,52 °F,38 °F,59 °%,CALM,0 °mph,0 °mph,30.27 °in,0.0 °in,Fair,2014 January 12,94301,Palo%20Alto
+9:53 PM,51 °F,37 °F,59 °%,CALM,0 °mph,0 °mph,30.28 °in,0.0 °in,Fair,2014 January 12,94301,Palo%20Alto
+10:53 PM,48 °F,37 °F,66 °%,CALM,0 °mph,0 °mph,30.28 °in,0.0 °in,Fair,2014 January 12,94301,Palo%20Alto
+11:53 PM,46 °F,37 °F,71 °%,CALM,0 °mph,0 °mph,30.28 °in,0.0 °in,Fair,2014 January 12,94301,Palo%20Alto
+12:53 AM,45 °F,35 °F,68 °%,S,6 °mph,0 °mph,30.28 °in,0.0 °in,Fair,2014 January 13,94301,Palo%20Alto
+1:53 AM,49 °F,33 °F,54 °%,W,5 °mph,0 °mph,30.28 °in,0.0 °in,Fair,2014 January 13,94301,Palo%20Alto
+2:53 AM,49 °F,33 °F,54 °%,WNW,6 °mph,0 °mph,30.29 °in,0.0 °in,Fair,2014 January 13,94301,Palo%20Alto
+3:53 AM,49 °F,33 °F,54 °%,SW,6 °mph,0 °mph,30.30 °in,0.0 °in,Fair,2014 January 13,94301,Palo%20Alto
+4:53 AM,49 °F,33 °F,54 °%,SSW,6 °mph,0 °mph,30.30 °in,0.0 °in,Fair,2014 January 13,94301,Palo%20Alto
+5:53 AM,47 °F,33 °F,59 °%,S,7 °mph,0 °mph,30.30 °in,0.0 °in,Fair,2014 January 13,94301,Palo%20Alto
+6:53 AM,45 °F,33 °F,63 °%,S,3 °mph,0 °mph,30.31 °in,0.0 °in,Fair,2014 January 13,94301,Palo%20Alto
+7:53 AM,45 °F,33 °F,63 °%,E,6 °mph,0 °mph,30.33 °in,0.0 °in,Fair,2014 January 13,94301,Palo%20Alto
+8:53 AM,45 °F,34 °F,65 °%,CALM,0 °mph,0 °mph,30.35 °in,0.0 °in,Fair,2014 January 13,94301,Palo%20Alto
+9:53 AM,49 °F,35 °F,59 °%,VAR,3 °mph,0 °mph,30.38 °in,0.0 °in,Fair,2014 January 13,94301,Palo%20Alto
+10:53 AM,54 °F,35 °F,49 °%,CALM,0 °mph,0 °mph,30.39 °in,0.0 °in,Fair,2014 January 13,94301,Palo%20Alto
+11:53 AM,58 °F,35 °F,42 °%,NW,5 °mph,0 °mph,30.40 °in,0.0 °in,Fair,2014 January 13,94301,Palo%20Alto
+12:53 PM,61 °F,33 °F,35 °%,N,5 °mph,0 °mph,30.37 °in,0.0 °in,Fair,2014 January 13,94301,Palo%20Alto
+1:53 PM,63 °F,0 °F,31 °%,CALM,0 °mph,0 °mph,30.33 °in,0.0 °in,Fair,2014 January 13,94301,Palo%20Alto
+2:53 PM,65 °F,0 °F,29 °%,CALM,0 °mph,0 °mph,30.32 °in,0.0 °in,Fair,2014 January 13,94301,Palo%20Alto
+3:53 PM,67 °F,31 °F,26 °%,CALM,0 °mph,0 °mph,30.31 °in,0.0 °in,Fair,2014 January 13,94301,Palo%20Alto
+4:53 PM,67 °F,31 °F,26 °%,CALM,0 °mph,0 °mph,30.31 °in,0.0 °in,Fair,2014 January 13,94301,Palo%20Alto
+5:53 PM,64 °F,33 °F,31 °%,W,8 °mph,0 °mph,30.30 °in,0.0 °in,Fair,2014 January 13,94301,Palo%20Alto
+6:53 PM,59 °F,34 °F,39 °%,WSW,5 °mph,0 °mph,30.31 °in,0.0 °in,Fair,2014 January 13,94301,Palo%20Alto
+7:53 PM,55 °F,34 °F,45 °%,W,3 °mph,0 °mph,30.33 °in,0.0 °in,Fair,2014 January 13,94301,Palo%20Alto
+8:53 PM,55 °F,34 °F,45 °%,CALM,0 °mph,0 °mph,30.33 °in,0.0 °in,Fair,2014 January 13,94301,Palo%20Alto
+9:53 PM,52 °F,33 °F,49 °%,ESE,3 °mph,0 °mph,30.33 °in,0.0 °in,Fair,2014 January 13,94301,Palo%20Alto
+10:53 PM,49 °F,34 °F,56 °%,CALM,0 °mph,0 °mph,30.33 °in,0.0 °in,Fair,2014 January 13,94301,Palo%20Alto
+11:53 PM,48 °F,34 °F,58 °%,CALM,0 °mph,0 °mph,30.34 °in,0.0 °in,Fair,2014 January 13,94301,Palo%20Alto
