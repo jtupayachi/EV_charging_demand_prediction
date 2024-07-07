@@ -1,0 +1,247 @@
+Time,Temperature,Dew Point,Humidity,Wind,Wind Speed,Wind Gust,Pressure,Precip.,Condition,date_collector,postal_code,city
+12:53 AM,59 °F,47 °F,64 °%,CALM,0 °mph,0 °mph,29.86 °in,0.0 °in,Fair,2015 September 05,94301,Palo%20Alto
+1:53 AM,54 °F,44 °F,69 °%,ESE,7 °mph,0 °mph,29.86 °in,0.0 °in,Fair,2015 September 05,94301,Palo%20Alto
+2:53 AM,56 °F,47 °F,72 °%,SE,7 °mph,0 °mph,29.85 °in,0.0 °in,Fair,2015 September 05,94301,Palo%20Alto
+3:53 AM,54 °F,48 °F,80 °%,ESE,5 °mph,0 °mph,29.85 °in,0.0 °in,Fair,2015 September 05,94301,Palo%20Alto
+4:53 AM,54 °F,48 °F,80 °%,S,3 °mph,0 °mph,29.86 °in,0.0 °in,Fair,2015 September 05,94301,Palo%20Alto
+5:53 AM,53 °F,48 °F,83 °%,SSE,5 °mph,0 °mph,29.87 °in,0.0 °in,Fair,2015 September 05,94301,Palo%20Alto
+6:53 AM,53 °F,49 °F,86 °%,CALM,0 °mph,0 °mph,29.89 °in,0.0 °in,Fair,2015 September 05,94301,Palo%20Alto
+7:53 AM,55 °F,49 °F,80 °%,CALM,0 °mph,0 °mph,29.91 °in,0.0 °in,Fair,2015 September 05,94301,Palo%20Alto
+8:53 AM,59 °F,50 °F,72 °%,CALM,0 °mph,0 °mph,29.92 °in,0.0 °in,Fair,2015 September 05,94301,Palo%20Alto
+9:53 AM,63 °F,49 °F,60 °%,CALM,0 °mph,0 °mph,29.92 °in,0.0 °in,Fair,2015 September 05,94301,Palo%20Alto
+10:53 AM,68 °F,48 °F,49 °%,WNW,7 °mph,0 °mph,29.93 °in,0.0 °in,Partly Cloudy,2015 September 05,94301,Palo%20Alto
+11:53 AM,71 °F,45 °F,39 °%,NW,9 °mph,0 °mph,29.92 °in,0.0 °in,Partly Cloudy,2015 September 05,94301,Palo%20Alto
+12:53 PM,74 °F,46 °F,37 °%,NW,3 °mph,0 °mph,29.90 °in,0.0 °in,Mostly Cloudy,2015 September 05,94301,Palo%20Alto
+1:53 PM,77 °F,47 °F,34 °%,WNW,12 °mph,0 °mph,29.89 °in,0.0 °in,Partly Cloudy,2015 September 05,94301,Palo%20Alto
+2:53 PM,78 °F,46 °F,32 °%,WNW,15 °mph,0 °mph,29.88 °in,0.0 °in,Partly Cloudy,2015 September 05,94301,Palo%20Alto
+3:53 PM,80 °F,44 °F,28 °%,WNW,16 °mph,0 °mph,29.86 °in,0.0 °in,Partly Cloudy,2015 September 05,94301,Palo%20Alto
+4:53 PM,78 °F,45 °F,31 °%,WNW,16 °mph,0 °mph,29.86 °in,0.0 °in,Fair,2015 September 05,94301,Palo%20Alto
+5:53 PM,74 °F,45 °F,35 °%,WNW,18 °mph,0 °mph,29.87 °in,0.0 °in,Fair,2015 September 05,94301,Palo%20Alto
+6:53 PM,71 °F,45 °F,39 °%,NW,16 °mph,0 °mph,29.87 °in,0.0 °in,Fair,2015 September 05,94301,Palo%20Alto
+7:53 PM,69 °F,45 °F,42 °%,NW,13 °mph,0 °mph,29.87 °in,0.0 °in,Partly Cloudy,2015 September 05,94301,Palo%20Alto
+8:53 PM,67 °F,45 °F,45 °%,NW,9 °mph,0 °mph,29.89 °in,0.0 °in,Partly Cloudy,2015 September 05,94301,Palo%20Alto
+9:53 PM,66 °F,48 °F,52 °%,NNW,3 °mph,0 °mph,29.91 °in,0.0 °in,Fair,2015 September 05,94301,Palo%20Alto
+10:53 PM,65 °F,50 °F,58 °%,NNW,3 °mph,0 °mph,29.90 °in,0.0 °in,Fair,2015 September 05,94301,Palo%20Alto
+11:53 PM,64 °F,49 °F,58 °%,CALM,0 °mph,0 °mph,29.90 °in,0.0 °in,Fair,2015 September 05,94301,Palo%20Alto
+12:53 AM,59 °F,47 °F,64 °%,CALM,0 °mph,0 °mph,29.90 °in,0.0 °in,Fair,2015 September 06,94301,Palo%20Alto
+1:53 AM,59 °F,46 °F,62 °%,CALM,0 °mph,0 °mph,29.89 °in,0.0 °in,Fair,2015 September 06,94301,Palo%20Alto
+2:53 AM,56 °F,45 °F,67 °%,ESE,3 °mph,0 °mph,29.89 °in,0.0 °in,Fair,2015 September 06,94301,Palo%20Alto
+3:53 AM,56 °F,44 °F,64 °%,E,3 °mph,0 °mph,29.88 °in,0.0 °in,Fair,2015 September 06,94301,Palo%20Alto
+4:53 AM,53 °F,42 °F,66 °%,SE,5 °mph,0 °mph,29.88 °in,0.0 °in,Fair,2015 September 06,94301,Palo%20Alto
+5:53 AM,53 °F,43 °F,69 °%,CALM,0 °mph,0 °mph,29.89 °in,0.0 °in,Partly Cloudy,2015 September 06,94301,Palo%20Alto
+6:53 AM,54 °F,42 °F,64 °%,CALM,0 °mph,0 °mph,29.91 °in,0.0 °in,Mostly Cloudy,2015 September 06,94301,Palo%20Alto
+7:53 AM,58 °F,42 °F,56 °%,CALM,0 °mph,0 °mph,29.93 °in,0.0 °in,Mostly Cloudy,2015 September 06,94301,Palo%20Alto
+8:53 AM,62 °F,42 °F,48 °%,CALM,0 °mph,0 °mph,29.93 °in,0.0 °in,Mostly Cloudy,2015 September 06,94301,Palo%20Alto
+9:53 AM,69 °F,41 °F,36 °%,CALM,0 °mph,0 °mph,29.93 °in,0.0 °in,Mostly Cloudy,2015 September 06,94301,Palo%20Alto
+10:53 AM,74 °F,41 °F,30 °%,CALM,0 °mph,0 °mph,29.93 °in,0.0 °in,Mostly Cloudy,2015 September 06,94301,Palo%20Alto
+11:53 AM,79 °F,37 °F,22 °%,NW,6 °mph,0 °mph,29.92 °in,0.0 °in,Mostly Cloudy,2015 September 06,94301,Palo%20Alto
+12:53 PM,82 °F,31 °F,16 °%,NNW,3 °mph,0 °mph,29.89 °in,0.0 °in,Mostly Cloudy,2015 September 06,94301,Palo%20Alto
+1:53 PM,85 °F,31 °F,14 °%,W,6 °mph,0 °mph,29.88 °in,0.0 °in,Partly Cloudy,2015 September 06,94301,Palo%20Alto
+2:53 PM,85 °F,31 °F,14 °%,WNW,10 °mph,0 °mph,29.86 °in,0.0 °in,Partly Cloudy,2015 September 06,94301,Palo%20Alto
+3:53 PM,85 °F,31 °F,14 °%,WNW,9 °mph,0 °mph,29.85 °in,0.0 °in,Fair,2015 September 06,94301,Palo%20Alto
+4:53 PM,85 °F,36 °F,17 °%,WNW,15 °mph,0 °mph,29.84 °in,0.0 °in,Fair,2015 September 06,94301,Palo%20Alto
+5:53 PM,83 °F,33 °F,17 °%,NW,14 °mph,0 °mph,29.83 °in,0.0 °in,Partly Cloudy,2015 September 06,94301,Palo%20Alto
+6:53 PM,81 °F,37 °F,21 °%,NW,13 °mph,0 °mph,29.83 °in,0.0 °in,Fair,2015 September 06,94301,Palo%20Alto
+7:53 PM,75 °F,39 °F,27 °%,NW,8 °mph,0 °mph,29.83 °in,0.0 °in,Fair,2015 September 06,94301,Palo%20Alto
+8:53 PM,71 °F,41 °F,34 °%,WNW,7 °mph,0 °mph,29.85 °in,0.0 °in,Fair,2015 September 06,94301,Palo%20Alto
+9:53 PM,69 °F,49 °F,49 °%,WSW,5 °mph,0 °mph,29.86 °in,0.0 °in,Fair,2015 September 06,94301,Palo%20Alto
+10:53 PM,68 °F,50 °F,52 °%,CALM,0 °mph,0 °mph,29.86 °in,0.0 °in,Fair,2015 September 06,94301,Palo%20Alto
+11:53 PM,66 °F,50 °F,56 °%,SE,3 °mph,0 °mph,29.86 °in,0.0 °in,Fair,2015 September 06,94301,Palo%20Alto
+12:53 AM,64 °F,46 °F,52 °%,ESE,3 °mph,0 °mph,29.86 °in,0.0 °in,Fair,2015 September 07,94301,Palo%20Alto
+1:53 AM,62 °F,42 °F,48 °%,ESE,3 °mph,0 °mph,29.85 °in,0.0 °in,Partly Cloudy,2015 September 07,94301,Palo%20Alto
+2:53 AM,59 °F,39 °F,48 °%,ESE,6 °mph,0 °mph,29.84 °in,0.0 °in,Fair,2015 September 07,94301,Palo%20Alto
+3:53 AM,60 °F,38 °F,44 °%,CALM,0 °mph,0 °mph,29.84 °in,0.0 °in,Fair,2015 September 07,94301,Palo%20Alto
+4:53 AM,57 °F,39 °F,51 °%,ESE,3 °mph,0 °mph,29.85 °in,0.0 °in,Fair,2015 September 07,94301,Palo%20Alto
+5:53 AM,57 °F,36 °F,45 °%,ESE,3 °mph,0 °mph,29.85 °in,0.0 °in,Fair,2015 September 07,94301,Palo%20Alto
+6:53 AM,58 °F,36 °F,44 °%,CALM,0 °mph,0 °mph,29.86 °in,0.0 °in,Fair,2015 September 07,94301,Palo%20Alto
+7:53 AM,61 °F,36 °F,39 °%,CALM,0 °mph,0 °mph,29.88 °in,0.0 °in,Fair,2015 September 07,94301,Palo%20Alto
+8:53 AM,65 °F,37 °F,36 °%,CALM,0 °mph,0 °mph,29.89 °in,0.0 °in,Fair,2015 September 07,94301,Palo%20Alto
+9:53 AM,71 °F,41 °F,34 °%,CALM,0 °mph,0 °mph,29.89 °in,0.0 °in,Fair,2015 September 07,94301,Palo%20Alto
+10:53 AM,77 °F,41 °F,28 °%,CALM,0 °mph,0 °mph,29.88 °in,0.0 °in,Fair,2015 September 07,94301,Palo%20Alto
+11:53 AM,81 °F,42 °F,25 °%,CALM,0 °mph,0 °mph,29.87 °in,0.0 °in,Fair,2015 September 07,94301,Palo%20Alto
+12:53 PM,87 °F,35 °F,16 °%,NNW,6 °mph,0 °mph,29.84 °in,0.0 °in,Fair,2015 September 07,94301,Palo%20Alto
+1:53 PM,89 °F,41 °F,19 °%,WNW,9 °mph,0 °mph,29.82 °in,0.0 °in,Fair,2015 September 07,94301,Palo%20Alto
+2:53 PM,91 °F,32 °F,12 °%,NW,10 °mph,0 °mph,29.80 °in,0.0 °in,Fair,2015 September 07,94301,Palo%20Alto
+3:53 PM,92 °F,30 °F,11 °%,NW,10 °mph,0 °mph,29.78 °in,0.0 °in,Fair,2015 September 07,94301,Palo%20Alto
+4:53 PM,92 °F,30 °F,11 °%,WNW,13 °mph,0 °mph,29.77 °in,0.0 °in,Fair,2015 September 07,94301,Palo%20Alto
+5:53 PM,90 °F,34 °F,14 °%,WNW,12 °mph,0 °mph,29.77 °in,0.0 °in,Partly Cloudy,2015 September 07,94301,Palo%20Alto
+6:53 PM,84 °F,46 °F,26 °%,WNW,14 °mph,0 °mph,29.78 °in,0.0 °in,Fair,2015 September 07,94301,Palo%20Alto
+7:53 PM,78 °F,43 °F,29 °%,NW,12 °mph,0 °mph,29.80 °in,0.0 °in,Fair,2015 September 07,94301,Palo%20Alto
+8:53 PM,76 °F,41 °F,29 °%,NW,9 °mph,0 °mph,29.81 °in,0.0 °in,Fair,2015 September 07,94301,Palo%20Alto
+9:53 PM,75 °F,39 °F,27 °%,SW,5 °mph,0 °mph,29.82 °in,0.0 °in,Partly Cloudy,2015 September 07,94301,Palo%20Alto
+10:53 PM,71 °F,42 °F,35 °%,CALM,0 °mph,0 °mph,29.83 °in,0.0 °in,Fair,2015 September 07,94301,Palo%20Alto
+11:53 PM,69 °F,46 °F,44 °%,CALM,0 °mph,0 °mph,29.83 °in,0.0 °in,Fair,2015 September 07,94301,Palo%20Alto
+12:53 AM,69 °F,46 °F,44 °%,CALM,0 °mph,0 °mph,29.83 °in,0.0 °in,Fair,2015 September 08,94301,Palo%20Alto
+1:53 AM,65 °F,45 °F,48 °%,CALM,0 °mph,0 °mph,29.82 °in,0.0 °in,Fair,2015 September 08,94301,Palo%20Alto
+2:53 AM,63 °F,42 °F,46 °%,ESE,3 °mph,0 °mph,29.81 °in,0.0 °in,Fair,2015 September 08,94301,Palo%20Alto
+3:53 AM,60 °F,40 °F,47 °%,ESE,3 °mph,0 °mph,29.81 °in,0.0 °in,Fair,2015 September 08,94301,Palo%20Alto
+4:53 AM,61 °F,39 °F,44 °%,ESE,3 °mph,0 °mph,29.81 °in,0.0 °in,Fair,2015 September 08,94301,Palo%20Alto
+5:53 AM,60 °F,38 °F,44 °%,ESE,3 °mph,0 °mph,29.81 °in,0.0 °in,Fair,2015 September 08,94301,Palo%20Alto
+6:53 AM,62 °F,37 °F,39 °%,CALM,0 °mph,0 °mph,29.82 °in,0.0 °in,Fair,2015 September 08,94301,Palo%20Alto
+7:53 AM,65 °F,38 °F,37 °%,CALM,0 °mph,0 °mph,29.83 °in,0.0 °in,Fair,2015 September 08,94301,Palo%20Alto
+8:53 AM,71 °F,38 °F,30 °%,CALM,0 °mph,0 °mph,29.83 °in,0.0 °in,Fair,2015 September 08,94301,Palo%20Alto
+9:53 AM,78 °F,37 °F,23 °%,CALM,0 °mph,0 °mph,29.83 °in,0.0 °in,Fair,2015 September 08,94301,Palo%20Alto
+10:53 AM,84 °F,36 °F,18 °%,NNW,3 °mph,0 °mph,29.83 °in,0.0 °in,Fair,2015 September 08,94301,Palo%20Alto
+11:53 AM,88 °F,38 °F,17 °%,CALM,0 °mph,0 °mph,29.82 °in,0.0 °in,Fair,2015 September 08,94301,Palo%20Alto
+12:53 PM,92 °F,33 °F,12 °%,NW,7 °mph,0 °mph,29.79 °in,0.0 °in,Fair,2015 September 08,94301,Palo%20Alto
+1:53 PM,94 °F,30 °F,10 °%,WNW,7 °mph,0 °mph,29.78 °in,0.0 °in,Fair,2015 September 08,94301,Palo%20Alto
+2:53 PM,95 °F,36 °F,13 °%,WNW,10 °mph,0 °mph,29.76 °in,0.0 °in,Fair,2015 September 08,94301,Palo%20Alto
+3:53 PM,96 °F,30 °F,10 °%,WNW,13 °mph,0 °mph,29.74 °in,0.0 °in,Fair,2015 September 08,94301,Palo%20Alto
+4:53 PM,96 °F,31 °F,10 °%,WNW,16 °mph,0 °mph,29.73 °in,0.0 °in,Fair,2015 September 08,94301,Palo%20Alto
+5:53 PM,92 °F,42 °F,18 °%,WNW,14 °mph,0 °mph,29.73 °in,0.0 °in,Fair,2015 September 08,94301,Palo%20Alto
+6:53 PM,88 °F,41 °F,19 °%,WNW,10 °mph,0 °mph,29.73 °in,0.0 °in,Fair,2015 September 08,94301,Palo%20Alto
+7:53 PM,84 °F,40 °F,21 °%,NW,9 °mph,0 °mph,29.73 °in,0.0 °in,Fair,2015 September 08,94301,Palo%20Alto
+8:53 PM,79 °F,45 °F,30 °%,WNW,8 °mph,0 °mph,29.76 °in,0.0 °in,Fair,2015 September 08,94301,Palo%20Alto
+9:53 PM,77 °F,49 °F,37 °%,CALM,0 °mph,0 °mph,29.78 °in,0.0 °in,Fair,2015 September 08,94301,Palo%20Alto
+10:53 PM,75 °F,48 °F,38 °%,CALM,0 °mph,0 °mph,29.79 °in,0.0 °in,Fair,2015 September 08,94301,Palo%20Alto
+11:53 PM,72 °F,48 °F,43 °%,CALM,0 °mph,0 °mph,29.79 °in,0.0 °in,Fair,2015 September 08,94301,Palo%20Alto
+12:53 AM,71 °F,48 °F,44 °%,SE,3 °mph,0 °mph,29.80 °in,0.0 °in,Fair,2015 September 09,94301,Palo%20Alto
+1:53 AM,67 °F,44 °F,44 °%,ESE,5 °mph,0 °mph,29.79 °in,0.0 °in,Fair,2015 September 09,94301,Palo%20Alto
+2:53 AM,69 °F,41 °F,36 °%,E,3 °mph,0 °mph,29.78 °in,0.0 °in,Fair,2015 September 09,94301,Palo%20Alto
+3:53 AM,66 °F,40 °F,38 °%,ESE,5 °mph,0 °mph,29.78 °in,0.0 °in,Fair,2015 September 09,94301,Palo%20Alto
+4:53 AM,65 °F,41 °F,42 °%,CALM,0 °mph,0 °mph,29.78 °in,0.0 °in,Fair,2015 September 09,94301,Palo%20Alto
+5:53 AM,66 °F,40 °F,38 °%,CALM,0 °mph,0 °mph,29.79 °in,0.0 °in,Fair,2015 September 09,94301,Palo%20Alto
+6:53 AM,66 °F,39 °F,37 °%,CALM,0 °mph,0 °mph,29.79 °in,0.0 °in,Fair,2015 September 09,94301,Palo%20Alto
+7:37 AM,68 °F,39 °F,35 °%,CALM,0 °mph,0 °mph,29.80 °in,0.0 °in,Fair,2015 September 09,94301,Palo%20Alto
+7:53 AM,69 °F,40 °F,35 °%,CALM,0 °mph,0 °mph,29.81 °in,0.0 °in,Fair,2015 September 09,94301,Palo%20Alto
+8:53 AM,73 °F,42 °F,33 °%,CALM,0 °mph,0 °mph,29.81 °in,0.0 °in,Fair,2015 September 09,94301,Palo%20Alto
+9:53 AM,80 °F,43 °F,27 °%,CALM,0 °mph,0 °mph,29.81 °in,0.0 °in,Fair,2015 September 09,94301,Palo%20Alto
+10:53 AM,84 °F,42 °F,23 °%,CALM,0 °mph,0 °mph,29.82 °in,0.0 °in,Fair,2015 September 09,94301,Palo%20Alto
+11:53 AM,88 °F,41 °F,19 °%,NNW,5 °mph,0 °mph,29.80 °in,0.0 °in,Fair,2015 September 09,94301,Palo%20Alto
+12:53 PM,90 °F,35 °F,14 °%,WNW,7 °mph,0 °mph,29.79 °in,0.0 °in,Fair,2015 September 09,94301,Palo%20Alto
+1:53 PM,95 °F,34 °F,12 °%,WNW,8 °mph,0 °mph,29.77 °in,0.0 °in,Fair,2015 September 09,94301,Palo%20Alto
+2:53 PM,95 °F,36 °F,13 °%,WNW,12 °mph,0 °mph,29.75 °in,0.0 °in,Fair,2015 September 09,94301,Palo%20Alto
+3:53 PM,94 °F,39 °F,15 °%,NW,14 °mph,0 °mph,29.73 °in,0.0 °in,Fair,2015 September 09,94301,Palo%20Alto
+4:53 PM,93 °F,43 °F,18 °%,WNW,15 °mph,0 °mph,29.72 °in,0.0 °in,Fair,2015 September 09,94301,Palo%20Alto
+5:53 PM,91 °F,40 °F,17 °%,WNW,16 °mph,0 °mph,29.72 °in,0.0 °in,Fair,2015 September 09,94301,Palo%20Alto
+6:53 PM,87 °F,38 °F,18 °%,NW,13 °mph,0 °mph,29.72 °in,0.0 °in,Fair,2015 September 09,94301,Palo%20Alto
+7:53 PM,81 °F,43 °F,26 °%,W,9 °mph,0 °mph,29.74 °in,0.0 °in,Fair,2015 September 09,94301,Palo%20Alto
+8:53 PM,79 °F,44 °F,29 °%,W,7 °mph,0 °mph,29.76 °in,0.0 °in,Fair,2015 September 09,94301,Palo%20Alto
+9:53 PM,76 °F,46 °F,35 °%,WNW,5 °mph,0 °mph,29.78 °in,0.0 °in,Fair,2015 September 09,94301,Palo%20Alto
+10:53 PM,73 °F,52 °F,48 °%,NW,3 °mph,0 °mph,29.78 °in,0.0 °in,Fair,2015 September 09,94301,Palo%20Alto
+11:53 PM,74 °F,50 °F,43 °%,CALM,0 °mph,0 °mph,29.79 °in,0.0 °in,Fair,2015 September 09,94301,Palo%20Alto
+12:53 AM,71 °F,48 °F,44 °%,SE,3 °mph,0 °mph,29.80 °in,0.0 °in,Fair,2015 September 09,94303,Palo%20Alto
+1:53 AM,67 °F,44 °F,44 °%,ESE,5 °mph,0 °mph,29.79 °in,0.0 °in,Fair,2015 September 09,94303,Palo%20Alto
+2:53 AM,69 °F,41 °F,36 °%,E,3 °mph,0 °mph,29.78 °in,0.0 °in,Fair,2015 September 09,94303,Palo%20Alto
+3:53 AM,66 °F,40 °F,38 °%,ESE,5 °mph,0 °mph,29.78 °in,0.0 °in,Fair,2015 September 09,94303,Palo%20Alto
+4:53 AM,65 °F,41 °F,42 °%,CALM,0 °mph,0 °mph,29.78 °in,0.0 °in,Fair,2015 September 09,94303,Palo%20Alto
+5:53 AM,66 °F,40 °F,38 °%,CALM,0 °mph,0 °mph,29.79 °in,0.0 °in,Fair,2015 September 09,94303,Palo%20Alto
+6:53 AM,66 °F,39 °F,37 °%,CALM,0 °mph,0 °mph,29.79 °in,0.0 °in,Fair,2015 September 09,94303,Palo%20Alto
+7:37 AM,68 °F,39 °F,35 °%,CALM,0 °mph,0 °mph,29.80 °in,0.0 °in,Fair,2015 September 09,94303,Palo%20Alto
+7:53 AM,69 °F,40 °F,35 °%,CALM,0 °mph,0 °mph,29.81 °in,0.0 °in,Fair,2015 September 09,94303,Palo%20Alto
+8:53 AM,73 °F,42 °F,33 °%,CALM,0 °mph,0 °mph,29.81 °in,0.0 °in,Fair,2015 September 09,94303,Palo%20Alto
+9:53 AM,80 °F,43 °F,27 °%,CALM,0 °mph,0 °mph,29.81 °in,0.0 °in,Fair,2015 September 09,94303,Palo%20Alto
+10:53 AM,84 °F,42 °F,23 °%,CALM,0 °mph,0 °mph,29.82 °in,0.0 °in,Fair,2015 September 09,94303,Palo%20Alto
+11:53 AM,88 °F,41 °F,19 °%,NNW,5 °mph,0 °mph,29.80 °in,0.0 °in,Fair,2015 September 09,94303,Palo%20Alto
+12:53 PM,90 °F,35 °F,14 °%,WNW,7 °mph,0 °mph,29.79 °in,0.0 °in,Fair,2015 September 09,94303,Palo%20Alto
+1:53 PM,95 °F,34 °F,12 °%,WNW,8 °mph,0 °mph,29.77 °in,0.0 °in,Fair,2015 September 09,94303,Palo%20Alto
+2:53 PM,95 °F,36 °F,13 °%,WNW,12 °mph,0 °mph,29.75 °in,0.0 °in,Fair,2015 September 09,94303,Palo%20Alto
+3:53 PM,94 °F,39 °F,15 °%,NW,14 °mph,0 °mph,29.73 °in,0.0 °in,Fair,2015 September 09,94303,Palo%20Alto
+4:53 PM,93 °F,43 °F,18 °%,WNW,15 °mph,0 °mph,29.72 °in,0.0 °in,Fair,2015 September 09,94303,Palo%20Alto
+5:53 PM,91 °F,40 °F,17 °%,WNW,16 °mph,0 °mph,29.72 °in,0.0 °in,Fair,2015 September 09,94303,Palo%20Alto
+6:53 PM,87 °F,38 °F,18 °%,NW,13 °mph,0 °mph,29.72 °in,0.0 °in,Fair,2015 September 09,94303,Palo%20Alto
+7:53 PM,81 °F,43 °F,26 °%,W,9 °mph,0 °mph,29.74 °in,0.0 °in,Fair,2015 September 09,94303,Palo%20Alto
+8:53 PM,79 °F,44 °F,29 °%,W,7 °mph,0 °mph,29.76 °in,0.0 °in,Fair,2015 September 09,94303,Palo%20Alto
+9:53 PM,76 °F,46 °F,35 °%,WNW,5 °mph,0 °mph,29.78 °in,0.0 °in,Fair,2015 September 09,94303,Palo%20Alto
+10:53 PM,73 °F,52 °F,48 °%,NW,3 °mph,0 °mph,29.78 °in,0.0 °in,Fair,2015 September 09,94303,Palo%20Alto
+11:53 PM,74 °F,50 °F,43 °%,CALM,0 °mph,0 °mph,29.79 °in,0.0 °in,Fair,2015 September 09,94303,Palo%20Alto
+12:53 AM,71 °F,51 °F,49 °%,CALM,0 °mph,0 °mph,29.80 °in,0.0 °in,Fair,2015 September 10,94303,Palo%20Alto
+1:53 AM,72 °F,55 °F,55 °%,CALM,0 °mph,0 °mph,29.80 °in,0.0 °in,Fair,2015 September 10,94303,Palo%20Alto
+2:53 AM,69 °F,53 °F,57 °%,SW,3 °mph,0 °mph,29.79 °in,0.0 °in,Fair,2015 September 10,94303,Palo%20Alto
+3:53 AM,69 °F,54 °F,58 °%,CALM,0 °mph,0 °mph,29.79 °in,0.0 °in,Fair,2015 September 10,94303,Palo%20Alto
+4:53 AM,68 °F,57 °F,68 °%,CALM,0 °mph,0 °mph,29.79 °in,0.0 °in,Fair,2015 September 10,94303,Palo%20Alto
+5:53 AM,67 °F,56 °F,68 °%,CALM,0 °mph,0 °mph,29.79 °in,0.0 °in,Fair,2015 September 10,94303,Palo%20Alto
+6:53 AM,67 °F,56 °F,68 °%,CALM,0 °mph,0 °mph,29.80 °in,0.0 °in,Partly Cloudy,2015 September 10,94303,Palo%20Alto
+7:21 AM,66 °F,57 °F,73 °%,CALM,0 °mph,0 °mph,29.81 °in,0.0 °in,Partly Cloudy,2015 September 10,94303,Palo%20Alto
+7:53 AM,69 °F,57 °F,65 °%,CALM,0 °mph,0 °mph,29.82 °in,0.0 °in,Partly Cloudy,2015 September 10,94303,Palo%20Alto
+8:53 AM,73 °F,61 °F,66 °%,CALM,0 °mph,0 °mph,29.82 °in,0.0 °in,Mostly Cloudy,2015 September 10,94303,Palo%20Alto
+9:53 AM,76 °F,62 °F,62 °%,CALM,0 °mph,0 °mph,29.82 °in,0.0 °in,Mostly Cloudy,2015 September 10,94303,Palo%20Alto
+10:53 AM,82 °F,58 °F,44 °%,CALM,0 °mph,0 °mph,29.82 °in,0.0 °in,Partly Cloudy,2015 September 10,94303,Palo%20Alto
+11:53 AM,88 °F,53 °F,30 °%,NW,5 °mph,0 °mph,29.81 °in,0.0 °in,Partly Cloudy,2015 September 10,94303,Palo%20Alto
+12:53 PM,91 °F,40 °F,17 °%,WNW,7 °mph,0 °mph,29.79 °in,0.0 °in,Partly Cloudy,2015 September 10,94303,Palo%20Alto
+1:53 PM,94 °F,43 °F,17 °%,WNW,10 °mph,0 °mph,29.78 °in,0.0 °in,Partly Cloudy,2015 September 10,94303,Palo%20Alto
+2:53 PM,94 °F,41 °F,16 °%,WNW,14 °mph,0 °mph,29.76 °in,0.0 °in,Partly Cloudy,2015 September 10,94303,Palo%20Alto
+3:53 PM,88 °F,48 °F,25 °%,WNW,14 °mph,0 °mph,29.76 °in,0.0 °in,Partly Cloudy,2015 September 10,94303,Palo%20Alto
+4:53 PM,90 °F,45 °F,21 °%,WNW,13 °mph,0 °mph,29.76 °in,0.0 °in,Partly Cloudy,2015 September 10,94303,Palo%20Alto
+5:53 PM,89 °F,42 °F,19 °%,WNW,15 °mph,0 °mph,29.76 °in,0.0 °in,Partly Cloudy,2015 September 10,94303,Palo%20Alto
+6:53 PM,84 °F,46 °F,26 °%,WNW,8 °mph,0 °mph,29.77 °in,0.0 °in,Fair,2015 September 10,94303,Palo%20Alto
+7:53 PM,81 °F,48 °F,31 °%,W,8 °mph,0 °mph,29.78 °in,0.0 °in,Fair,2015 September 10,94303,Palo%20Alto
+8:53 PM,77 °F,52 °F,42 °%,WSW,6 °mph,0 °mph,29.81 °in,0.0 °in,Fair,2015 September 10,94303,Palo%20Alto
+9:53 PM,75 °F,51 °F,43 °%,WSW,6 °mph,0 °mph,29.83 °in,0.0 °in,Fair,2015 September 10,94303,Palo%20Alto
+10:53 PM,72 °F,52 °F,49 °%,NW,3 °mph,0 °mph,29.84 °in,0.0 °in,Fair,2015 September 10,94303,Palo%20Alto
+11:53 PM,71 °F,63 °F,75 °%,NNW,3 °mph,0 °mph,29.84 °in,0.0 °in,Fair,2015 September 10,94303,Palo%20Alto
+12:53 AM,71 °F,51 °F,49 °%,CALM,0 °mph,0 °mph,29.80 °in,0.0 °in,Fair,2015 September 10,94301,Palo%20Alto
+1:53 AM,72 °F,55 °F,55 °%,CALM,0 °mph,0 °mph,29.80 °in,0.0 °in,Fair,2015 September 10,94301,Palo%20Alto
+2:53 AM,69 °F,53 °F,57 °%,SW,3 °mph,0 °mph,29.79 °in,0.0 °in,Fair,2015 September 10,94301,Palo%20Alto
+3:53 AM,69 °F,54 °F,58 °%,CALM,0 °mph,0 °mph,29.79 °in,0.0 °in,Fair,2015 September 10,94301,Palo%20Alto
+4:53 AM,68 °F,57 °F,68 °%,CALM,0 °mph,0 °mph,29.79 °in,0.0 °in,Fair,2015 September 10,94301,Palo%20Alto
+5:53 AM,67 °F,56 °F,68 °%,CALM,0 °mph,0 °mph,29.79 °in,0.0 °in,Fair,2015 September 10,94301,Palo%20Alto
+6:53 AM,67 °F,56 °F,68 °%,CALM,0 °mph,0 °mph,29.80 °in,0.0 °in,Partly Cloudy,2015 September 10,94301,Palo%20Alto
+7:21 AM,66 °F,57 °F,73 °%,CALM,0 °mph,0 °mph,29.81 °in,0.0 °in,Partly Cloudy,2015 September 10,94301,Palo%20Alto
+7:53 AM,69 °F,57 °F,65 °%,CALM,0 °mph,0 °mph,29.82 °in,0.0 °in,Partly Cloudy,2015 September 10,94301,Palo%20Alto
+8:53 AM,73 °F,61 °F,66 °%,CALM,0 °mph,0 °mph,29.82 °in,0.0 °in,Mostly Cloudy,2015 September 10,94301,Palo%20Alto
+9:53 AM,76 °F,62 °F,62 °%,CALM,0 °mph,0 °mph,29.82 °in,0.0 °in,Mostly Cloudy,2015 September 10,94301,Palo%20Alto
+10:53 AM,82 °F,58 °F,44 °%,CALM,0 °mph,0 °mph,29.82 °in,0.0 °in,Partly Cloudy,2015 September 10,94301,Palo%20Alto
+11:53 AM,88 °F,53 °F,30 °%,NW,5 °mph,0 °mph,29.81 °in,0.0 °in,Partly Cloudy,2015 September 10,94301,Palo%20Alto
+12:53 PM,91 °F,40 °F,17 °%,WNW,7 °mph,0 °mph,29.79 °in,0.0 °in,Partly Cloudy,2015 September 10,94301,Palo%20Alto
+1:53 PM,94 °F,43 °F,17 °%,WNW,10 °mph,0 °mph,29.78 °in,0.0 °in,Partly Cloudy,2015 September 10,94301,Palo%20Alto
+2:53 PM,94 °F,41 °F,16 °%,WNW,14 °mph,0 °mph,29.76 °in,0.0 °in,Partly Cloudy,2015 September 10,94301,Palo%20Alto
+3:53 PM,88 °F,48 °F,25 °%,WNW,14 °mph,0 °mph,29.76 °in,0.0 °in,Partly Cloudy,2015 September 10,94301,Palo%20Alto
+4:53 PM,90 °F,45 °F,21 °%,WNW,13 °mph,0 °mph,29.76 °in,0.0 °in,Partly Cloudy,2015 September 10,94301,Palo%20Alto
+5:53 PM,89 °F,42 °F,19 °%,WNW,15 °mph,0 °mph,29.76 °in,0.0 °in,Partly Cloudy,2015 September 10,94301,Palo%20Alto
+6:53 PM,84 °F,46 °F,26 °%,WNW,8 °mph,0 °mph,29.77 °in,0.0 °in,Fair,2015 September 10,94301,Palo%20Alto
+7:53 PM,81 °F,48 °F,31 °%,W,8 °mph,0 °mph,29.78 °in,0.0 °in,Fair,2015 September 10,94301,Palo%20Alto
+8:53 PM,77 °F,52 °F,42 °%,WSW,6 °mph,0 °mph,29.81 °in,0.0 °in,Fair,2015 September 10,94301,Palo%20Alto
+9:53 PM,75 °F,51 °F,43 °%,WSW,6 °mph,0 °mph,29.83 °in,0.0 °in,Fair,2015 September 10,94301,Palo%20Alto
+10:53 PM,72 °F,52 °F,49 °%,NW,3 °mph,0 °mph,29.84 °in,0.0 °in,Fair,2015 September 10,94301,Palo%20Alto
+11:53 PM,71 °F,63 °F,75 °%,NNW,3 °mph,0 °mph,29.84 °in,0.0 °in,Fair,2015 September 10,94301,Palo%20Alto
+12:53 AM,69 °F,62 °F,78 °%,CALM,0 °mph,0 °mph,29.84 °in,0.0 °in,Fair,2015 September 11,94303,Palo%20Alto
+1:53 AM,67 °F,61 °F,81 °%,WNW,3 °mph,0 °mph,29.84 °in,0.0 °in,Fair,2015 September 11,94303,Palo%20Alto
+2:53 AM,67 °F,61 °F,81 °%,WNW,3 °mph,0 °mph,29.84 °in,0.0 °in,Fair,2015 September 11,94303,Palo%20Alto
+3:53 AM,66 °F,61 °F,84 °%,CALM,0 °mph,0 °mph,29.84 °in,0.0 °in,Fair,2015 September 11,94303,Palo%20Alto
+4:53 AM,67 °F,60 °F,79 °%,CALM,0 °mph,0 °mph,29.84 °in,0.0 °in,Partly Cloudy,2015 September 11,94303,Palo%20Alto
+5:45 AM,66 °F,61 °F,83 °%,NW,3 °mph,0 °mph,29.84 °in,0.0 °in,Mostly Cloudy,2015 September 11,94303,Palo%20Alto
+5:53 AM,67 °F,62 °F,84 °%,NNW,5 °mph,0 °mph,29.84 °in,0.0 °in,Mostly Cloudy,2015 September 11,94303,Palo%20Alto
+6:53 AM,66 °F,60 °F,81 °%,SW,3 °mph,0 °mph,29.86 °in,0.0 °in,Mostly Cloudy,2015 September 11,94303,Palo%20Alto
+7:53 AM,68 °F,61 °F,78 °%,CALM,0 °mph,0 °mph,29.87 °in,0.0 °in,Mostly Cloudy,2015 September 11,94303,Palo%20Alto
+8:53 AM,71 °F,63 °F,75 °%,CALM,0 °mph,0 °mph,29.87 °in,0.0 °in,Mostly Cloudy,2015 September 11,94303,Palo%20Alto
+9:53 AM,75 °F,62 °F,64 °%,NW,6 °mph,0 °mph,29.87 °in,0.0 °in,Partly Cloudy,2015 September 11,94303,Palo%20Alto
+10:53 AM,77 °F,62 °F,60 °%,NW,6 °mph,0 °mph,29.87 °in,0.0 °in,Mostly Cloudy,2015 September 11,94303,Palo%20Alto
+11:53 AM,81 °F,58 °F,45 °%,VAR,6 °mph,0 °mph,29.86 °in,0.0 °in,Partly Cloudy,2015 September 11,94303,Palo%20Alto
+12:53 PM,86 °F,48 °F,27 °%,WNW,9 °mph,0 °mph,29.85 °in,0.0 °in,Fair,2015 September 11,94303,Palo%20Alto
+1:53 PM,87 °F,41 °F,20 °%,WNW,14 °mph,0 °mph,29.83 °in,0.0 °in,Fair,2015 September 11,94303,Palo%20Alto
+2:53 PM,88 °F,44 °F,22 °%,NW,12 °mph,0 °mph,29.81 °in,0.0 °in,Fair,2015 September 11,94303,Palo%20Alto
+3:53 PM,89 °F,41 °F,19 °%,WNW,16 °mph,0 °mph,29.78 °in,0.0 °in,Partly Cloudy,2015 September 11,94303,Palo%20Alto
+4:53 PM,87 °F,43 °F,21 °%,WNW,16 °mph,0 °mph,29.77 °in,0.0 °in,Partly Cloudy,2015 September 11,94303,Palo%20Alto
+5:53 PM,85 °F,44 °F,24 °%,WNW,14 °mph,0 °mph,29.78 °in,0.0 °in,Mostly Cloudy,2015 September 11,94303,Palo%20Alto
+6:53 PM,81 °F,51 °F,35 °%,WNW,10 °mph,0 °mph,29.79 °in,0.0 °in,Mostly Cloudy,2015 September 11,94303,Palo%20Alto
+7:53 PM,75 °F,55 °F,50 °%,WNW,8 °mph,0 °mph,29.81 °in,0.0 °in,Mostly Cloudy,2015 September 11,94303,Palo%20Alto
+8:53 PM,73 °F,53 °F,49 °%,WNW,8 °mph,0 °mph,29.84 °in,0.0 °in,Mostly Cloudy,2015 September 11,94303,Palo%20Alto
+9:53 PM,69 °F,55 °F,61 °%,WNW,7 °mph,0 °mph,29.85 °in,0.0 °in,Mostly Cloudy,2015 September 11,94303,Palo%20Alto
+10:53 PM,67 °F,59 °F,76 °%,WNW,6 °mph,0 °mph,29.86 °in,0.0 °in,Mostly Cloudy,2015 September 11,94303,Palo%20Alto
+11:53 PM,65 °F,59 °F,81 °%,WNW,9 °mph,0 °mph,29.86 °in,0.0 °in,Mostly Cloudy,2015 September 11,94303,Palo%20Alto
+12:53 AM,69 °F,62 °F,78 °%,CALM,0 °mph,0 °mph,29.84 °in,0.0 °in,Fair,2015 September 11,94301,Palo%20Alto
+1:53 AM,67 °F,61 °F,81 °%,WNW,3 °mph,0 °mph,29.84 °in,0.0 °in,Fair,2015 September 11,94301,Palo%20Alto
+2:53 AM,67 °F,61 °F,81 °%,WNW,3 °mph,0 °mph,29.84 °in,0.0 °in,Fair,2015 September 11,94301,Palo%20Alto
+3:53 AM,66 °F,61 °F,84 °%,CALM,0 °mph,0 °mph,29.84 °in,0.0 °in,Fair,2015 September 11,94301,Palo%20Alto
+4:53 AM,67 °F,60 °F,79 °%,CALM,0 °mph,0 °mph,29.84 °in,0.0 °in,Partly Cloudy,2015 September 11,94301,Palo%20Alto
+5:45 AM,66 °F,61 °F,83 °%,NW,3 °mph,0 °mph,29.84 °in,0.0 °in,Mostly Cloudy,2015 September 11,94301,Palo%20Alto
+5:53 AM,67 °F,62 °F,84 °%,NNW,5 °mph,0 °mph,29.84 °in,0.0 °in,Mostly Cloudy,2015 September 11,94301,Palo%20Alto
+6:53 AM,66 °F,60 °F,81 °%,SW,3 °mph,0 °mph,29.86 °in,0.0 °in,Mostly Cloudy,2015 September 11,94301,Palo%20Alto
+7:53 AM,68 °F,61 °F,78 °%,CALM,0 °mph,0 °mph,29.87 °in,0.0 °in,Mostly Cloudy,2015 September 11,94301,Palo%20Alto
+8:53 AM,71 °F,63 °F,75 °%,CALM,0 °mph,0 °mph,29.87 °in,0.0 °in,Mostly Cloudy,2015 September 11,94301,Palo%20Alto
+9:53 AM,75 °F,62 °F,64 °%,NW,6 °mph,0 °mph,29.87 °in,0.0 °in,Partly Cloudy,2015 September 11,94301,Palo%20Alto
+10:53 AM,77 °F,62 °F,60 °%,NW,6 °mph,0 °mph,29.87 °in,0.0 °in,Mostly Cloudy,2015 September 11,94301,Palo%20Alto
+11:53 AM,81 °F,58 °F,45 °%,VAR,6 °mph,0 °mph,29.86 °in,0.0 °in,Partly Cloudy,2015 September 11,94301,Palo%20Alto
+12:53 PM,86 °F,48 °F,27 °%,WNW,9 °mph,0 °mph,29.85 °in,0.0 °in,Fair,2015 September 11,94301,Palo%20Alto
+1:53 PM,87 °F,41 °F,20 °%,WNW,14 °mph,0 °mph,29.83 °in,0.0 °in,Fair,2015 September 11,94301,Palo%20Alto
+2:53 PM,88 °F,44 °F,22 °%,NW,12 °mph,0 °mph,29.81 °in,0.0 °in,Fair,2015 September 11,94301,Palo%20Alto
+3:53 PM,89 °F,41 °F,19 °%,WNW,16 °mph,0 °mph,29.78 °in,0.0 °in,Partly Cloudy,2015 September 11,94301,Palo%20Alto
+4:53 PM,87 °F,43 °F,21 °%,WNW,16 °mph,0 °mph,29.77 °in,0.0 °in,Partly Cloudy,2015 September 11,94301,Palo%20Alto
+5:53 PM,85 °F,44 °F,24 °%,WNW,14 °mph,0 °mph,29.78 °in,0.0 °in,Mostly Cloudy,2015 September 11,94301,Palo%20Alto
+6:53 PM,81 °F,51 °F,35 °%,WNW,10 °mph,0 °mph,29.79 °in,0.0 °in,Mostly Cloudy,2015 September 11,94301,Palo%20Alto
+7:53 PM,75 °F,55 °F,50 °%,WNW,8 °mph,0 °mph,29.81 °in,0.0 °in,Mostly Cloudy,2015 September 11,94301,Palo%20Alto
+8:53 PM,73 °F,53 °F,49 °%,WNW,8 °mph,0 °mph,29.84 °in,0.0 °in,Mostly Cloudy,2015 September 11,94301,Palo%20Alto
+9:53 PM,69 °F,55 °F,61 °%,WNW,7 °mph,0 °mph,29.85 °in,0.0 °in,Mostly Cloudy,2015 September 11,94301,Palo%20Alto
+10:53 PM,67 °F,59 °F,76 °%,WNW,6 °mph,0 °mph,29.86 °in,0.0 °in,Mostly Cloudy,2015 September 11,94301,Palo%20Alto
+11:53 PM,65 °F,59 °F,81 °%,WNW,9 °mph,0 °mph,29.86 °in,0.0 °in,Mostly Cloudy,2015 September 11,94301,Palo%20Alto
