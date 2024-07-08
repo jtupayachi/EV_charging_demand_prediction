@@ -1,0 +1,245 @@
+Time,Temperature,Dew Point,Humidity,Wind,Wind Speed,Wind Gust,Pressure,Precip.,Condition,date_collector,postal_code,city
+1:53 AM,38 °F,33 °F,83 °%,ESE,3 °mph,0 °mph,29.97 °in,0.0 °in,Fair,2016 December 25,94303,Palo%20Alto
+2:23 AM,36 °F,33 °F,89 °%,ESE,5 °mph,0 °mph,29.97 °in,0.0 °in,Mostly Cloudy,2016 December 25,94303,Palo%20Alto
+2:35 AM,36 °F,32 °F,86 °%,ESE,5 °mph,0 °mph,29.97 °in,0.0 °in,Partly Cloudy,2016 December 25,94303,Palo%20Alto
+2:53 AM,35 °F,32 °F,89 °%,ESE,7 °mph,0 °mph,29.97 °in,0.0 °in,Fair,2016 December 25,94303,Palo%20Alto
+3:53 AM,36 °F,32 °F,86 °%,SE,5 °mph,0 °mph,29.99 °in,0.0 °in,Fair,2016 December 25,94303,Palo%20Alto
+4:53 AM,35 °F,32 °F,89 °%,SE,5 °mph,0 °mph,29.98 °in,0.0 °in,Fair,2016 December 25,94303,Palo%20Alto
+5:53 AM,36 °F,33 °F,89 °%,S,6 °mph,0 °mph,29.98 °in,0.0 °in,Fair,2016 December 25,94303,Palo%20Alto
+6:53 AM,36 °F,33 °F,89 °%,SE,5 °mph,0 °mph,29.98 °in,0.0 °in,Mostly Cloudy,2016 December 25,94303,Palo%20Alto
+7:53 AM,37 °F,33 °F,86 °%,SE,6 °mph,0 °mph,29.99 °in,0.0 °in,Mostly Cloudy,2016 December 25,94303,Palo%20Alto
+8:53 AM,41 °F,35 °F,79 °%,SE,9 °mph,0 °mph,29.99 °in,0.0 °in,Mostly Cloudy,2016 December 25,94303,Palo%20Alto
+9:53 AM,42 °F,36 °F,79 °%,ESE,10 °mph,0 °mph,30.01 °in,0.0 °in,Mostly Cloudy,2016 December 25,94303,Palo%20Alto
+10:53 AM,45 °F,36 °F,71 °%,ESE,13 °mph,0 °mph,30.03 °in,0.0 °in,Mostly Cloudy,2016 December 25,94303,Palo%20Alto
+11:53 AM,49 °F,36 °F,61 °%,ESE,9 °mph,0 °mph,30.02 °in,0.0 °in,Partly Cloudy,2016 December 25,94303,Palo%20Alto
+12:53 PM,51 °F,33 °F,50 °%,E,14 °mph,0 °mph,30.00 °in,0.0 °in,Mostly Cloudy,2016 December 25,94303,Palo%20Alto
+1:53 PM,52 °F,31 °F,45 °%,ESE,10 °mph,0 °mph,29.98 °in,0.0 °in,Mostly Cloudy,2016 December 25,94303,Palo%20Alto
+2:53 PM,53 °F,29 °F,40 °%,SE,6 °mph,0 °mph,29.97 °in,0.0 °in,Mostly Cloudy,2016 December 25,94303,Palo%20Alto
+3:53 PM,53 °F,31 °F,43 °%,SSE,5 °mph,0 °mph,29.98 °in,0.0 °in,Mostly Cloudy,2016 December 25,94303,Palo%20Alto
+4:53 PM,54 °F,31 °F,41 °%,SSE,3 °mph,0 °mph,29.98 °in,0.0 °in,Mostly Cloudy,2016 December 25,94303,Palo%20Alto
+5:53 PM,51 °F,30 °F,44 °%,E,6 °mph,0 °mph,29.98 °in,0.0 °in,Mostly Cloudy,2016 December 25,94303,Palo%20Alto
+6:53 PM,49 °F,32 °F,52 °%,ESE,8 °mph,0 °mph,29.99 °in,0.0 °in,Mostly Cloudy,2016 December 25,94303,Palo%20Alto
+7:53 PM,47 °F,34 °F,61 °%,SE,8 °mph,0 °mph,30.01 °in,0.0 °in,Mostly Cloudy,2016 December 25,94303,Palo%20Alto
+8:53 PM,44 °F,34 °F,68 °%,E,5 °mph,0 °mph,30.03 °in,0.0 °in,Mostly Cloudy,2016 December 25,94303,Palo%20Alto
+9:53 PM,43 °F,34 °F,71 °%,CALM,0 °mph,0 °mph,30.06 °in,0.0 °in,Partly Cloudy,2016 December 25,94303,Palo%20Alto
+10:53 PM,46 °F,34 °F,63 °%,NE,3 °mph,0 °mph,30.09 °in,0.0 °in,Fair,2016 December 25,94303,Palo%20Alto
+11:53 PM,41 °F,34 °F,76 °%,CALM,0 °mph,0 °mph,30.10 °in,0.0 °in,Fair,2016 December 25,94303,Palo%20Alto
+12:53 AM,41 °F,35 °F,79 °%,SW,3 °mph,0 °mph,30.12 °in,0.0 °in,Fair,2016 December 25,94303,Palo%20Alto
+1:53 AM,38 °F,33 °F,83 °%,ESE,3 °mph,0 °mph,29.97 °in,0.0 °in,Fair,2016 December 25,94306,Palo%20Alto
+2:23 AM,36 °F,33 °F,89 °%,ESE,5 °mph,0 °mph,29.97 °in,0.0 °in,Mostly Cloudy,2016 December 25,94306,Palo%20Alto
+2:35 AM,36 °F,32 °F,86 °%,ESE,5 °mph,0 °mph,29.97 °in,0.0 °in,Partly Cloudy,2016 December 25,94306,Palo%20Alto
+2:53 AM,35 °F,32 °F,89 °%,ESE,7 °mph,0 °mph,29.97 °in,0.0 °in,Fair,2016 December 25,94306,Palo%20Alto
+3:53 AM,36 °F,32 °F,86 °%,SE,5 °mph,0 °mph,29.99 °in,0.0 °in,Fair,2016 December 25,94306,Palo%20Alto
+4:53 AM,35 °F,32 °F,89 °%,SE,5 °mph,0 °mph,29.98 °in,0.0 °in,Fair,2016 December 25,94306,Palo%20Alto
+5:53 AM,36 °F,33 °F,89 °%,S,6 °mph,0 °mph,29.98 °in,0.0 °in,Fair,2016 December 25,94306,Palo%20Alto
+6:53 AM,36 °F,33 °F,89 °%,SE,5 °mph,0 °mph,29.98 °in,0.0 °in,Mostly Cloudy,2016 December 25,94306,Palo%20Alto
+7:53 AM,37 °F,33 °F,86 °%,SE,6 °mph,0 °mph,29.99 °in,0.0 °in,Mostly Cloudy,2016 December 25,94306,Palo%20Alto
+8:53 AM,41 °F,35 °F,79 °%,SE,9 °mph,0 °mph,29.99 °in,0.0 °in,Mostly Cloudy,2016 December 25,94306,Palo%20Alto
+9:53 AM,42 °F,36 °F,79 °%,ESE,10 °mph,0 °mph,30.01 °in,0.0 °in,Mostly Cloudy,2016 December 25,94306,Palo%20Alto
+10:53 AM,45 °F,36 °F,71 °%,ESE,13 °mph,0 °mph,30.03 °in,0.0 °in,Mostly Cloudy,2016 December 25,94306,Palo%20Alto
+11:53 AM,49 °F,36 °F,61 °%,ESE,9 °mph,0 °mph,30.02 °in,0.0 °in,Partly Cloudy,2016 December 25,94306,Palo%20Alto
+12:53 PM,51 °F,33 °F,50 °%,E,14 °mph,0 °mph,30.00 °in,0.0 °in,Mostly Cloudy,2016 December 25,94306,Palo%20Alto
+1:53 PM,52 °F,31 °F,45 °%,ESE,10 °mph,0 °mph,29.98 °in,0.0 °in,Mostly Cloudy,2016 December 25,94306,Palo%20Alto
+2:53 PM,53 °F,29 °F,40 °%,SE,6 °mph,0 °mph,29.97 °in,0.0 °in,Mostly Cloudy,2016 December 25,94306,Palo%20Alto
+3:53 PM,53 °F,31 °F,43 °%,SSE,5 °mph,0 °mph,29.98 °in,0.0 °in,Mostly Cloudy,2016 December 25,94306,Palo%20Alto
+4:53 PM,54 °F,31 °F,41 °%,SSE,3 °mph,0 °mph,29.98 °in,0.0 °in,Mostly Cloudy,2016 December 25,94306,Palo%20Alto
+5:53 PM,51 °F,30 °F,44 °%,E,6 °mph,0 °mph,29.98 °in,0.0 °in,Mostly Cloudy,2016 December 25,94306,Palo%20Alto
+6:53 PM,49 °F,32 °F,52 °%,ESE,8 °mph,0 °mph,29.99 °in,0.0 °in,Mostly Cloudy,2016 December 25,94306,Palo%20Alto
+7:53 PM,47 °F,34 °F,61 °%,SE,8 °mph,0 °mph,30.01 °in,0.0 °in,Mostly Cloudy,2016 December 25,94306,Palo%20Alto
+8:53 PM,44 °F,34 °F,68 °%,E,5 °mph,0 °mph,30.03 °in,0.0 °in,Mostly Cloudy,2016 December 25,94306,Palo%20Alto
+9:53 PM,43 °F,34 °F,71 °%,CALM,0 °mph,0 °mph,30.06 °in,0.0 °in,Partly Cloudy,2016 December 25,94306,Palo%20Alto
+10:53 PM,46 °F,34 °F,63 °%,NE,3 °mph,0 °mph,30.09 °in,0.0 °in,Fair,2016 December 25,94306,Palo%20Alto
+11:53 PM,41 °F,34 °F,76 °%,CALM,0 °mph,0 °mph,30.10 °in,0.0 °in,Fair,2016 December 25,94306,Palo%20Alto
+12:53 AM,41 °F,35 °F,79 °%,SW,3 °mph,0 °mph,30.12 °in,0.0 °in,Fair,2016 December 25,94306,Palo%20Alto
+1:53 AM,40 °F,35 °F,83 °%,SW,5 °mph,0 °mph,30.12 °in,0.0 °in,Fair,2016 December 26,94303,Palo%20Alto
+2:53 AM,39 °F,34 °F,82 °%,CALM,0 °mph,0 °mph,30.14 °in,0.0 °in,Fair,2016 December 26,94303,Palo%20Alto
+3:53 AM,37 °F,33 °F,86 °%,E,5 °mph,0 °mph,30.16 °in,0.0 °in,Fair,2016 December 26,94303,Palo%20Alto
+4:53 AM,36 °F,32 °F,86 °%,CALM,0 °mph,0 °mph,30.16 °in,0.0 °in,Fair,2016 December 26,94303,Palo%20Alto
+5:53 AM,35 °F,32 °F,89 °%,ENE,5 °mph,0 °mph,30.16 °in,0.0 °in,Fair,2016 December 26,94303,Palo%20Alto
+6:53 AM,35 °F,31 °F,85 °%,CALM,0 °mph,0 °mph,30.18 °in,0.0 °in,Fair,2016 December 26,94303,Palo%20Alto
+7:53 AM,35 °F,31 °F,85 °%,S,3 °mph,0 °mph,30.20 °in,0.0 °in,Fair,2016 December 26,94303,Palo%20Alto
+8:53 AM,36 °F,32 °F,86 °%,CALM,0 °mph,0 °mph,30.22 °in,0.0 °in,Fair,2016 December 26,94303,Palo%20Alto
+9:53 AM,40 °F,33 °F,77 °%,NE,3 °mph,0 °mph,30.24 °in,0.0 °in,Fair,2016 December 26,94303,Palo%20Alto
+10:53 AM,43 °F,33 °F,68 °%,CALM,0 °mph,0 °mph,30.26 °in,0.0 °in,Fair,2016 December 26,94303,Palo%20Alto
+11:53 AM,46 °F,34 °F,63 °%,SSE,3 °mph,0 °mph,30.25 °in,0.0 °in,Fair,2016 December 26,94303,Palo%20Alto
+12:53 PM,50 °F,34 °F,54 °%,W,6 °mph,0 °mph,30.24 °in,0.0 °in,Fair,2016 December 26,94303,Palo%20Alto
+1:53 PM,52 °F,33 °F,49 °%,NW,5 °mph,0 °mph,30.22 °in,0.0 °in,Fair,2016 December 26,94303,Palo%20Alto
+2:53 PM,53 °F,31 °F,43 °%,WSW,5 °mph,0 °mph,30.21 °in,0.0 °in,Fair,2016 December 26,94303,Palo%20Alto
+3:53 PM,54 °F,29 °F,38 °%,W,3 °mph,0 °mph,30.21 °in,0.0 °in,Fair,2016 December 26,94303,Palo%20Alto
+4:53 PM,54 °F,30 °F,40 °%,SW,6 °mph,0 °mph,30.20 °in,0.0 °in,Partly Cloudy,2016 December 26,94303,Palo%20Alto
+5:53 PM,51 °F,31 °F,46 °%,SW,6 °mph,0 °mph,30.21 °in,0.0 °in,Mostly Cloudy,2016 December 26,94303,Palo%20Alto
+6:53 PM,48 °F,29 °F,48 °%,SW,5 °mph,0 °mph,30.22 °in,0.0 °in,Partly Cloudy,2016 December 26,94303,Palo%20Alto
+7:53 PM,47 °F,28 °F,48 °%,WSW,5 °mph,0 °mph,30.22 °in,0.0 °in,Partly Cloudy,2016 December 26,94303,Palo%20Alto
+8:53 PM,45 °F,28 °F,52 °%,CALM,0 °mph,0 °mph,30.26 °in,0.0 °in,Fair,2016 December 26,94303,Palo%20Alto
+9:53 PM,44 °F,30 °F,58 °%,SSW,5 °mph,0 °mph,30.29 °in,0.0 °in,Fair,2016 December 26,94303,Palo%20Alto
+10:53 PM,42 °F,28 °F,58 °%,WSW,7 °mph,0 °mph,30.30 °in,0.0 °in,Fair,2016 December 26,94303,Palo%20Alto
+11:53 PM,40 °F,31 °F,70 °%,ESE,5 °mph,0 °mph,30.30 °in,0.0 °in,Fair,2016 December 26,94303,Palo%20Alto
+12:53 AM,41 °F,31 °F,67 °%,CALM,0 °mph,0 °mph,30.30 °in,0.0 °in,Fair,2016 December 26,94303,Palo%20Alto
+1:53 AM,40 °F,35 °F,83 °%,SW,5 °mph,0 °mph,30.12 °in,0.0 °in,Fair,2016 December 26,94301,Palo%20Alto
+2:53 AM,39 °F,34 °F,82 °%,CALM,0 °mph,0 °mph,30.14 °in,0.0 °in,Fair,2016 December 26,94301,Palo%20Alto
+3:53 AM,37 °F,33 °F,86 °%,E,5 °mph,0 °mph,30.16 °in,0.0 °in,Fair,2016 December 26,94301,Palo%20Alto
+4:53 AM,36 °F,32 °F,86 °%,CALM,0 °mph,0 °mph,30.16 °in,0.0 °in,Fair,2016 December 26,94301,Palo%20Alto
+5:53 AM,35 °F,32 °F,89 °%,ENE,5 °mph,0 °mph,30.16 °in,0.0 °in,Fair,2016 December 26,94301,Palo%20Alto
+6:53 AM,35 °F,31 °F,85 °%,CALM,0 °mph,0 °mph,30.18 °in,0.0 °in,Fair,2016 December 26,94301,Palo%20Alto
+7:53 AM,35 °F,31 °F,85 °%,S,3 °mph,0 °mph,30.20 °in,0.0 °in,Fair,2016 December 26,94301,Palo%20Alto
+8:53 AM,36 °F,32 °F,86 °%,CALM,0 °mph,0 °mph,30.22 °in,0.0 °in,Fair,2016 December 26,94301,Palo%20Alto
+9:53 AM,40 °F,33 °F,77 °%,NE,3 °mph,0 °mph,30.24 °in,0.0 °in,Fair,2016 December 26,94301,Palo%20Alto
+10:53 AM,43 °F,33 °F,68 °%,CALM,0 °mph,0 °mph,30.26 °in,0.0 °in,Fair,2016 December 26,94301,Palo%20Alto
+11:53 AM,46 °F,34 °F,63 °%,SSE,3 °mph,0 °mph,30.25 °in,0.0 °in,Fair,2016 December 26,94301,Palo%20Alto
+12:53 PM,50 °F,34 °F,54 °%,W,6 °mph,0 °mph,30.24 °in,0.0 °in,Fair,2016 December 26,94301,Palo%20Alto
+1:53 PM,52 °F,33 °F,49 °%,NW,5 °mph,0 °mph,30.22 °in,0.0 °in,Fair,2016 December 26,94301,Palo%20Alto
+2:53 PM,53 °F,31 °F,43 °%,WSW,5 °mph,0 °mph,30.21 °in,0.0 °in,Fair,2016 December 26,94301,Palo%20Alto
+3:53 PM,54 °F,29 °F,38 °%,W,3 °mph,0 °mph,30.21 °in,0.0 °in,Fair,2016 December 26,94301,Palo%20Alto
+4:53 PM,54 °F,30 °F,40 °%,SW,6 °mph,0 °mph,30.20 °in,0.0 °in,Partly Cloudy,2016 December 26,94301,Palo%20Alto
+5:53 PM,51 °F,31 °F,46 °%,SW,6 °mph,0 °mph,30.21 °in,0.0 °in,Mostly Cloudy,2016 December 26,94301,Palo%20Alto
+6:53 PM,48 °F,29 °F,48 °%,SW,5 °mph,0 °mph,30.22 °in,0.0 °in,Partly Cloudy,2016 December 26,94301,Palo%20Alto
+7:53 PM,47 °F,28 °F,48 °%,WSW,5 °mph,0 °mph,30.22 °in,0.0 °in,Partly Cloudy,2016 December 26,94301,Palo%20Alto
+8:53 PM,45 °F,28 °F,52 °%,CALM,0 °mph,0 °mph,30.26 °in,0.0 °in,Fair,2016 December 26,94301,Palo%20Alto
+9:53 PM,44 °F,30 °F,58 °%,SSW,5 °mph,0 °mph,30.29 °in,0.0 °in,Fair,2016 December 26,94301,Palo%20Alto
+10:53 PM,42 °F,28 °F,58 °%,WSW,7 °mph,0 °mph,30.30 °in,0.0 °in,Fair,2016 December 26,94301,Palo%20Alto
+11:53 PM,40 °F,31 °F,70 °%,ESE,5 °mph,0 °mph,30.30 °in,0.0 °in,Fair,2016 December 26,94301,Palo%20Alto
+12:53 AM,41 °F,31 °F,67 °%,CALM,0 °mph,0 °mph,30.30 °in,0.0 °in,Fair,2016 December 26,94301,Palo%20Alto
+1:53 AM,40 °F,35 °F,83 °%,SW,5 °mph,0 °mph,30.12 °in,0.0 °in,Fair,2016 December 26,94306,Palo%20Alto
+2:53 AM,39 °F,34 °F,82 °%,CALM,0 °mph,0 °mph,30.14 °in,0.0 °in,Fair,2016 December 26,94306,Palo%20Alto
+3:53 AM,37 °F,33 °F,86 °%,E,5 °mph,0 °mph,30.16 °in,0.0 °in,Fair,2016 December 26,94306,Palo%20Alto
+4:53 AM,36 °F,32 °F,86 °%,CALM,0 °mph,0 °mph,30.16 °in,0.0 °in,Fair,2016 December 26,94306,Palo%20Alto
+5:53 AM,35 °F,32 °F,89 °%,ENE,5 °mph,0 °mph,30.16 °in,0.0 °in,Fair,2016 December 26,94306,Palo%20Alto
+6:53 AM,35 °F,31 °F,85 °%,CALM,0 °mph,0 °mph,30.18 °in,0.0 °in,Fair,2016 December 26,94306,Palo%20Alto
+7:53 AM,35 °F,31 °F,85 °%,S,3 °mph,0 °mph,30.20 °in,0.0 °in,Fair,2016 December 26,94306,Palo%20Alto
+8:53 AM,36 °F,32 °F,86 °%,CALM,0 °mph,0 °mph,30.22 °in,0.0 °in,Fair,2016 December 26,94306,Palo%20Alto
+9:53 AM,40 °F,33 °F,77 °%,NE,3 °mph,0 °mph,30.24 °in,0.0 °in,Fair,2016 December 26,94306,Palo%20Alto
+10:53 AM,43 °F,33 °F,68 °%,CALM,0 °mph,0 °mph,30.26 °in,0.0 °in,Fair,2016 December 26,94306,Palo%20Alto
+11:53 AM,46 °F,34 °F,63 °%,SSE,3 °mph,0 °mph,30.25 °in,0.0 °in,Fair,2016 December 26,94306,Palo%20Alto
+12:53 PM,50 °F,34 °F,54 °%,W,6 °mph,0 °mph,30.24 °in,0.0 °in,Fair,2016 December 26,94306,Palo%20Alto
+1:53 PM,52 °F,33 °F,49 °%,NW,5 °mph,0 °mph,30.22 °in,0.0 °in,Fair,2016 December 26,94306,Palo%20Alto
+2:53 PM,53 °F,31 °F,43 °%,WSW,5 °mph,0 °mph,30.21 °in,0.0 °in,Fair,2016 December 26,94306,Palo%20Alto
+3:53 PM,54 °F,29 °F,38 °%,W,3 °mph,0 °mph,30.21 °in,0.0 °in,Fair,2016 December 26,94306,Palo%20Alto
+4:53 PM,54 °F,30 °F,40 °%,SW,6 °mph,0 °mph,30.20 °in,0.0 °in,Partly Cloudy,2016 December 26,94306,Palo%20Alto
+5:53 PM,51 °F,31 °F,46 °%,SW,6 °mph,0 °mph,30.21 °in,0.0 °in,Mostly Cloudy,2016 December 26,94306,Palo%20Alto
+6:53 PM,48 °F,29 °F,48 °%,SW,5 °mph,0 °mph,30.22 °in,0.0 °in,Partly Cloudy,2016 December 26,94306,Palo%20Alto
+7:53 PM,47 °F,28 °F,48 °%,WSW,5 °mph,0 °mph,30.22 °in,0.0 °in,Partly Cloudy,2016 December 26,94306,Palo%20Alto
+8:53 PM,45 °F,28 °F,52 °%,CALM,0 °mph,0 °mph,30.26 °in,0.0 °in,Fair,2016 December 26,94306,Palo%20Alto
+9:53 PM,44 °F,30 °F,58 °%,SSW,5 °mph,0 °mph,30.29 °in,0.0 °in,Fair,2016 December 26,94306,Palo%20Alto
+10:53 PM,42 °F,28 °F,58 °%,WSW,7 °mph,0 °mph,30.30 °in,0.0 °in,Fair,2016 December 26,94306,Palo%20Alto
+11:53 PM,40 °F,31 °F,70 °%,ESE,5 °mph,0 °mph,30.30 °in,0.0 °in,Fair,2016 December 26,94306,Palo%20Alto
+12:53 AM,41 °F,31 °F,67 °%,CALM,0 °mph,0 °mph,30.30 °in,0.0 °in,Fair,2016 December 26,94306,Palo%20Alto
+1:53 AM,40 °F,31 °F,70 °%,SE,5 °mph,0 °mph,30.30 °in,0.0 °in,Fair,2016 December 27,94306,Palo%20Alto
+2:53 AM,38 °F,31 °F,76 °%,ESE,5 °mph,0 °mph,30.28 °in,0.0 °in,Fair,2016 December 27,94306,Palo%20Alto
+3:53 AM,38 °F,31 °F,76 °%,CALM,0 °mph,0 °mph,30.29 °in,0.0 °in,Partly Cloudy,2016 December 27,94306,Palo%20Alto
+4:53 AM,38 °F,31 °F,76 °%,CALM,0 °mph,0 °mph,30.30 °in,0.0 °in,Partly Cloudy,2016 December 27,94306,Palo%20Alto
+5:53 AM,37 °F,31 °F,79 °%,CALM,0 °mph,0 °mph,30.28 °in,0.0 °in,Partly Cloudy,2016 December 27,94306,Palo%20Alto
+6:53 AM,37 °F,30 °F,76 °%,ESE,3 °mph,0 °mph,30.28 °in,0.0 °in,Partly Cloudy,2016 December 27,94306,Palo%20Alto
+7:53 AM,36 °F,30 °F,79 °%,CALM,0 °mph,0 °mph,30.27 °in,0.0 °in,Fair,2016 December 27,94306,Palo%20Alto
+8:53 AM,37 °F,31 °F,79 °%,CALM,0 °mph,0 °mph,30.31 °in,0.0 °in,Fair,2016 December 27,94306,Palo%20Alto
+9:53 AM,40 °F,32 °F,73 °%,SSE,3 °mph,0 °mph,30.31 °in,0.0 °in,Fair,2016 December 27,94306,Palo%20Alto
+10:53 AM,45 °F,33 °F,63 °%,VAR,3 °mph,0 °mph,30.31 °in,0.0 °in,Fair,2016 December 27,94306,Palo%20Alto
+11:53 AM,50 °F,31 °F,48 °%,NNW,3 °mph,0 °mph,30.30 °in,0.0 °in,Fair,2016 December 27,94306,Palo%20Alto
+12:53 PM,52 °F,30 °F,43 °%,WNW,5 °mph,0 °mph,30.28 °in,0.0 °in,Fair,2016 December 27,94306,Palo%20Alto
+1:53 PM,53 °F,32 °F,45 °%,WNW,6 °mph,0 °mph,30.27 °in,0.0 °in,Mostly Cloudy,2016 December 27,94306,Palo%20Alto
+2:53 PM,54 °F,31 °F,41 °%,CALM,0 °mph,0 °mph,30.23 °in,0.0 °in,Mostly Cloudy,2016 December 27,94306,Palo%20Alto
+3:53 PM,57 °F,31 °F,37 °%,NW,8 °mph,0 °mph,30.23 °in,0.0 °in,Mostly Cloudy,2016 December 27,94306,Palo%20Alto
+4:53 PM,54 °F,32 °F,43 °%,WNW,8 °mph,0 °mph,30.24 °in,0.0 °in,Mostly Cloudy,2016 December 27,94306,Palo%20Alto
+5:53 PM,51 °F,33 °F,50 °%,WNW,3 °mph,0 °mph,30.23 °in,0.0 °in,Cloudy,2016 December 27,94306,Palo%20Alto
+6:53 PM,50 °F,33 °F,52 °%,CALM,0 °mph,0 °mph,30.23 °in,0.0 °in,Mostly Cloudy,2016 December 27,94306,Palo%20Alto
+7:53 PM,49 °F,33 °F,54 °%,CALM,0 °mph,0 °mph,30.24 °in,0.0 °in,Partly Cloudy,2016 December 27,94306,Palo%20Alto
+8:53 PM,47 °F,34 °F,61 °%,CALM,0 °mph,0 °mph,30.25 °in,0.0 °in,Fair,2016 December 27,94306,Palo%20Alto
+9:53 PM,46 °F,34 °F,63 °%,ESE,3 °mph,0 °mph,30.25 °in,0.0 °in,Fair,2016 December 27,94306,Palo%20Alto
+10:53 PM,44 °F,34 °F,68 °%,CALM,0 °mph,0 °mph,30.26 °in,0.0 °in,Fair,2016 December 27,94306,Palo%20Alto
+11:53 PM,43 °F,34 °F,71 °%,S,3 °mph,0 °mph,30.27 °in,0.0 °in,Fair,2016 December 27,94306,Palo%20Alto
+12:53 AM,42 °F,34 °F,73 °%,NE,3 °mph,0 °mph,30.27 °in,0.0 °in,Fair,2016 December 27,94306,Palo%20Alto
+1:53 AM,40 °F,31 °F,70 °%,SE,5 °mph,0 °mph,30.30 °in,0.0 °in,Fair,2016 December 27,94301,Palo%20Alto
+2:53 AM,38 °F,31 °F,76 °%,ESE,5 °mph,0 °mph,30.28 °in,0.0 °in,Fair,2016 December 27,94301,Palo%20Alto
+3:53 AM,38 °F,31 °F,76 °%,CALM,0 °mph,0 °mph,30.29 °in,0.0 °in,Partly Cloudy,2016 December 27,94301,Palo%20Alto
+4:53 AM,38 °F,31 °F,76 °%,CALM,0 °mph,0 °mph,30.30 °in,0.0 °in,Partly Cloudy,2016 December 27,94301,Palo%20Alto
+5:53 AM,37 °F,31 °F,79 °%,CALM,0 °mph,0 °mph,30.28 °in,0.0 °in,Partly Cloudy,2016 December 27,94301,Palo%20Alto
+6:53 AM,37 °F,30 °F,76 °%,ESE,3 °mph,0 °mph,30.28 °in,0.0 °in,Partly Cloudy,2016 December 27,94301,Palo%20Alto
+7:53 AM,36 °F,30 °F,79 °%,CALM,0 °mph,0 °mph,30.27 °in,0.0 °in,Fair,2016 December 27,94301,Palo%20Alto
+8:53 AM,37 °F,31 °F,79 °%,CALM,0 °mph,0 °mph,30.31 °in,0.0 °in,Fair,2016 December 27,94301,Palo%20Alto
+9:53 AM,40 °F,32 °F,73 °%,SSE,3 °mph,0 °mph,30.31 °in,0.0 °in,Fair,2016 December 27,94301,Palo%20Alto
+10:53 AM,45 °F,33 °F,63 °%,VAR,3 °mph,0 °mph,30.31 °in,0.0 °in,Fair,2016 December 27,94301,Palo%20Alto
+11:53 AM,50 °F,31 °F,48 °%,NNW,3 °mph,0 °mph,30.30 °in,0.0 °in,Fair,2016 December 27,94301,Palo%20Alto
+12:53 PM,52 °F,30 °F,43 °%,WNW,5 °mph,0 °mph,30.28 °in,0.0 °in,Fair,2016 December 27,94301,Palo%20Alto
+1:53 PM,53 °F,32 °F,45 °%,WNW,6 °mph,0 °mph,30.27 °in,0.0 °in,Mostly Cloudy,2016 December 27,94301,Palo%20Alto
+2:53 PM,54 °F,31 °F,41 °%,CALM,0 °mph,0 °mph,30.23 °in,0.0 °in,Mostly Cloudy,2016 December 27,94301,Palo%20Alto
+3:53 PM,57 °F,31 °F,37 °%,NW,8 °mph,0 °mph,30.23 °in,0.0 °in,Mostly Cloudy,2016 December 27,94301,Palo%20Alto
+4:53 PM,54 °F,32 °F,43 °%,WNW,8 °mph,0 °mph,30.24 °in,0.0 °in,Mostly Cloudy,2016 December 27,94301,Palo%20Alto
+5:53 PM,51 °F,33 °F,50 °%,WNW,3 °mph,0 °mph,30.23 °in,0.0 °in,Cloudy,2016 December 27,94301,Palo%20Alto
+6:53 PM,50 °F,33 °F,52 °%,CALM,0 °mph,0 °mph,30.23 °in,0.0 °in,Mostly Cloudy,2016 December 27,94301,Palo%20Alto
+7:53 PM,49 °F,33 °F,54 °%,CALM,0 °mph,0 °mph,30.24 °in,0.0 °in,Partly Cloudy,2016 December 27,94301,Palo%20Alto
+8:53 PM,47 °F,34 °F,61 °%,CALM,0 °mph,0 °mph,30.25 °in,0.0 °in,Fair,2016 December 27,94301,Palo%20Alto
+9:53 PM,46 °F,34 °F,63 °%,ESE,3 °mph,0 °mph,30.25 °in,0.0 °in,Fair,2016 December 27,94301,Palo%20Alto
+10:53 PM,44 °F,34 °F,68 °%,CALM,0 °mph,0 °mph,30.26 °in,0.0 °in,Fair,2016 December 27,94301,Palo%20Alto
+11:53 PM,43 °F,34 °F,71 °%,S,3 °mph,0 °mph,30.27 °in,0.0 °in,Fair,2016 December 27,94301,Palo%20Alto
+12:53 AM,42 °F,34 °F,73 °%,NE,3 °mph,0 °mph,30.27 °in,0.0 °in,Fair,2016 December 27,94301,Palo%20Alto
+1:53 AM,40 °F,31 °F,70 °%,SE,5 °mph,0 °mph,30.30 °in,0.0 °in,Fair,2016 December 27,94303,Palo%20Alto
+2:53 AM,38 °F,31 °F,76 °%,ESE,5 °mph,0 °mph,30.28 °in,0.0 °in,Fair,2016 December 27,94303,Palo%20Alto
+3:53 AM,38 °F,31 °F,76 °%,CALM,0 °mph,0 °mph,30.29 °in,0.0 °in,Partly Cloudy,2016 December 27,94303,Palo%20Alto
+4:53 AM,38 °F,31 °F,76 °%,CALM,0 °mph,0 °mph,30.30 °in,0.0 °in,Partly Cloudy,2016 December 27,94303,Palo%20Alto
+5:53 AM,37 °F,31 °F,79 °%,CALM,0 °mph,0 °mph,30.28 °in,0.0 °in,Partly Cloudy,2016 December 27,94303,Palo%20Alto
+6:53 AM,37 °F,30 °F,76 °%,ESE,3 °mph,0 °mph,30.28 °in,0.0 °in,Partly Cloudy,2016 December 27,94303,Palo%20Alto
+7:53 AM,36 °F,30 °F,79 °%,CALM,0 °mph,0 °mph,30.27 °in,0.0 °in,Fair,2016 December 27,94303,Palo%20Alto
+8:53 AM,37 °F,31 °F,79 °%,CALM,0 °mph,0 °mph,30.31 °in,0.0 °in,Fair,2016 December 27,94303,Palo%20Alto
+9:53 AM,40 °F,32 °F,73 °%,SSE,3 °mph,0 °mph,30.31 °in,0.0 °in,Fair,2016 December 27,94303,Palo%20Alto
+10:53 AM,45 °F,33 °F,63 °%,VAR,3 °mph,0 °mph,30.31 °in,0.0 °in,Fair,2016 December 27,94303,Palo%20Alto
+11:53 AM,50 °F,31 °F,48 °%,NNW,3 °mph,0 °mph,30.30 °in,0.0 °in,Fair,2016 December 27,94303,Palo%20Alto
+12:53 PM,52 °F,30 °F,43 °%,WNW,5 °mph,0 °mph,30.28 °in,0.0 °in,Fair,2016 December 27,94303,Palo%20Alto
+1:53 PM,53 °F,32 °F,45 °%,WNW,6 °mph,0 °mph,30.27 °in,0.0 °in,Mostly Cloudy,2016 December 27,94303,Palo%20Alto
+2:53 PM,54 °F,31 °F,41 °%,CALM,0 °mph,0 °mph,30.23 °in,0.0 °in,Mostly Cloudy,2016 December 27,94303,Palo%20Alto
+3:53 PM,57 °F,31 °F,37 °%,NW,8 °mph,0 °mph,30.23 °in,0.0 °in,Mostly Cloudy,2016 December 27,94303,Palo%20Alto
+4:53 PM,54 °F,32 °F,43 °%,WNW,8 °mph,0 °mph,30.24 °in,0.0 °in,Mostly Cloudy,2016 December 27,94303,Palo%20Alto
+5:53 PM,51 °F,33 °F,50 °%,WNW,3 °mph,0 °mph,30.23 °in,0.0 °in,Cloudy,2016 December 27,94303,Palo%20Alto
+6:53 PM,50 °F,33 °F,52 °%,CALM,0 °mph,0 °mph,30.23 °in,0.0 °in,Mostly Cloudy,2016 December 27,94303,Palo%20Alto
+7:53 PM,49 °F,33 °F,54 °%,CALM,0 °mph,0 °mph,30.24 °in,0.0 °in,Partly Cloudy,2016 December 27,94303,Palo%20Alto
+8:53 PM,47 °F,34 °F,61 °%,CALM,0 °mph,0 °mph,30.25 °in,0.0 °in,Fair,2016 December 27,94303,Palo%20Alto
+9:53 PM,46 °F,34 °F,63 °%,ESE,3 °mph,0 °mph,30.25 °in,0.0 °in,Fair,2016 December 27,94303,Palo%20Alto
+10:53 PM,44 °F,34 °F,68 °%,CALM,0 °mph,0 °mph,30.26 °in,0.0 °in,Fair,2016 December 27,94303,Palo%20Alto
+11:53 PM,43 °F,34 °F,71 °%,S,3 °mph,0 °mph,30.27 °in,0.0 °in,Fair,2016 December 27,94303,Palo%20Alto
+12:53 AM,42 °F,34 °F,73 °%,NE,3 °mph,0 °mph,30.27 °in,0.0 °in,Fair,2016 December 27,94303,Palo%20Alto
+1:53 AM,39 °F,33 °F,79 °%,ESE,3 °mph,0 °mph,30.26 °in,0.0 °in,Fair,2016 December 28,94301,Palo%20Alto
+2:53 AM,39 °F,33 °F,79 °%,CALM,0 °mph,0 °mph,30.26 °in,0.0 °in,Fair,2016 December 28,94301,Palo%20Alto
+3:53 AM,39 °F,32 °F,76 °%,CALM,0 °mph,0 °mph,30.25 °in,0.0 °in,Fair,2016 December 28,94301,Palo%20Alto
+4:53 AM,38 °F,32 °F,79 °%,S,3 °mph,0 °mph,30.24 °in,0.0 °in,Fair,2016 December 28,94301,Palo%20Alto
+5:53 AM,37 °F,32 °F,82 °%,CALM,0 °mph,0 °mph,30.24 °in,0.0 °in,Fair,2016 December 28,94301,Palo%20Alto
+6:53 AM,35 °F,30 °F,82 °%,SE,3 °mph,0 °mph,30.24 °in,0.0 °in,Fair,2016 December 28,94301,Palo%20Alto
+7:53 AM,37 °F,31 °F,79 °%,SE,3 °mph,0 °mph,30.24 °in,0.0 °in,Fair,2016 December 28,94301,Palo%20Alto
+8:53 AM,37 °F,32 °F,82 °%,CALM,0 °mph,0 °mph,30.25 °in,0.0 °in,Fair,2016 December 28,94301,Palo%20Alto
+9:53 AM,42 °F,33 °F,70 °%,CALM,0 °mph,0 °mph,30.25 °in,0.0 °in,Fair,2016 December 28,94301,Palo%20Alto
+10:53 AM,46 °F,34 °F,63 °%,CALM,0 °mph,0 °mph,30.27 °in,0.0 °in,Fair,2016 December 28,94301,Palo%20Alto
+11:53 AM,50 °F,35 °F,57 °%,CALM,0 °mph,0 °mph,30.26 °in,0.0 °in,Fair,2016 December 28,94301,Palo%20Alto
+12:53 PM,53 °F,33 °F,47 °%,CALM,0 °mph,0 °mph,30.22 °in,0.0 °in,Fair,2016 December 28,94301,Palo%20Alto
+1:53 PM,56 °F,34 °F,44 °%,ENE,3 °mph,0 °mph,30.19 °in,0.0 °in,Fair,2016 December 28,94301,Palo%20Alto
+2:53 PM,59 °F,31 °F,35 °%,WNW,3 °mph,0 °mph,30.16 °in,0.0 °in,Fair,2016 December 28,94301,Palo%20Alto
+3:53 PM,60 °F,32 °F,35 °%,W,7 °mph,0 °mph,30.14 °in,0.0 °in,Fair,2016 December 28,94301,Palo%20Alto
+4:53 PM,60 °F,33 °F,36 °%,WSW,3 °mph,0 °mph,30.14 °in,0.0 °in,Fair,2016 December 28,94301,Palo%20Alto
+5:53 PM,56 °F,34 °F,44 °%,WSW,7 °mph,0 °mph,30.13 °in,0.0 °in,Partly Cloudy,2016 December 28,94301,Palo%20Alto
+6:53 PM,54 °F,33 °F,45 °%,SW,3 °mph,0 °mph,30.13 °in,0.0 °in,Fair,2016 December 28,94301,Palo%20Alto
+7:53 PM,53 °F,32 °F,45 °%,SE,5 °mph,0 °mph,30.15 °in,0.0 °in,Fair,2016 December 28,94301,Palo%20Alto
+8:53 PM,50 °F,34 °F,54 °%,CALM,0 °mph,0 °mph,30.17 °in,0.0 °in,Fair,2016 December 28,94301,Palo%20Alto
+9:53 PM,49 °F,33 °F,54 °%,SSE,5 °mph,0 °mph,30.17 °in,0.0 °in,Fair,2016 December 28,94301,Palo%20Alto
+10:53 PM,46 °F,33 °F,61 °%,CALM,0 °mph,0 °mph,30.18 °in,0.0 °in,Fair,2016 December 28,94301,Palo%20Alto
+11:53 PM,44 °F,33 °F,65 °%,SSE,6 °mph,0 °mph,30.17 °in,0.0 °in,Fair,2016 December 28,94301,Palo%20Alto
+12:53 AM,43 °F,33 °F,68 °%,SE,3 °mph,0 °mph,30.16 °in,0.0 °in,Fair,2016 December 28,94301,Palo%20Alto
+1:53 AM,39 °F,33 °F,79 °%,ESE,3 °mph,0 °mph,30.26 °in,0.0 °in,Fair,2016 December 28,94306,Palo%20Alto
+2:53 AM,39 °F,33 °F,79 °%,CALM,0 °mph,0 °mph,30.26 °in,0.0 °in,Fair,2016 December 28,94306,Palo%20Alto
+3:53 AM,39 °F,32 °F,76 °%,CALM,0 °mph,0 °mph,30.25 °in,0.0 °in,Fair,2016 December 28,94306,Palo%20Alto
+4:53 AM,38 °F,32 °F,79 °%,S,3 °mph,0 °mph,30.24 °in,0.0 °in,Fair,2016 December 28,94306,Palo%20Alto
+5:53 AM,37 °F,32 °F,82 °%,CALM,0 °mph,0 °mph,30.24 °in,0.0 °in,Fair,2016 December 28,94306,Palo%20Alto
+6:53 AM,35 °F,30 °F,82 °%,SE,3 °mph,0 °mph,30.24 °in,0.0 °in,Fair,2016 December 28,94306,Palo%20Alto
+7:53 AM,37 °F,31 °F,79 °%,SE,3 °mph,0 °mph,30.24 °in,0.0 °in,Fair,2016 December 28,94306,Palo%20Alto
+8:53 AM,37 °F,32 °F,82 °%,CALM,0 °mph,0 °mph,30.25 °in,0.0 °in,Fair,2016 December 28,94306,Palo%20Alto
+9:53 AM,42 °F,33 °F,70 °%,CALM,0 °mph,0 °mph,30.25 °in,0.0 °in,Fair,2016 December 28,94306,Palo%20Alto
+10:53 AM,46 °F,34 °F,63 °%,CALM,0 °mph,0 °mph,30.27 °in,0.0 °in,Fair,2016 December 28,94306,Palo%20Alto
+11:53 AM,50 °F,35 °F,57 °%,CALM,0 °mph,0 °mph,30.26 °in,0.0 °in,Fair,2016 December 28,94306,Palo%20Alto
+12:53 PM,53 °F,33 °F,47 °%,CALM,0 °mph,0 °mph,30.22 °in,0.0 °in,Fair,2016 December 28,94306,Palo%20Alto
+1:53 PM,56 °F,34 °F,44 °%,ENE,3 °mph,0 °mph,30.19 °in,0.0 °in,Fair,2016 December 28,94306,Palo%20Alto
+2:53 PM,59 °F,31 °F,35 °%,WNW,3 °mph,0 °mph,30.16 °in,0.0 °in,Fair,2016 December 28,94306,Palo%20Alto
+3:53 PM,60 °F,32 °F,35 °%,W,7 °mph,0 °mph,30.14 °in,0.0 °in,Fair,2016 December 28,94306,Palo%20Alto
+4:53 PM,60 °F,33 °F,36 °%,WSW,3 °mph,0 °mph,30.14 °in,0.0 °in,Fair,2016 December 28,94306,Palo%20Alto
+5:53 PM,56 °F,34 °F,44 °%,WSW,7 °mph,0 °mph,30.13 °in,0.0 °in,Partly Cloudy,2016 December 28,94306,Palo%20Alto
+6:53 PM,54 °F,33 °F,45 °%,SW,3 °mph,0 °mph,30.13 °in,0.0 °in,Fair,2016 December 28,94306,Palo%20Alto
+7:53 PM,53 °F,32 °F,45 °%,SE,5 °mph,0 °mph,30.15 °in,0.0 °in,Fair,2016 December 28,94306,Palo%20Alto
+8:53 PM,50 °F,34 °F,54 °%,CALM,0 °mph,0 °mph,30.17 °in,0.0 °in,Fair,2016 December 28,94306,Palo%20Alto
+9:53 PM,49 °F,33 °F,54 °%,SSE,5 °mph,0 °mph,30.17 °in,0.0 °in,Fair,2016 December 28,94306,Palo%20Alto
+10:53 PM,46 °F,33 °F,61 °%,CALM,0 °mph,0 °mph,30.18 °in,0.0 °in,Fair,2016 December 28,94306,Palo%20Alto
+11:53 PM,44 °F,33 °F,65 °%,SSE,6 °mph,0 °mph,30.17 °in,0.0 °in,Fair,2016 December 28,94306,Palo%20Alto
+12:53 AM,43 °F,33 °F,68 °%,SE,3 °mph,0 °mph,30.16 °in,0.0 °in,Fair,2016 December 28,94306,Palo%20Alto
