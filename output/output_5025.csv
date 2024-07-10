@@ -1,0 +1,234 @@
+Time,Temperature,Dew Point,Humidity,Wind,Wind Speed,Wind Gust,Pressure,Precip.,Condition,date_collector,postal_code,city
+12:53 AM,59 °F,54 °F,83 °%,NW,3 °mph,0 °mph,29.85 °in,0.0 °in,Fair,2018 September 10,94303,Palo%20Alto
+1:53 AM,58 °F,53 °F,84 °%,NW,5 °mph,0 °mph,29.85 °in,0.0 °in,Fair,2018 September 10,94303,Palo%20Alto
+2:53 AM,58 °F,54 °F,87 °%,CALM,0 °mph,0 °mph,29.85 °in,0.0 °in,Fair,2018 September 10,94303,Palo%20Alto
+3:53 AM,57 °F,54 °F,89 °%,CALM,0 °mph,0 °mph,29.83 °in,0.0 °in,Fair,2018 September 10,94303,Palo%20Alto
+4:53 AM,55 °F,51 °F,86 °%,CALM,0 °mph,0 °mph,29.84 °in,0.0 °in,Fair,2018 September 10,94303,Palo%20Alto
+5:53 AM,54 °F,49 °F,83 °%,SW,3 °mph,0 °mph,29.84 °in,0.0 °in,Fair,2018 September 10,94303,Palo%20Alto
+6:53 AM,55 °F,49 °F,80 °%,CALM,0 °mph,0 °mph,29.86 °in,0.0 °in,Fair,2018 September 10,94303,Palo%20Alto
+7:53 AM,57 °F,49 °F,74 °%,S,5 °mph,0 °mph,29.86 °in,0.0 °in,Fair,2018 September 10,94303,Palo%20Alto
+8:53 AM,61 °F,52 °F,72 °%,CALM,0 °mph,0 °mph,29.87 °in,0.0 °in,Fair,2018 September 10,94303,Palo%20Alto
+9:53 AM,65 °F,52 °F,63 °%,CALM,0 °mph,0 °mph,29.87 °in,0.0 °in,Fair,2018 September 10,94303,Palo%20Alto
+10:53 AM,70 °F,50 °F,49 °%,VAR,3 °mph,0 °mph,29.87 °in,0.0 °in,Fair,2018 September 10,94303,Palo%20Alto
+11:53 AM,76 °F,51 °F,42 °%,VAR,5 °mph,0 °mph,29.85 °in,0.0 °in,Fair,2018 September 10,94303,Palo%20Alto
+12:53 PM,79 °F,44 °F,29 °%,NW,13 °mph,0 °mph,29.84 °in,0.0 °in,Fair,2018 September 10,94303,Palo%20Alto
+1:53 PM,81 °F,45 °F,28 °%,NNW,12 °mph,0 °mph,29.82 °in,0.0 °in,Fair,2018 September 10,94303,Palo%20Alto
+2:53 PM,85 °F,43 °F,23 °%,NNW,13 °mph,0 °mph,29.81 °in,0.0 °in,Fair,2018 September 10,94303,Palo%20Alto
+3:53 PM,82 °F,50 °F,33 °%,NNW,13 °mph,0 °mph,29.79 °in,0.0 °in,Fair,2018 September 10,94303,Palo%20Alto
+4:53 PM,80 °F,54 °F,40 °%,NNW,16 °mph,0 °mph,29.78 °in,0.0 °in,Fair,2018 September 10,94303,Palo%20Alto
+5:53 PM,76 °F,55 °F,48 °%,N,14 °mph,0 °mph,29.78 °in,0.0 °in,Fair,2018 September 10,94303,Palo%20Alto
+6:53 PM,71 °F,54 °F,55 °%,NW,14 °mph,0 °mph,29.78 °in,0.0 °in,Fair,2018 September 10,94303,Palo%20Alto
+7:53 PM,68 °F,55 °F,63 °%,NNW,8 °mph,0 °mph,29.78 °in,0.0 °in,Fair,2018 September 10,94303,Palo%20Alto
+8:53 PM,65 °F,55 °F,70 °%,NNW,7 °mph,0 °mph,29.81 °in,0.0 °in,Fair,2018 September 10,94303,Palo%20Alto
+9:53 PM,63 °F,54 °F,72 °%,N,5 °mph,0 °mph,29.82 °in,0.0 °in,Fair,2018 September 10,94303,Palo%20Alto
+10:53 PM,63 °F,54 °F,72 °%,N,6 °mph,0 °mph,29.82 °in,0.0 °in,Fair,2018 September 10,94303,Palo%20Alto
+11:53 PM,61 °F,54 °F,78 °%,NNW,6 °mph,0 °mph,29.83 °in,0.0 °in,Fair,2018 September 10,94303,Palo%20Alto
+12:53 AM,59 °F,54 °F,83 °%,NW,3 °mph,0 °mph,29.85 °in,0.0 °in,Fair,2018 September 10,94301,Palo%20Alto
+1:53 AM,58 °F,53 °F,84 °%,NW,5 °mph,0 °mph,29.85 °in,0.0 °in,Fair,2018 September 10,94301,Palo%20Alto
+2:53 AM,58 °F,54 °F,87 °%,CALM,0 °mph,0 °mph,29.85 °in,0.0 °in,Fair,2018 September 10,94301,Palo%20Alto
+3:53 AM,57 °F,54 °F,89 °%,CALM,0 °mph,0 °mph,29.83 °in,0.0 °in,Fair,2018 September 10,94301,Palo%20Alto
+4:53 AM,55 °F,51 °F,86 °%,CALM,0 °mph,0 °mph,29.84 °in,0.0 °in,Fair,2018 September 10,94301,Palo%20Alto
+5:53 AM,54 °F,49 °F,83 °%,SW,3 °mph,0 °mph,29.84 °in,0.0 °in,Fair,2018 September 10,94301,Palo%20Alto
+6:53 AM,55 °F,49 °F,80 °%,CALM,0 °mph,0 °mph,29.86 °in,0.0 °in,Fair,2018 September 10,94301,Palo%20Alto
+7:53 AM,57 °F,49 °F,74 °%,S,5 °mph,0 °mph,29.86 °in,0.0 °in,Fair,2018 September 10,94301,Palo%20Alto
+8:53 AM,61 °F,52 °F,72 °%,CALM,0 °mph,0 °mph,29.87 °in,0.0 °in,Fair,2018 September 10,94301,Palo%20Alto
+9:53 AM,65 °F,52 °F,63 °%,CALM,0 °mph,0 °mph,29.87 °in,0.0 °in,Fair,2018 September 10,94301,Palo%20Alto
+10:53 AM,70 °F,50 °F,49 °%,VAR,3 °mph,0 °mph,29.87 °in,0.0 °in,Fair,2018 September 10,94301,Palo%20Alto
+11:53 AM,76 °F,51 °F,42 °%,VAR,5 °mph,0 °mph,29.85 °in,0.0 °in,Fair,2018 September 10,94301,Palo%20Alto
+12:53 PM,79 °F,44 °F,29 °%,NW,13 °mph,0 °mph,29.84 °in,0.0 °in,Fair,2018 September 10,94301,Palo%20Alto
+1:53 PM,81 °F,45 °F,28 °%,NNW,12 °mph,0 °mph,29.82 °in,0.0 °in,Fair,2018 September 10,94301,Palo%20Alto
+2:53 PM,85 °F,43 °F,23 °%,NNW,13 °mph,0 °mph,29.81 °in,0.0 °in,Fair,2018 September 10,94301,Palo%20Alto
+3:53 PM,82 °F,50 °F,33 °%,NNW,13 °mph,0 °mph,29.79 °in,0.0 °in,Fair,2018 September 10,94301,Palo%20Alto
+4:53 PM,80 °F,54 °F,40 °%,NNW,16 °mph,0 °mph,29.78 °in,0.0 °in,Fair,2018 September 10,94301,Palo%20Alto
+5:53 PM,76 °F,55 °F,48 °%,N,14 °mph,0 °mph,29.78 °in,0.0 °in,Fair,2018 September 10,94301,Palo%20Alto
+6:53 PM,71 °F,54 °F,55 °%,NW,14 °mph,0 °mph,29.78 °in,0.0 °in,Fair,2018 September 10,94301,Palo%20Alto
+7:53 PM,68 °F,55 °F,63 °%,NNW,8 °mph,0 °mph,29.78 °in,0.0 °in,Fair,2018 September 10,94301,Palo%20Alto
+8:53 PM,65 °F,55 °F,70 °%,NNW,7 °mph,0 °mph,29.81 °in,0.0 °in,Fair,2018 September 10,94301,Palo%20Alto
+9:53 PM,63 °F,54 °F,72 °%,N,5 °mph,0 °mph,29.82 °in,0.0 °in,Fair,2018 September 10,94301,Palo%20Alto
+10:53 PM,63 °F,54 °F,72 °%,N,6 °mph,0 °mph,29.82 °in,0.0 °in,Fair,2018 September 10,94301,Palo%20Alto
+11:53 PM,61 °F,54 °F,78 °%,NNW,6 °mph,0 °mph,29.83 °in,0.0 °in,Fair,2018 September 10,94301,Palo%20Alto
+12:53 AM,59 °F,54 °F,83 °%,NW,3 °mph,0 °mph,29.85 °in,0.0 °in,Fair,2018 September 10,94306,Palo%20Alto
+1:53 AM,58 °F,53 °F,84 °%,NW,5 °mph,0 °mph,29.85 °in,0.0 °in,Fair,2018 September 10,94306,Palo%20Alto
+2:53 AM,58 °F,54 °F,87 °%,CALM,0 °mph,0 °mph,29.85 °in,0.0 °in,Fair,2018 September 10,94306,Palo%20Alto
+3:53 AM,57 °F,54 °F,89 °%,CALM,0 °mph,0 °mph,29.83 °in,0.0 °in,Fair,2018 September 10,94306,Palo%20Alto
+4:53 AM,55 °F,51 °F,86 °%,CALM,0 °mph,0 °mph,29.84 °in,0.0 °in,Fair,2018 September 10,94306,Palo%20Alto
+5:53 AM,54 °F,49 °F,83 °%,SW,3 °mph,0 °mph,29.84 °in,0.0 °in,Fair,2018 September 10,94306,Palo%20Alto
+6:53 AM,55 °F,49 °F,80 °%,CALM,0 °mph,0 °mph,29.86 °in,0.0 °in,Fair,2018 September 10,94306,Palo%20Alto
+7:53 AM,57 °F,49 °F,74 °%,S,5 °mph,0 °mph,29.86 °in,0.0 °in,Fair,2018 September 10,94306,Palo%20Alto
+8:53 AM,61 °F,52 °F,72 °%,CALM,0 °mph,0 °mph,29.87 °in,0.0 °in,Fair,2018 September 10,94306,Palo%20Alto
+9:53 AM,65 °F,52 °F,63 °%,CALM,0 °mph,0 °mph,29.87 °in,0.0 °in,Fair,2018 September 10,94306,Palo%20Alto
+10:53 AM,70 °F,50 °F,49 °%,VAR,3 °mph,0 °mph,29.87 °in,0.0 °in,Fair,2018 September 10,94306,Palo%20Alto
+11:53 AM,76 °F,51 °F,42 °%,VAR,5 °mph,0 °mph,29.85 °in,0.0 °in,Fair,2018 September 10,94306,Palo%20Alto
+12:53 PM,79 °F,44 °F,29 °%,NW,13 °mph,0 °mph,29.84 °in,0.0 °in,Fair,2018 September 10,94306,Palo%20Alto
+1:53 PM,81 °F,45 °F,28 °%,NNW,12 °mph,0 °mph,29.82 °in,0.0 °in,Fair,2018 September 10,94306,Palo%20Alto
+2:53 PM,85 °F,43 °F,23 °%,NNW,13 °mph,0 °mph,29.81 °in,0.0 °in,Fair,2018 September 10,94306,Palo%20Alto
+3:53 PM,82 °F,50 °F,33 °%,NNW,13 °mph,0 °mph,29.79 °in,0.0 °in,Fair,2018 September 10,94306,Palo%20Alto
+4:53 PM,80 °F,54 °F,40 °%,NNW,16 °mph,0 °mph,29.78 °in,0.0 °in,Fair,2018 September 10,94306,Palo%20Alto
+5:53 PM,76 °F,55 °F,48 °%,N,14 °mph,0 °mph,29.78 °in,0.0 °in,Fair,2018 September 10,94306,Palo%20Alto
+6:53 PM,71 °F,54 °F,55 °%,NW,14 °mph,0 °mph,29.78 °in,0.0 °in,Fair,2018 September 10,94306,Palo%20Alto
+7:53 PM,68 °F,55 °F,63 °%,NNW,8 °mph,0 °mph,29.78 °in,0.0 °in,Fair,2018 September 10,94306,Palo%20Alto
+8:53 PM,65 °F,55 °F,70 °%,NNW,7 °mph,0 °mph,29.81 °in,0.0 °in,Fair,2018 September 10,94306,Palo%20Alto
+9:53 PM,63 °F,54 °F,72 °%,N,5 °mph,0 °mph,29.82 °in,0.0 °in,Fair,2018 September 10,94306,Palo%20Alto
+10:53 PM,63 °F,54 °F,72 °%,N,6 °mph,0 °mph,29.82 °in,0.0 °in,Fair,2018 September 10,94306,Palo%20Alto
+11:53 PM,61 °F,54 °F,78 °%,NNW,6 °mph,0 °mph,29.83 °in,0.0 °in,Fair,2018 September 10,94306,Palo%20Alto
+12:53 AM,61 °F,54 °F,78 °%,N,5 °mph,0 °mph,29.83 °in,0.0 °in,Fair,2018 September 11,94306,Palo%20Alto
+1:53 AM,59 °F,53 °F,81 °%,N,3 °mph,0 °mph,29.83 °in,0.0 °in,Fair,2018 September 11,94306,Palo%20Alto
+2:53 AM,59 °F,54 °F,83 °%,CALM,0 °mph,0 °mph,29.82 °in,0.0 °in,Fair,2018 September 11,94306,Palo%20Alto
+3:53 AM,59 °F,53 °F,81 °%,SSW,3 °mph,0 °mph,29.81 °in,0.0 °in,Fair,2018 September 11,94306,Palo%20Alto
+4:53 AM,58 °F,52 °F,81 °%,CALM,0 °mph,0 °mph,29.81 °in,0.0 °in,Fair,2018 September 11,94306,Palo%20Alto
+5:53 AM,56 °F,52 °F,87 °%,CALM,0 °mph,0 °mph,29.81 °in,0.0 °in,Fair,2018 September 11,94306,Palo%20Alto
+6:53 AM,58 °F,52 °F,81 °%,SW,3 °mph,0 °mph,29.83 °in,0.0 °in,Fair,2018 September 11,94306,Palo%20Alto
+7:53 AM,58 °F,52 °F,81 °%,SW,3 °mph,0 °mph,29.84 °in,0.0 °in,Partly Cloudy,2018 September 11,94306,Palo%20Alto
+8:53 AM,62 °F,53 °F,72 °%,CALM,0 °mph,0 °mph,29.86 °in,0.0 °in,Fair,2018 September 11,94306,Palo%20Alto
+9:53 AM,67 °F,52 °F,59 °%,CALM,0 °mph,0 °mph,29.85 °in,0.0 °in,Fair,2018 September 11,94306,Palo%20Alto
+10:53 AM,72 °F,53 °F,51 °%,NW,7 °mph,0 °mph,29.85 °in,0.0 °in,Fair,2018 September 11,94306,Palo%20Alto
+11:53 AM,75 °F,47 °F,37 °%,NNW,5 °mph,0 °mph,29.84 °in,0.0 °in,Fair,2018 September 11,94306,Palo%20Alto
+12:53 PM,78 °F,45 °F,31 °%,VAR,5 °mph,0 °mph,29.82 °in,0.0 °in,Fair,2018 September 11,94306,Palo%20Alto
+1:53 PM,79 °F,53 °F,40 °%,NW,12 °mph,0 °mph,29.81 °in,0.0 °in,Fair,2018 September 11,94306,Palo%20Alto
+2:53 PM,78 °F,51 °F,39 °%,NW,13 °mph,0 °mph,29.80 °in,0.0 °in,Fair,2018 September 11,94306,Palo%20Alto
+3:53 PM,78 °F,50 °F,37 °%,NNW,20 °mph,0 °mph,29.79 °in,0.0 °in,Fair,2018 September 11,94306,Palo%20Alto
+4:53 PM,75 °F,47 °F,37 °%,NNW,15 °mph,0 °mph,29.79 °in,0.0 °in,Fair,2018 September 11,94306,Palo%20Alto
+5:53 PM,73 °F,49 °F,42 °%,N,13 °mph,22 °mph,29.79 °in,0.0 °in,Fair,2018 September 11,94306,Palo%20Alto
+6:53 PM,70 °F,46 °F,42 °%,N,17 °mph,0 °mph,29.79 °in,0.0 °in,Fair,2018 September 11,94306,Palo%20Alto
+7:53 PM,67 °F,48 °F,51 °%,NNW,13 °mph,21 °mph,29.80 °in,0.0 °in,Fair,2018 September 11,94306,Palo%20Alto
+8:53 PM,65 °F,47 °F,52 °%,N,12 °mph,0 °mph,29.82 °in,0.0 °in,Fair,2018 September 11,94306,Palo%20Alto
+9:53 PM,64 °F,48 °F,56 °%,N,8 °mph,0 °mph,29.82 °in,0.0 °in,Fair,2018 September 11,94306,Palo%20Alto
+10:53 PM,62 °F,48 °F,60 °%,N,7 °mph,0 °mph,29.83 °in,0.0 °in,Fair,2018 September 11,94306,Palo%20Alto
+11:53 PM,60 °F,48 °F,64 °%,NNW,6 °mph,0 °mph,29.84 °in,0.0 °in,Fair,2018 September 11,94306,Palo%20Alto
+12:53 AM,61 °F,54 °F,78 °%,N,5 °mph,0 °mph,29.83 °in,0.0 °in,Fair,2018 September 11,94301,Palo%20Alto
+1:53 AM,59 °F,53 °F,81 °%,N,3 °mph,0 °mph,29.83 °in,0.0 °in,Fair,2018 September 11,94301,Palo%20Alto
+2:53 AM,59 °F,54 °F,83 °%,CALM,0 °mph,0 °mph,29.82 °in,0.0 °in,Fair,2018 September 11,94301,Palo%20Alto
+3:53 AM,59 °F,53 °F,81 °%,SSW,3 °mph,0 °mph,29.81 °in,0.0 °in,Fair,2018 September 11,94301,Palo%20Alto
+4:53 AM,58 °F,52 °F,81 °%,CALM,0 °mph,0 °mph,29.81 °in,0.0 °in,Fair,2018 September 11,94301,Palo%20Alto
+5:53 AM,56 °F,52 °F,87 °%,CALM,0 °mph,0 °mph,29.81 °in,0.0 °in,Fair,2018 September 11,94301,Palo%20Alto
+6:53 AM,58 °F,52 °F,81 °%,SW,3 °mph,0 °mph,29.83 °in,0.0 °in,Fair,2018 September 11,94301,Palo%20Alto
+7:53 AM,58 °F,52 °F,81 °%,SW,3 °mph,0 °mph,29.84 °in,0.0 °in,Partly Cloudy,2018 September 11,94301,Palo%20Alto
+8:53 AM,62 °F,53 °F,72 °%,CALM,0 °mph,0 °mph,29.86 °in,0.0 °in,Fair,2018 September 11,94301,Palo%20Alto
+9:53 AM,67 °F,52 °F,59 °%,CALM,0 °mph,0 °mph,29.85 °in,0.0 °in,Fair,2018 September 11,94301,Palo%20Alto
+10:53 AM,72 °F,53 °F,51 °%,NW,7 °mph,0 °mph,29.85 °in,0.0 °in,Fair,2018 September 11,94301,Palo%20Alto
+11:53 AM,75 °F,47 °F,37 °%,NNW,5 °mph,0 °mph,29.84 °in,0.0 °in,Fair,2018 September 11,94301,Palo%20Alto
+12:53 PM,78 °F,45 °F,31 °%,VAR,5 °mph,0 °mph,29.82 °in,0.0 °in,Fair,2018 September 11,94301,Palo%20Alto
+1:53 PM,79 °F,53 °F,40 °%,NW,12 °mph,0 °mph,29.81 °in,0.0 °in,Fair,2018 September 11,94301,Palo%20Alto
+2:53 PM,78 °F,51 °F,39 °%,NW,13 °mph,0 °mph,29.80 °in,0.0 °in,Fair,2018 September 11,94301,Palo%20Alto
+3:53 PM,78 °F,50 °F,37 °%,NNW,20 °mph,0 °mph,29.79 °in,0.0 °in,Fair,2018 September 11,94301,Palo%20Alto
+4:53 PM,75 °F,47 °F,37 °%,NNW,15 °mph,0 °mph,29.79 °in,0.0 °in,Fair,2018 September 11,94301,Palo%20Alto
+5:53 PM,73 °F,49 °F,42 °%,N,13 °mph,22 °mph,29.79 °in,0.0 °in,Fair,2018 September 11,94301,Palo%20Alto
+6:53 PM,70 °F,46 °F,42 °%,N,17 °mph,0 °mph,29.79 °in,0.0 °in,Fair,2018 September 11,94301,Palo%20Alto
+7:53 PM,67 °F,48 °F,51 °%,NNW,13 °mph,21 °mph,29.80 °in,0.0 °in,Fair,2018 September 11,94301,Palo%20Alto
+8:53 PM,65 °F,47 °F,52 °%,N,12 °mph,0 °mph,29.82 °in,0.0 °in,Fair,2018 September 11,94301,Palo%20Alto
+9:53 PM,64 °F,48 °F,56 °%,N,8 °mph,0 °mph,29.82 °in,0.0 °in,Fair,2018 September 11,94301,Palo%20Alto
+10:53 PM,62 °F,48 °F,60 °%,N,7 °mph,0 °mph,29.83 °in,0.0 °in,Fair,2018 September 11,94301,Palo%20Alto
+11:53 PM,60 °F,48 °F,64 °%,NNW,6 °mph,0 °mph,29.84 °in,0.0 °in,Fair,2018 September 11,94301,Palo%20Alto
+12:53 AM,61 °F,54 °F,78 °%,N,5 °mph,0 °mph,29.83 °in,0.0 °in,Fair,2018 September 11,94303,Palo%20Alto
+1:53 AM,59 °F,53 °F,81 °%,N,3 °mph,0 °mph,29.83 °in,0.0 °in,Fair,2018 September 11,94303,Palo%20Alto
+2:53 AM,59 °F,54 °F,83 °%,CALM,0 °mph,0 °mph,29.82 °in,0.0 °in,Fair,2018 September 11,94303,Palo%20Alto
+3:53 AM,59 °F,53 °F,81 °%,SSW,3 °mph,0 °mph,29.81 °in,0.0 °in,Fair,2018 September 11,94303,Palo%20Alto
+4:53 AM,58 °F,52 °F,81 °%,CALM,0 °mph,0 °mph,29.81 °in,0.0 °in,Fair,2018 September 11,94303,Palo%20Alto
+5:53 AM,56 °F,52 °F,87 °%,CALM,0 °mph,0 °mph,29.81 °in,0.0 °in,Fair,2018 September 11,94303,Palo%20Alto
+6:53 AM,58 °F,52 °F,81 °%,SW,3 °mph,0 °mph,29.83 °in,0.0 °in,Fair,2018 September 11,94303,Palo%20Alto
+7:53 AM,58 °F,52 °F,81 °%,SW,3 °mph,0 °mph,29.84 °in,0.0 °in,Partly Cloudy,2018 September 11,94303,Palo%20Alto
+8:53 AM,62 °F,53 °F,72 °%,CALM,0 °mph,0 °mph,29.86 °in,0.0 °in,Fair,2018 September 11,94303,Palo%20Alto
+9:53 AM,67 °F,52 °F,59 °%,CALM,0 °mph,0 °mph,29.85 °in,0.0 °in,Fair,2018 September 11,94303,Palo%20Alto
+10:53 AM,72 °F,53 °F,51 °%,NW,7 °mph,0 °mph,29.85 °in,0.0 °in,Fair,2018 September 11,94303,Palo%20Alto
+11:53 AM,75 °F,47 °F,37 °%,NNW,5 °mph,0 °mph,29.84 °in,0.0 °in,Fair,2018 September 11,94303,Palo%20Alto
+12:53 PM,78 °F,45 °F,31 °%,VAR,5 °mph,0 °mph,29.82 °in,0.0 °in,Fair,2018 September 11,94303,Palo%20Alto
+1:53 PM,79 °F,53 °F,40 °%,NW,12 °mph,0 °mph,29.81 °in,0.0 °in,Fair,2018 September 11,94303,Palo%20Alto
+2:53 PM,78 °F,51 °F,39 °%,NW,13 °mph,0 °mph,29.80 °in,0.0 °in,Fair,2018 September 11,94303,Palo%20Alto
+3:53 PM,78 °F,50 °F,37 °%,NNW,20 °mph,0 °mph,29.79 °in,0.0 °in,Fair,2018 September 11,94303,Palo%20Alto
+4:53 PM,75 °F,47 °F,37 °%,NNW,15 °mph,0 °mph,29.79 °in,0.0 °in,Fair,2018 September 11,94303,Palo%20Alto
+5:53 PM,73 °F,49 °F,42 °%,N,13 °mph,22 °mph,29.79 °in,0.0 °in,Fair,2018 September 11,94303,Palo%20Alto
+6:53 PM,70 °F,46 °F,42 °%,N,17 °mph,0 °mph,29.79 °in,0.0 °in,Fair,2018 September 11,94303,Palo%20Alto
+7:53 PM,67 °F,48 °F,51 °%,NNW,13 °mph,21 °mph,29.80 °in,0.0 °in,Fair,2018 September 11,94303,Palo%20Alto
+8:53 PM,65 °F,47 °F,52 °%,N,12 °mph,0 °mph,29.82 °in,0.0 °in,Fair,2018 September 11,94303,Palo%20Alto
+9:53 PM,64 °F,48 °F,56 °%,N,8 °mph,0 °mph,29.82 °in,0.0 °in,Fair,2018 September 11,94303,Palo%20Alto
+10:53 PM,62 °F,48 °F,60 °%,N,7 °mph,0 °mph,29.83 °in,0.0 °in,Fair,2018 September 11,94303,Palo%20Alto
+11:53 PM,60 °F,48 °F,64 °%,NNW,6 °mph,0 °mph,29.84 °in,0.0 °in,Fair,2018 September 11,94303,Palo%20Alto
+12:53 AM,61 °F,49 °F,64 °%,N,10 °mph,0 °mph,29.85 °in,0.0 °in,Fair,2018 September 12,94306,Palo%20Alto
+1:53 AM,60 °F,49 °F,67 °%,N,6 °mph,0 °mph,29.85 °in,0.0 °in,Fair,2018 September 12,94306,Palo%20Alto
+2:53 AM,60 °F,50 °F,69 °%,NE,3 °mph,0 °mph,29.85 °in,0.0 °in,Fair,2018 September 12,94306,Palo%20Alto
+3:53 AM,58 °F,49 °F,72 °%,CALM,0 °mph,0 °mph,29.85 °in,0.0 °in,Fair,2018 September 12,94306,Palo%20Alto
+4:53 AM,56 °F,49 °F,77 °%,S,3 °mph,0 °mph,29.84 °in,0.0 °in,Fair,2018 September 12,94306,Palo%20Alto
+5:53 AM,55 °F,48 °F,77 °%,CALM,0 °mph,0 °mph,29.86 °in,0.0 °in,Fair,2018 September 12,94306,Palo%20Alto
+6:53 AM,56 °F,49 °F,77 °%,CALM,0 °mph,0 °mph,29.86 °in,0.0 °in,Partly Cloudy,2018 September 12,94306,Palo%20Alto
+7:53 AM,58 °F,49 °F,72 °%,SE,5 °mph,0 °mph,29.88 °in,0.0 °in,Partly Cloudy,2018 September 12,94306,Palo%20Alto
+8:53 AM,62 °F,49 °F,62 °%,SE,3 °mph,0 °mph,29.90 °in,0.0 °in,Partly Cloudy,2018 September 12,94306,Palo%20Alto
+9:53 AM,66 °F,48 °F,52 °%,VAR,5 °mph,0 °mph,29.90 °in,0.0 °in,Partly Cloudy,2018 September 12,94306,Palo%20Alto
+10:53 AM,68 °F,48 °F,49 °%,CALM,0 °mph,0 °mph,29.91 °in,0.0 °in,Partly Cloudy,2018 September 12,94306,Palo%20Alto
+11:53 AM,73 °F,48 °F,41 °%,VAR,5 °mph,0 °mph,29.90 °in,0.0 °in,Partly Cloudy,2018 September 12,94306,Palo%20Alto
+12:53 PM,73 °F,50 °F,44 °%,NNW,13 °mph,0 °mph,29.89 °in,0.0 °in,Mostly Cloudy,2018 September 12,94306,Palo%20Alto
+1:53 PM,73 °F,50 °F,44 °%,NNW,15 °mph,0 °mph,29.89 °in,0.0 °in,Mostly Cloudy,2018 September 12,94306,Palo%20Alto
+2:53 PM,76 °F,49 °F,38 °%,NNW,18 °mph,0 °mph,29.87 °in,0.0 °in,Mostly Cloudy,2018 September 12,94306,Palo%20Alto
+3:53 PM,72 °F,50 °F,46 °%,NNW,21 °mph,0 °mph,29.87 °in,0.0 °in,Mostly Cloudy / Windy,2018 September 12,94306,Palo%20Alto
+4:53 PM,71 °F,48 °F,44 °%,NW,16 °mph,0 °mph,29.87 °in,0.0 °in,Mostly Cloudy,2018 September 12,94306,Palo%20Alto
+5:53 PM,69 °F,45 °F,42 °%,NW,15 °mph,0 °mph,29.87 °in,0.0 °in,Mostly Cloudy,2018 September 12,94306,Palo%20Alto
+6:53 PM,65 °F,48 °F,54 °%,NW,15 °mph,0 °mph,29.87 °in,0.0 °in,Mostly Cloudy,2018 September 12,94306,Palo%20Alto
+7:53 PM,63 °F,49 °F,60 °%,NNW,9 °mph,0 °mph,29.87 °in,0.0 °in,Mostly Cloudy,2018 September 12,94306,Palo%20Alto
+8:53 PM,62 °F,49 °F,62 °%,N,5 °mph,0 °mph,29.88 °in,0.0 °in,Partly Cloudy,2018 September 12,94306,Palo%20Alto
+9:53 PM,62 °F,50 °F,65 °%,N,7 °mph,0 °mph,29.89 °in,0.0 °in,Partly Cloudy,2018 September 12,94306,Palo%20Alto
+10:53 PM,61 °F,50 °F,67 °%,ENE,7 °mph,0 °mph,29.88 °in,0.0 °in,Partly Cloudy,2018 September 12,94306,Palo%20Alto
+11:53 PM,60 °F,52 °F,75 °%,E,3 °mph,0 °mph,29.89 °in,0.0 °in,Partly Cloudy,2018 September 12,94306,Palo%20Alto
+12:53 AM,61 °F,49 °F,64 °%,N,10 °mph,0 °mph,29.85 °in,0.0 °in,Fair,2018 September 12,94301,Palo%20Alto
+1:53 AM,60 °F,49 °F,67 °%,N,6 °mph,0 °mph,29.85 °in,0.0 °in,Fair,2018 September 12,94301,Palo%20Alto
+2:53 AM,60 °F,50 °F,69 °%,NE,3 °mph,0 °mph,29.85 °in,0.0 °in,Fair,2018 September 12,94301,Palo%20Alto
+3:53 AM,58 °F,49 °F,72 °%,CALM,0 °mph,0 °mph,29.85 °in,0.0 °in,Fair,2018 September 12,94301,Palo%20Alto
+4:53 AM,56 °F,49 °F,77 °%,S,3 °mph,0 °mph,29.84 °in,0.0 °in,Fair,2018 September 12,94301,Palo%20Alto
+5:53 AM,55 °F,48 °F,77 °%,CALM,0 °mph,0 °mph,29.86 °in,0.0 °in,Fair,2018 September 12,94301,Palo%20Alto
+6:53 AM,56 °F,49 °F,77 °%,CALM,0 °mph,0 °mph,29.86 °in,0.0 °in,Partly Cloudy,2018 September 12,94301,Palo%20Alto
+7:53 AM,58 °F,49 °F,72 °%,SE,5 °mph,0 °mph,29.88 °in,0.0 °in,Partly Cloudy,2018 September 12,94301,Palo%20Alto
+8:53 AM,62 °F,49 °F,62 °%,SE,3 °mph,0 °mph,29.90 °in,0.0 °in,Partly Cloudy,2018 September 12,94301,Palo%20Alto
+9:53 AM,66 °F,48 °F,52 °%,VAR,5 °mph,0 °mph,29.90 °in,0.0 °in,Partly Cloudy,2018 September 12,94301,Palo%20Alto
+10:53 AM,68 °F,48 °F,49 °%,CALM,0 °mph,0 °mph,29.91 °in,0.0 °in,Partly Cloudy,2018 September 12,94301,Palo%20Alto
+11:53 AM,73 °F,48 °F,41 °%,VAR,5 °mph,0 °mph,29.90 °in,0.0 °in,Partly Cloudy,2018 September 12,94301,Palo%20Alto
+12:53 PM,73 °F,50 °F,44 °%,NNW,13 °mph,0 °mph,29.89 °in,0.0 °in,Mostly Cloudy,2018 September 12,94301,Palo%20Alto
+1:53 PM,73 °F,50 °F,44 °%,NNW,15 °mph,0 °mph,29.89 °in,0.0 °in,Mostly Cloudy,2018 September 12,94301,Palo%20Alto
+2:53 PM,76 °F,49 °F,38 °%,NNW,18 °mph,0 °mph,29.87 °in,0.0 °in,Mostly Cloudy,2018 September 12,94301,Palo%20Alto
+3:53 PM,72 °F,50 °F,46 °%,NNW,21 °mph,0 °mph,29.87 °in,0.0 °in,Mostly Cloudy / Windy,2018 September 12,94301,Palo%20Alto
+4:53 PM,71 °F,48 °F,44 °%,NW,16 °mph,0 °mph,29.87 °in,0.0 °in,Mostly Cloudy,2018 September 12,94301,Palo%20Alto
+5:53 PM,69 °F,45 °F,42 °%,NW,15 °mph,0 °mph,29.87 °in,0.0 °in,Mostly Cloudy,2018 September 12,94301,Palo%20Alto
+6:53 PM,65 °F,48 °F,54 °%,NW,15 °mph,0 °mph,29.87 °in,0.0 °in,Mostly Cloudy,2018 September 12,94301,Palo%20Alto
+7:53 PM,63 °F,49 °F,60 °%,NNW,9 °mph,0 °mph,29.87 °in,0.0 °in,Mostly Cloudy,2018 September 12,94301,Palo%20Alto
+8:53 PM,62 °F,49 °F,62 °%,N,5 °mph,0 °mph,29.88 °in,0.0 °in,Partly Cloudy,2018 September 12,94301,Palo%20Alto
+9:53 PM,62 °F,50 °F,65 °%,N,7 °mph,0 °mph,29.89 °in,0.0 °in,Partly Cloudy,2018 September 12,94301,Palo%20Alto
+10:53 PM,61 °F,50 °F,67 °%,ENE,7 °mph,0 °mph,29.88 °in,0.0 °in,Partly Cloudy,2018 September 12,94301,Palo%20Alto
+11:53 PM,60 °F,52 °F,75 °%,E,3 °mph,0 °mph,29.89 °in,0.0 °in,Partly Cloudy,2018 September 12,94301,Palo%20Alto
+12:53 AM,61 °F,49 °F,64 °%,N,10 °mph,0 °mph,29.85 °in,0.0 °in,Fair,2018 September 12,94303,Palo%20Alto
+1:53 AM,60 °F,49 °F,67 °%,N,6 °mph,0 °mph,29.85 °in,0.0 °in,Fair,2018 September 12,94303,Palo%20Alto
+2:53 AM,60 °F,50 °F,69 °%,NE,3 °mph,0 °mph,29.85 °in,0.0 °in,Fair,2018 September 12,94303,Palo%20Alto
+3:53 AM,58 °F,49 °F,72 °%,CALM,0 °mph,0 °mph,29.85 °in,0.0 °in,Fair,2018 September 12,94303,Palo%20Alto
+4:53 AM,56 °F,49 °F,77 °%,S,3 °mph,0 °mph,29.84 °in,0.0 °in,Fair,2018 September 12,94303,Palo%20Alto
+5:53 AM,55 °F,48 °F,77 °%,CALM,0 °mph,0 °mph,29.86 °in,0.0 °in,Fair,2018 September 12,94303,Palo%20Alto
+6:53 AM,56 °F,49 °F,77 °%,CALM,0 °mph,0 °mph,29.86 °in,0.0 °in,Partly Cloudy,2018 September 12,94303,Palo%20Alto
+7:53 AM,58 °F,49 °F,72 °%,SE,5 °mph,0 °mph,29.88 °in,0.0 °in,Partly Cloudy,2018 September 12,94303,Palo%20Alto
+8:53 AM,62 °F,49 °F,62 °%,SE,3 °mph,0 °mph,29.90 °in,0.0 °in,Partly Cloudy,2018 September 12,94303,Palo%20Alto
+9:53 AM,66 °F,48 °F,52 °%,VAR,5 °mph,0 °mph,29.90 °in,0.0 °in,Partly Cloudy,2018 September 12,94303,Palo%20Alto
+10:53 AM,68 °F,48 °F,49 °%,CALM,0 °mph,0 °mph,29.91 °in,0.0 °in,Partly Cloudy,2018 September 12,94303,Palo%20Alto
+11:53 AM,73 °F,48 °F,41 °%,VAR,5 °mph,0 °mph,29.90 °in,0.0 °in,Partly Cloudy,2018 September 12,94303,Palo%20Alto
+12:53 PM,73 °F,50 °F,44 °%,NNW,13 °mph,0 °mph,29.89 °in,0.0 °in,Mostly Cloudy,2018 September 12,94303,Palo%20Alto
+1:53 PM,73 °F,50 °F,44 °%,NNW,15 °mph,0 °mph,29.89 °in,0.0 °in,Mostly Cloudy,2018 September 12,94303,Palo%20Alto
+2:53 PM,76 °F,49 °F,38 °%,NNW,18 °mph,0 °mph,29.87 °in,0.0 °in,Mostly Cloudy,2018 September 12,94303,Palo%20Alto
+3:53 PM,72 °F,50 °F,46 °%,NNW,21 °mph,0 °mph,29.87 °in,0.0 °in,Mostly Cloudy / Windy,2018 September 12,94303,Palo%20Alto
+4:53 PM,71 °F,48 °F,44 °%,NW,16 °mph,0 °mph,29.87 °in,0.0 °in,Mostly Cloudy,2018 September 12,94303,Palo%20Alto
+5:53 PM,69 °F,45 °F,42 °%,NW,15 °mph,0 °mph,29.87 °in,0.0 °in,Mostly Cloudy,2018 September 12,94303,Palo%20Alto
+6:53 PM,65 °F,48 °F,54 °%,NW,15 °mph,0 °mph,29.87 °in,0.0 °in,Mostly Cloudy,2018 September 12,94303,Palo%20Alto
+7:53 PM,63 °F,49 °F,60 °%,NNW,9 °mph,0 °mph,29.87 °in,0.0 °in,Mostly Cloudy,2018 September 12,94303,Palo%20Alto
+8:53 PM,62 °F,49 °F,62 °%,N,5 °mph,0 °mph,29.88 °in,0.0 °in,Partly Cloudy,2018 September 12,94303,Palo%20Alto
+9:53 PM,62 °F,50 °F,65 °%,N,7 °mph,0 °mph,29.89 °in,0.0 °in,Partly Cloudy,2018 September 12,94303,Palo%20Alto
+10:53 PM,61 °F,50 °F,67 °%,ENE,7 °mph,0 °mph,29.88 °in,0.0 °in,Partly Cloudy,2018 September 12,94303,Palo%20Alto
+11:53 PM,60 °F,52 °F,75 °%,E,3 °mph,0 °mph,29.89 °in,0.0 °in,Partly Cloudy,2018 September 12,94303,Palo%20Alto
+7:53 AM,58 °F,50 °F,75 °%,S,7 °mph,0 °mph,29.94 °in,0.0 °in,Cloudy,2018 September 13,94301,Palo%20Alto
+8:53 AM,61 °F,51 °F,70 °%,SE,7 °mph,0 °mph,29.95 °in,0.0 °in,Partly Cloudy,2018 September 13,94301,Palo%20Alto
+9:53 AM,64 °F,49 °F,58 °%,CALM,0 °mph,0 °mph,29.96 °in,0.0 °in,Partly Cloudy,2018 September 13,94301,Palo%20Alto
+10:53 AM,68 °F,47 °F,47 °%,VAR,3 °mph,0 °mph,29.96 °in,0.0 °in,Fair,2018 September 13,94301,Palo%20Alto
+11:53 AM,70 °F,47 °F,44 °%,NW,8 °mph,0 °mph,29.95 °in,0.0 °in,Fair,2018 September 13,94301,Palo%20Alto
+12:53 PM,72 °F,48 °F,43 °%,VAR,7 °mph,0 °mph,29.95 °in,0.0 °in,Fair,2018 September 13,94301,Palo%20Alto
+1:53 PM,74 °F,48 °F,40 °%,N,14 °mph,22 °mph,29.94 °in,0.0 °in,Partly Cloudy,2018 September 13,94301,Palo%20Alto
+2:53 PM,73 °F,49 °F,42 °%,NNW,20 °mph,0 °mph,29.93 °in,0.0 °in,Mostly Cloudy,2018 September 13,94301,Palo%20Alto
+3:53 PM,73 °F,47 °F,39 °%,NNW,21 °mph,0 °mph,29.92 °in,0.0 °in,Mostly Cloudy / Windy,2018 September 13,94301,Palo%20Alto
+4:53 PM,71 °F,49 °F,45 °%,N,20 °mph,0 °mph,29.91 °in,0.0 °in,Mostly Cloudy,2018 September 13,94301,Palo%20Alto
+5:53 PM,68 °F,50 °F,52 °%,N,17 °mph,0 °mph,29.91 °in,0.0 °in,Mostly Cloudy,2018 September 13,94301,Palo%20Alto
+6:53 PM,66 °F,50 °F,56 °%,NNW,15 °mph,0 °mph,29.91 °in,0.0 °in,Partly Cloudy,2018 September 13,94301,Palo%20Alto
+7:53 PM,64 °F,52 °F,65 °%,N,12 °mph,0 °mph,29.91 °in,0.0 °in,Fair,2018 September 13,94301,Palo%20Alto
+8:53 PM,62 °F,52 °F,70 °%,N,7 °mph,0 °mph,29.93 °in,0.0 °in,Fair,2018 September 13,94301,Palo%20Alto
+9:53 PM,62 °F,52 °F,70 °%,N,7 °mph,0 °mph,29.94 °in,0.0 °in,Fair,2018 September 13,94301,Palo%20Alto
+10:53 PM,61 °F,53 °F,75 °%,N,5 °mph,0 °mph,29.93 °in,0.0 °in,Fair,2018 September 13,94301,Palo%20Alto
+11:53 PM,60 °F,53 °F,78 °%,NE,3 °mph,0 °mph,29.93 °in,0.0 °in,Fair,2018 September 13,94301,Palo%20Alto

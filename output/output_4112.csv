@@ -1,0 +1,267 @@
+Time,Temperature,Dew Point,Humidity,Wind,Wind Speed,Wind Gust,Pressure,Precip.,Condition,date_collector,postal_code,city
+1:53 AM,55 °F,52 °F,89 °%,E,6 °mph,0 °mph,30.00 °in,0.0 °in,Mostly Cloudy,2017 November 10,94303,Palo%20Alto
+2:53 AM,54 °F,52 °F,93 °%,SE,6 °mph,0 °mph,30.00 °in,0.0 °in,Partly Cloudy,2017 November 10,94303,Palo%20Alto
+3:53 AM,52 °F,51 °F,97 °%,E,5 °mph,0 °mph,30.00 °in,0.0 °in,Mostly Cloudy,2017 November 10,94303,Palo%20Alto
+4:53 AM,54 °F,52 °F,93 °%,ESE,6 °mph,0 °mph,29.99 °in,0.0 °in,Cloudy,2017 November 10,94303,Palo%20Alto
+5:53 AM,54 °F,52 °F,93 °%,SSE,5 °mph,0 °mph,29.99 °in,0.0 °in,Cloudy,2017 November 10,94303,Palo%20Alto
+6:53 AM,54 °F,52 °F,93 °%,ESE,9 °mph,0 °mph,29.99 °in,0.0 °in,Cloudy,2017 November 10,94303,Palo%20Alto
+7:53 AM,55 °F,52 °F,89 °%,ESE,6 °mph,0 °mph,29.99 °in,0.0 °in,Cloudy,2017 November 10,94303,Palo%20Alto
+8:53 AM,56 °F,53 °F,90 °%,ESE,8 °mph,0 °mph,30.00 °in,0.0 °in,Cloudy,2017 November 10,94303,Palo%20Alto
+9:53 AM,58 °F,53 °F,84 °%,ESE,8 °mph,0 °mph,30.01 °in,0.0 °in,Cloudy,2017 November 10,94303,Palo%20Alto
+10:53 AM,61 °F,54 °F,78 °%,ESE,6 °mph,0 °mph,30.01 °in,0.0 °in,Mostly Cloudy,2017 November 10,94303,Palo%20Alto
+11:53 AM,64 °F,53 °F,67 °%,SE,6 °mph,0 °mph,30.00 °in,0.0 °in,Mostly Cloudy,2017 November 10,94303,Palo%20Alto
+12:53 PM,69 °F,53 °F,57 °%,ESE,7 °mph,0 °mph,29.97 °in,0.0 °in,Mostly Cloudy,2017 November 10,94303,Palo%20Alto
+1:53 PM,63 °F,58 °F,84 °%,W,9 °mph,0 °mph,29.97 °in,0.0 °in,Light Rain,2017 November 10,94303,Palo%20Alto
+2:53 PM,62 °F,58 °F,86 °%,CALM,0 °mph,0 °mph,29.97 °in,0.0 °in,Light Rain,2017 November 10,94303,Palo%20Alto
+3:53 PM,62 °F,59 °F,90 °%,E,7 °mph,0 °mph,29.97 °in,0.0 °in,Mostly Cloudy,2017 November 10,94303,Palo%20Alto
+4:53 PM,63 °F,57 °F,81 °%,E,6 °mph,0 °mph,29.97 °in,0.0 °in,Mostly Cloudy,2017 November 10,94303,Palo%20Alto
+5:53 PM,63 °F,56 °F,78 °%,S,3 °mph,0 °mph,29.97 °in,0.0 °in,Mostly Cloudy,2017 November 10,94303,Palo%20Alto
+6:53 PM,62 °F,56 °F,80 °%,SSW,3 °mph,0 °mph,29.98 °in,0.0 °in,Mostly Cloudy,2017 November 10,94303,Palo%20Alto
+7:53 PM,60 °F,57 °F,90 °%,WSW,3 °mph,0 °mph,29.99 °in,0.0 °in,Mostly Cloudy,2017 November 10,94303,Palo%20Alto
+8:53 PM,60 °F,56 °F,86 °%,W,5 °mph,0 °mph,30.00 °in,0.0 °in,Partly Cloudy,2017 November 10,94303,Palo%20Alto
+9:53 PM,60 °F,57 °F,90 °%,NNW,5 °mph,0 °mph,30.02 °in,0.0 °in,Partly Cloudy,2017 November 10,94303,Palo%20Alto
+10:53 PM,56 °F,54 °F,93 °%,S,5 °mph,0 °mph,30.02 °in,0.0 °in,Fair,2017 November 10,94303,Palo%20Alto
+11:53 PM,56 °F,53 °F,90 °%,SSW,3 °mph,0 °mph,30.03 °in,0.0 °in,Fair,2017 November 10,94303,Palo%20Alto
+12:53 AM,53 °F,51 °F,93 °%,CALM,0 °mph,0 °mph,30.03 °in,0.0 °in,Fair,2017 November 10,94303,Palo%20Alto
+1:53 AM,55 °F,52 °F,89 °%,E,6 °mph,0 °mph,30.00 °in,0.0 °in,Mostly Cloudy,2017 November 10,94301,Palo%20Alto
+2:53 AM,54 °F,52 °F,93 °%,SE,6 °mph,0 °mph,30.00 °in,0.0 °in,Partly Cloudy,2017 November 10,94301,Palo%20Alto
+3:53 AM,52 °F,51 °F,97 °%,E,5 °mph,0 °mph,30.00 °in,0.0 °in,Mostly Cloudy,2017 November 10,94301,Palo%20Alto
+4:53 AM,54 °F,52 °F,93 °%,ESE,6 °mph,0 °mph,29.99 °in,0.0 °in,Cloudy,2017 November 10,94301,Palo%20Alto
+5:53 AM,54 °F,52 °F,93 °%,SSE,5 °mph,0 °mph,29.99 °in,0.0 °in,Cloudy,2017 November 10,94301,Palo%20Alto
+6:53 AM,54 °F,52 °F,93 °%,ESE,9 °mph,0 °mph,29.99 °in,0.0 °in,Cloudy,2017 November 10,94301,Palo%20Alto
+7:53 AM,55 °F,52 °F,89 °%,ESE,6 °mph,0 °mph,29.99 °in,0.0 °in,Cloudy,2017 November 10,94301,Palo%20Alto
+8:53 AM,56 °F,53 °F,90 °%,ESE,8 °mph,0 °mph,30.00 °in,0.0 °in,Cloudy,2017 November 10,94301,Palo%20Alto
+9:53 AM,58 °F,53 °F,84 °%,ESE,8 °mph,0 °mph,30.01 °in,0.0 °in,Cloudy,2017 November 10,94301,Palo%20Alto
+10:53 AM,61 °F,54 °F,78 °%,ESE,6 °mph,0 °mph,30.01 °in,0.0 °in,Mostly Cloudy,2017 November 10,94301,Palo%20Alto
+11:53 AM,64 °F,53 °F,67 °%,SE,6 °mph,0 °mph,30.00 °in,0.0 °in,Mostly Cloudy,2017 November 10,94301,Palo%20Alto
+12:53 PM,69 °F,53 °F,57 °%,ESE,7 °mph,0 °mph,29.97 °in,0.0 °in,Mostly Cloudy,2017 November 10,94301,Palo%20Alto
+1:53 PM,63 °F,58 °F,84 °%,W,9 °mph,0 °mph,29.97 °in,0.0 °in,Light Rain,2017 November 10,94301,Palo%20Alto
+2:53 PM,62 °F,58 °F,86 °%,CALM,0 °mph,0 °mph,29.97 °in,0.0 °in,Light Rain,2017 November 10,94301,Palo%20Alto
+3:53 PM,62 °F,59 °F,90 °%,E,7 °mph,0 °mph,29.97 °in,0.0 °in,Mostly Cloudy,2017 November 10,94301,Palo%20Alto
+4:53 PM,63 °F,57 °F,81 °%,E,6 °mph,0 °mph,29.97 °in,0.0 °in,Mostly Cloudy,2017 November 10,94301,Palo%20Alto
+5:53 PM,63 °F,56 °F,78 °%,S,3 °mph,0 °mph,29.97 °in,0.0 °in,Mostly Cloudy,2017 November 10,94301,Palo%20Alto
+6:53 PM,62 °F,56 °F,80 °%,SSW,3 °mph,0 °mph,29.98 °in,0.0 °in,Mostly Cloudy,2017 November 10,94301,Palo%20Alto
+7:53 PM,60 °F,57 °F,90 °%,WSW,3 °mph,0 °mph,29.99 °in,0.0 °in,Mostly Cloudy,2017 November 10,94301,Palo%20Alto
+8:53 PM,60 °F,56 °F,86 °%,W,5 °mph,0 °mph,30.00 °in,0.0 °in,Partly Cloudy,2017 November 10,94301,Palo%20Alto
+9:53 PM,60 °F,57 °F,90 °%,NNW,5 °mph,0 °mph,30.02 °in,0.0 °in,Partly Cloudy,2017 November 10,94301,Palo%20Alto
+10:53 PM,56 °F,54 °F,93 °%,S,5 °mph,0 °mph,30.02 °in,0.0 °in,Fair,2017 November 10,94301,Palo%20Alto
+11:53 PM,56 °F,53 °F,90 °%,SSW,3 °mph,0 °mph,30.03 °in,0.0 °in,Fair,2017 November 10,94301,Palo%20Alto
+12:53 AM,53 °F,51 °F,93 °%,CALM,0 °mph,0 °mph,30.03 °in,0.0 °in,Fair,2017 November 10,94301,Palo%20Alto
+1:53 AM,55 °F,52 °F,89 °%,E,6 °mph,0 °mph,30.00 °in,0.0 °in,Mostly Cloudy,2017 November 10,94306,Palo%20Alto
+2:53 AM,54 °F,52 °F,93 °%,SE,6 °mph,0 °mph,30.00 °in,0.0 °in,Partly Cloudy,2017 November 10,94306,Palo%20Alto
+3:53 AM,52 °F,51 °F,97 °%,E,5 °mph,0 °mph,30.00 °in,0.0 °in,Mostly Cloudy,2017 November 10,94306,Palo%20Alto
+4:53 AM,54 °F,52 °F,93 °%,ESE,6 °mph,0 °mph,29.99 °in,0.0 °in,Cloudy,2017 November 10,94306,Palo%20Alto
+5:53 AM,54 °F,52 °F,93 °%,SSE,5 °mph,0 °mph,29.99 °in,0.0 °in,Cloudy,2017 November 10,94306,Palo%20Alto
+6:53 AM,54 °F,52 °F,93 °%,ESE,9 °mph,0 °mph,29.99 °in,0.0 °in,Cloudy,2017 November 10,94306,Palo%20Alto
+7:53 AM,55 °F,52 °F,89 °%,ESE,6 °mph,0 °mph,29.99 °in,0.0 °in,Cloudy,2017 November 10,94306,Palo%20Alto
+8:53 AM,56 °F,53 °F,90 °%,ESE,8 °mph,0 °mph,30.00 °in,0.0 °in,Cloudy,2017 November 10,94306,Palo%20Alto
+9:53 AM,58 °F,53 °F,84 °%,ESE,8 °mph,0 °mph,30.01 °in,0.0 °in,Cloudy,2017 November 10,94306,Palo%20Alto
+10:53 AM,61 °F,54 °F,78 °%,ESE,6 °mph,0 °mph,30.01 °in,0.0 °in,Mostly Cloudy,2017 November 10,94306,Palo%20Alto
+11:53 AM,64 °F,53 °F,67 °%,SE,6 °mph,0 °mph,30.00 °in,0.0 °in,Mostly Cloudy,2017 November 10,94306,Palo%20Alto
+12:53 PM,69 °F,53 °F,57 °%,ESE,7 °mph,0 °mph,29.97 °in,0.0 °in,Mostly Cloudy,2017 November 10,94306,Palo%20Alto
+1:53 PM,63 °F,58 °F,84 °%,W,9 °mph,0 °mph,29.97 °in,0.0 °in,Light Rain,2017 November 10,94306,Palo%20Alto
+2:53 PM,62 °F,58 °F,86 °%,CALM,0 °mph,0 °mph,29.97 °in,0.0 °in,Light Rain,2017 November 10,94306,Palo%20Alto
+3:53 PM,62 °F,59 °F,90 °%,E,7 °mph,0 °mph,29.97 °in,0.0 °in,Mostly Cloudy,2017 November 10,94306,Palo%20Alto
+4:53 PM,63 °F,57 °F,81 °%,E,6 °mph,0 °mph,29.97 °in,0.0 °in,Mostly Cloudy,2017 November 10,94306,Palo%20Alto
+5:53 PM,63 °F,56 °F,78 °%,S,3 °mph,0 °mph,29.97 °in,0.0 °in,Mostly Cloudy,2017 November 10,94306,Palo%20Alto
+6:53 PM,62 °F,56 °F,80 °%,SSW,3 °mph,0 °mph,29.98 °in,0.0 °in,Mostly Cloudy,2017 November 10,94306,Palo%20Alto
+7:53 PM,60 °F,57 °F,90 °%,WSW,3 °mph,0 °mph,29.99 °in,0.0 °in,Mostly Cloudy,2017 November 10,94306,Palo%20Alto
+8:53 PM,60 °F,56 °F,86 °%,W,5 °mph,0 °mph,30.00 °in,0.0 °in,Partly Cloudy,2017 November 10,94306,Palo%20Alto
+9:53 PM,60 °F,57 °F,90 °%,NNW,5 °mph,0 °mph,30.02 °in,0.0 °in,Partly Cloudy,2017 November 10,94306,Palo%20Alto
+10:53 PM,56 °F,54 °F,93 °%,S,5 °mph,0 °mph,30.02 °in,0.0 °in,Fair,2017 November 10,94306,Palo%20Alto
+11:53 PM,56 °F,53 °F,90 °%,SSW,3 °mph,0 °mph,30.03 °in,0.0 °in,Fair,2017 November 10,94306,Palo%20Alto
+12:53 AM,53 °F,51 °F,93 °%,CALM,0 °mph,0 °mph,30.03 °in,0.0 °in,Fair,2017 November 10,94306,Palo%20Alto
+1:53 AM,52 °F,50 °F,93 °%,CALM,0 °mph,0 °mph,30.03 °in,0.0 °in,Fair,2017 November 11,94303,Palo%20Alto
+2:30 AM,52 °F,50 °F,93 °%,SE,3 °mph,0 °mph,30.03 °in,0.0 °in,Mostly Cloudy,2017 November 11,94303,Palo%20Alto
+2:53 AM,51 °F,49 °F,92 °%,ESE,3 °mph,0 °mph,30.03 °in,0.0 °in,Mostly Cloudy,2017 November 11,94303,Palo%20Alto
+3:53 AM,52 °F,50 °F,93 °%,ENE,3 °mph,0 °mph,30.04 °in,0.0 °in,Partly Cloudy,2017 November 11,94303,Palo%20Alto
+4:29 AM,52 °F,51 °F,97 °%,CALM,0 °mph,0 °mph,30.03 °in,0.0 °in,Mostly Cloudy,2017 November 11,94303,Palo%20Alto
+4:34 AM,53 °F,51 °F,93 °%,CALM,0 °mph,0 °mph,30.03 °in,0.0 °in,Mostly Cloudy,2017 November 11,94303,Palo%20Alto
+4:53 AM,53 °F,51 °F,93 °%,CALM,0 °mph,0 °mph,30.03 °in,0.0 °in,Cloudy,2017 November 11,94303,Palo%20Alto
+5:03 AM,54 °F,52 °F,93 °%,CALM,0 °mph,0 °mph,30.03 °in,0.0 °in,Cloudy,2017 November 11,94303,Palo%20Alto
+5:53 AM,54 °F,52 °F,93 °%,SE,3 °mph,0 °mph,30.04 °in,0.0 °in,Cloudy,2017 November 11,94303,Palo%20Alto
+6:01 AM,54 °F,53 °F,97 °%,SSE,5 °mph,0 °mph,30.04 °in,0.0 °in,Cloudy,2017 November 11,94303,Palo%20Alto
+6:21 AM,55 °F,53 °F,93 °%,CALM,0 °mph,0 °mph,30.04 °in,0.0 °in,Cloudy,2017 November 11,94303,Palo%20Alto
+6:53 AM,55 °F,53 °F,93 °%,CALM,0 °mph,0 °mph,30.04 °in,0.0 °in,Mostly Cloudy,2017 November 11,94303,Palo%20Alto
+7:53 AM,54 °F,52 °F,93 °%,NNE,3 °mph,0 °mph,30.04 °in,0.0 °in,Fair,2017 November 11,94303,Palo%20Alto
+8:53 AM,56 °F,52 °F,87 °%,CALM,0 °mph,0 °mph,30.05 °in,0.0 °in,Fair,2017 November 11,94303,Palo%20Alto
+9:53 AM,58 °F,54 °F,87 °%,CALM,0 °mph,0 °mph,30.07 °in,0.0 °in,Fair,2017 November 11,94303,Palo%20Alto
+10:53 AM,62 °F,53 °F,72 °%,CALM,0 °mph,0 °mph,30.06 °in,0.0 °in,Mostly Cloudy,2017 November 11,94303,Palo%20Alto
+11:53 AM,64 °F,52 °F,65 °%,CALM,0 °mph,0 °mph,30.05 °in,0.0 °in,Mostly Cloudy,2017 November 11,94303,Palo%20Alto
+12:53 PM,64 °F,51 °F,63 °%,CALM,0 °mph,0 °mph,30.02 °in,0.0 °in,Mostly Cloudy,2017 November 11,94303,Palo%20Alto
+1:53 PM,66 °F,50 °F,56 °%,W,6 °mph,0 °mph,30.00 °in,0.0 °in,Mostly Cloudy,2017 November 11,94303,Palo%20Alto
+2:53 PM,67 °F,48 °F,51 °%,VAR,3 °mph,0 °mph,29.98 °in,0.0 °in,Mostly Cloudy,2017 November 11,94303,Palo%20Alto
+3:53 PM,67 °F,47 °F,49 °%,WNW,7 °mph,0 °mph,29.97 °in,0.0 °in,Mostly Cloudy,2017 November 11,94303,Palo%20Alto
+4:53 PM,65 °F,48 °F,54 °%,WNW,10 °mph,0 °mph,29.97 °in,0.0 °in,Mostly Cloudy,2017 November 11,94303,Palo%20Alto
+5:53 PM,60 °F,50 °F,69 °%,WNW,12 °mph,0 °mph,29.98 °in,0.0 °in,Partly Cloudy,2017 November 11,94303,Palo%20Alto
+6:53 PM,60 °F,51 °F,72 °%,NW,9 °mph,0 °mph,30.00 °in,0.0 °in,Partly Cloudy,2017 November 11,94303,Palo%20Alto
+7:53 PM,59 °F,49 °F,69 °%,NNW,7 °mph,0 °mph,30.01 °in,0.0 °in,Fair,2017 November 11,94303,Palo%20Alto
+8:53 PM,57 °F,49 °F,74 °%,NW,7 °mph,0 °mph,30.02 °in,0.0 °in,Partly Cloudy,2017 November 11,94303,Palo%20Alto
+9:53 PM,57 °F,51 °F,81 °%,NNW,5 °mph,0 °mph,30.03 °in,0.0 °in,Partly Cloudy,2017 November 11,94303,Palo%20Alto
+10:53 PM,56 °F,51 °F,84 °%,ENE,3 °mph,0 °mph,30.04 °in,0.0 °in,Partly Cloudy,2017 November 11,94303,Palo%20Alto
+11:53 PM,54 °F,49 °F,83 °%,CALM,0 °mph,0 °mph,30.04 °in,0.0 °in,Partly Cloudy,2017 November 11,94303,Palo%20Alto
+12:53 AM,53 °F,49 °F,86 °%,CALM,0 °mph,0 °mph,30.04 °in,0.0 °in,Mostly Cloudy,2017 November 11,94303,Palo%20Alto
+1:53 AM,52 °F,50 °F,93 °%,CALM,0 °mph,0 °mph,30.03 °in,0.0 °in,Fair,2017 November 11,94301,Palo%20Alto
+2:30 AM,52 °F,50 °F,93 °%,SE,3 °mph,0 °mph,30.03 °in,0.0 °in,Mostly Cloudy,2017 November 11,94301,Palo%20Alto
+2:53 AM,51 °F,49 °F,92 °%,ESE,3 °mph,0 °mph,30.03 °in,0.0 °in,Mostly Cloudy,2017 November 11,94301,Palo%20Alto
+3:53 AM,52 °F,50 °F,93 °%,ENE,3 °mph,0 °mph,30.04 °in,0.0 °in,Partly Cloudy,2017 November 11,94301,Palo%20Alto
+4:29 AM,52 °F,51 °F,97 °%,CALM,0 °mph,0 °mph,30.03 °in,0.0 °in,Mostly Cloudy,2017 November 11,94301,Palo%20Alto
+4:34 AM,53 °F,51 °F,93 °%,CALM,0 °mph,0 °mph,30.03 °in,0.0 °in,Mostly Cloudy,2017 November 11,94301,Palo%20Alto
+4:53 AM,53 °F,51 °F,93 °%,CALM,0 °mph,0 °mph,30.03 °in,0.0 °in,Cloudy,2017 November 11,94301,Palo%20Alto
+5:03 AM,54 °F,52 °F,93 °%,CALM,0 °mph,0 °mph,30.03 °in,0.0 °in,Cloudy,2017 November 11,94301,Palo%20Alto
+5:53 AM,54 °F,52 °F,93 °%,SE,3 °mph,0 °mph,30.04 °in,0.0 °in,Cloudy,2017 November 11,94301,Palo%20Alto
+6:01 AM,54 °F,53 °F,97 °%,SSE,5 °mph,0 °mph,30.04 °in,0.0 °in,Cloudy,2017 November 11,94301,Palo%20Alto
+6:21 AM,55 °F,53 °F,93 °%,CALM,0 °mph,0 °mph,30.04 °in,0.0 °in,Cloudy,2017 November 11,94301,Palo%20Alto
+6:53 AM,55 °F,53 °F,93 °%,CALM,0 °mph,0 °mph,30.04 °in,0.0 °in,Mostly Cloudy,2017 November 11,94301,Palo%20Alto
+7:53 AM,54 °F,52 °F,93 °%,NNE,3 °mph,0 °mph,30.04 °in,0.0 °in,Fair,2017 November 11,94301,Palo%20Alto
+8:53 AM,56 °F,52 °F,87 °%,CALM,0 °mph,0 °mph,30.05 °in,0.0 °in,Fair,2017 November 11,94301,Palo%20Alto
+9:53 AM,58 °F,54 °F,87 °%,CALM,0 °mph,0 °mph,30.07 °in,0.0 °in,Fair,2017 November 11,94301,Palo%20Alto
+10:53 AM,62 °F,53 °F,72 °%,CALM,0 °mph,0 °mph,30.06 °in,0.0 °in,Mostly Cloudy,2017 November 11,94301,Palo%20Alto
+11:53 AM,64 °F,52 °F,65 °%,CALM,0 °mph,0 °mph,30.05 °in,0.0 °in,Mostly Cloudy,2017 November 11,94301,Palo%20Alto
+12:53 PM,64 °F,51 °F,63 °%,CALM,0 °mph,0 °mph,30.02 °in,0.0 °in,Mostly Cloudy,2017 November 11,94301,Palo%20Alto
+1:53 PM,66 °F,50 °F,56 °%,W,6 °mph,0 °mph,30.00 °in,0.0 °in,Mostly Cloudy,2017 November 11,94301,Palo%20Alto
+2:53 PM,67 °F,48 °F,51 °%,VAR,3 °mph,0 °mph,29.98 °in,0.0 °in,Mostly Cloudy,2017 November 11,94301,Palo%20Alto
+3:53 PM,67 °F,47 °F,49 °%,WNW,7 °mph,0 °mph,29.97 °in,0.0 °in,Mostly Cloudy,2017 November 11,94301,Palo%20Alto
+4:53 PM,65 °F,48 °F,54 °%,WNW,10 °mph,0 °mph,29.97 °in,0.0 °in,Mostly Cloudy,2017 November 11,94301,Palo%20Alto
+5:53 PM,60 °F,50 °F,69 °%,WNW,12 °mph,0 °mph,29.98 °in,0.0 °in,Partly Cloudy,2017 November 11,94301,Palo%20Alto
+6:53 PM,60 °F,51 °F,72 °%,NW,9 °mph,0 °mph,30.00 °in,0.0 °in,Partly Cloudy,2017 November 11,94301,Palo%20Alto
+7:53 PM,59 °F,49 °F,69 °%,NNW,7 °mph,0 °mph,30.01 °in,0.0 °in,Fair,2017 November 11,94301,Palo%20Alto
+8:53 PM,57 °F,49 °F,74 °%,NW,7 °mph,0 °mph,30.02 °in,0.0 °in,Partly Cloudy,2017 November 11,94301,Palo%20Alto
+9:53 PM,57 °F,51 °F,81 °%,NNW,5 °mph,0 °mph,30.03 °in,0.0 °in,Partly Cloudy,2017 November 11,94301,Palo%20Alto
+10:53 PM,56 °F,51 °F,84 °%,ENE,3 °mph,0 °mph,30.04 °in,0.0 °in,Partly Cloudy,2017 November 11,94301,Palo%20Alto
+11:53 PM,54 °F,49 °F,83 °%,CALM,0 °mph,0 °mph,30.04 °in,0.0 °in,Partly Cloudy,2017 November 11,94301,Palo%20Alto
+12:53 AM,53 °F,49 °F,86 °%,CALM,0 °mph,0 °mph,30.04 °in,0.0 °in,Mostly Cloudy,2017 November 11,94301,Palo%20Alto
+1:53 AM,52 °F,50 °F,93 °%,CALM,0 °mph,0 °mph,30.03 °in,0.0 °in,Fair,2017 November 11,94306,Palo%20Alto
+2:30 AM,52 °F,50 °F,93 °%,SE,3 °mph,0 °mph,30.03 °in,0.0 °in,Mostly Cloudy,2017 November 11,94306,Palo%20Alto
+2:53 AM,51 °F,49 °F,92 °%,ESE,3 °mph,0 °mph,30.03 °in,0.0 °in,Mostly Cloudy,2017 November 11,94306,Palo%20Alto
+3:53 AM,52 °F,50 °F,93 °%,ENE,3 °mph,0 °mph,30.04 °in,0.0 °in,Partly Cloudy,2017 November 11,94306,Palo%20Alto
+4:29 AM,52 °F,51 °F,97 °%,CALM,0 °mph,0 °mph,30.03 °in,0.0 °in,Mostly Cloudy,2017 November 11,94306,Palo%20Alto
+4:34 AM,53 °F,51 °F,93 °%,CALM,0 °mph,0 °mph,30.03 °in,0.0 °in,Mostly Cloudy,2017 November 11,94306,Palo%20Alto
+4:53 AM,53 °F,51 °F,93 °%,CALM,0 °mph,0 °mph,30.03 °in,0.0 °in,Cloudy,2017 November 11,94306,Palo%20Alto
+5:03 AM,54 °F,52 °F,93 °%,CALM,0 °mph,0 °mph,30.03 °in,0.0 °in,Cloudy,2017 November 11,94306,Palo%20Alto
+5:53 AM,54 °F,52 °F,93 °%,SE,3 °mph,0 °mph,30.04 °in,0.0 °in,Cloudy,2017 November 11,94306,Palo%20Alto
+6:01 AM,54 °F,53 °F,97 °%,SSE,5 °mph,0 °mph,30.04 °in,0.0 °in,Cloudy,2017 November 11,94306,Palo%20Alto
+6:21 AM,55 °F,53 °F,93 °%,CALM,0 °mph,0 °mph,30.04 °in,0.0 °in,Cloudy,2017 November 11,94306,Palo%20Alto
+6:53 AM,55 °F,53 °F,93 °%,CALM,0 °mph,0 °mph,30.04 °in,0.0 °in,Mostly Cloudy,2017 November 11,94306,Palo%20Alto
+7:53 AM,54 °F,52 °F,93 °%,NNE,3 °mph,0 °mph,30.04 °in,0.0 °in,Fair,2017 November 11,94306,Palo%20Alto
+8:53 AM,56 °F,52 °F,87 °%,CALM,0 °mph,0 °mph,30.05 °in,0.0 °in,Fair,2017 November 11,94306,Palo%20Alto
+9:53 AM,58 °F,54 °F,87 °%,CALM,0 °mph,0 °mph,30.07 °in,0.0 °in,Fair,2017 November 11,94306,Palo%20Alto
+10:53 AM,62 °F,53 °F,72 °%,CALM,0 °mph,0 °mph,30.06 °in,0.0 °in,Mostly Cloudy,2017 November 11,94306,Palo%20Alto
+11:53 AM,64 °F,52 °F,65 °%,CALM,0 °mph,0 °mph,30.05 °in,0.0 °in,Mostly Cloudy,2017 November 11,94306,Palo%20Alto
+12:53 PM,64 °F,51 °F,63 °%,CALM,0 °mph,0 °mph,30.02 °in,0.0 °in,Mostly Cloudy,2017 November 11,94306,Palo%20Alto
+1:53 PM,66 °F,50 °F,56 °%,W,6 °mph,0 °mph,30.00 °in,0.0 °in,Mostly Cloudy,2017 November 11,94306,Palo%20Alto
+2:53 PM,67 °F,48 °F,51 °%,VAR,3 °mph,0 °mph,29.98 °in,0.0 °in,Mostly Cloudy,2017 November 11,94306,Palo%20Alto
+3:53 PM,67 °F,47 °F,49 °%,WNW,7 °mph,0 °mph,29.97 °in,0.0 °in,Mostly Cloudy,2017 November 11,94306,Palo%20Alto
+4:53 PM,65 °F,48 °F,54 °%,WNW,10 °mph,0 °mph,29.97 °in,0.0 °in,Mostly Cloudy,2017 November 11,94306,Palo%20Alto
+5:53 PM,60 °F,50 °F,69 °%,WNW,12 °mph,0 °mph,29.98 °in,0.0 °in,Partly Cloudy,2017 November 11,94306,Palo%20Alto
+6:53 PM,60 °F,51 °F,72 °%,NW,9 °mph,0 °mph,30.00 °in,0.0 °in,Partly Cloudy,2017 November 11,94306,Palo%20Alto
+7:53 PM,59 °F,49 °F,69 °%,NNW,7 °mph,0 °mph,30.01 °in,0.0 °in,Fair,2017 November 11,94306,Palo%20Alto
+8:53 PM,57 °F,49 °F,74 °%,NW,7 °mph,0 °mph,30.02 °in,0.0 °in,Partly Cloudy,2017 November 11,94306,Palo%20Alto
+9:53 PM,57 °F,51 °F,81 °%,NNW,5 °mph,0 °mph,30.03 °in,0.0 °in,Partly Cloudy,2017 November 11,94306,Palo%20Alto
+10:53 PM,56 °F,51 °F,84 °%,ENE,3 °mph,0 °mph,30.04 °in,0.0 °in,Partly Cloudy,2017 November 11,94306,Palo%20Alto
+11:53 PM,54 °F,49 °F,83 °%,CALM,0 °mph,0 °mph,30.04 °in,0.0 °in,Partly Cloudy,2017 November 11,94306,Palo%20Alto
+12:53 AM,53 °F,49 °F,86 °%,CALM,0 °mph,0 °mph,30.04 °in,0.0 °in,Mostly Cloudy,2017 November 11,94306,Palo%20Alto
+1:53 AM,53 °F,49 °F,86 °%,SE,6 °mph,0 °mph,30.04 °in,0.0 °in,Cloudy,2017 November 12,94301,Palo%20Alto
+2:53 AM,52 °F,49 °F,89 °%,E,3 °mph,0 °mph,30.04 °in,0.0 °in,Mostly Cloudy,2017 November 12,94301,Palo%20Alto
+3:53 AM,51 °F,47 °F,86 °%,SSE,3 °mph,0 °mph,30.04 °in,0.0 °in,Fair,2017 November 12,94301,Palo%20Alto
+4:53 AM,48 °F,46 °F,93 °%,SE,5 °mph,0 °mph,30.04 °in,0.0 °in,Fair,2017 November 12,94301,Palo%20Alto
+5:53 AM,50 °F,47 °F,89 °%,SE,3 °mph,0 °mph,30.06 °in,0.0 °in,Mostly Cloudy,2017 November 12,94301,Palo%20Alto
+6:33 AM,49 °F,47 °F,93 °%,E,5 °mph,0 °mph,30.06 °in,0.0 °in,Mostly Cloudy,2017 November 12,94301,Palo%20Alto
+6:53 AM,50 °F,47 °F,89 °%,SE,3 °mph,0 °mph,30.06 °in,0.0 °in,Mostly Cloudy,2017 November 12,94301,Palo%20Alto
+7:53 AM,48 °F,46 °F,93 °%,SE,7 °mph,0 °mph,30.06 °in,0.0 °in,Mostly Cloudy,2017 November 12,94301,Palo%20Alto
+8:53 AM,49 °F,47 °F,93 °%,SE,6 °mph,0 °mph,30.08 °in,0.0 °in,Partly Cloudy,2017 November 12,94301,Palo%20Alto
+9:53 AM,53 °F,49 °F,86 °%,SE,6 °mph,0 °mph,30.09 °in,0.0 °in,Fair,2017 November 12,94301,Palo%20Alto
+10:53 AM,59 °F,50 °F,72 °%,ESE,6 °mph,0 °mph,30.07 °in,0.0 °in,Partly Cloudy,2017 November 12,94301,Palo%20Alto
+11:53 AM,63 °F,48 °F,58 °%,CALM,0 °mph,0 °mph,30.07 °in,0.0 °in,Partly Cloudy,2017 November 12,94301,Palo%20Alto
+12:53 PM,65 °F,45 °F,48 °%,CALM,0 °mph,0 °mph,30.05 °in,0.0 °in,Fair,2017 November 12,94301,Palo%20Alto
+1:53 PM,67 °F,46 °F,47 °%,W,5 °mph,0 °mph,30.03 °in,0.0 °in,Fair,2017 November 12,94301,Palo%20Alto
+2:53 PM,68 °F,45 °F,43 °%,VAR,3 °mph,0 °mph,30.03 °in,0.0 °in,Partly Cloudy,2017 November 12,94301,Palo%20Alto
+3:53 PM,69 °F,45 °F,42 °%,VAR,3 °mph,0 °mph,30.02 °in,0.0 °in,Fair,2017 November 12,94301,Palo%20Alto
+4:53 PM,67 °F,46 °F,47 °%,WNW,9 °mph,0 °mph,30.03 °in,0.0 °in,Fair,2017 November 12,94301,Palo%20Alto
+5:53 PM,63 °F,49 °F,60 °%,WNW,10 °mph,0 °mph,30.03 °in,0.0 °in,Partly Cloudy,2017 November 12,94301,Palo%20Alto
+6:53 PM,60 °F,49 °F,67 °%,NW,7 °mph,0 °mph,30.05 °in,0.0 °in,Fair,2017 November 12,94301,Palo%20Alto
+7:53 PM,61 °F,50 °F,67 °%,CALM,0 °mph,0 °mph,30.06 °in,0.0 °in,Fair,2017 November 12,94301,Palo%20Alto
+8:53 PM,58 °F,50 °F,75 °%,SSW,5 °mph,0 °mph,30.07 °in,0.0 °in,Fair,2017 November 12,94301,Palo%20Alto
+9:53 PM,56 °F,49 °F,77 °%,CALM,0 °mph,0 °mph,30.09 °in,0.0 °in,Fair,2017 November 12,94301,Palo%20Alto
+10:53 PM,56 °F,49 °F,77 °%,SE,6 °mph,0 °mph,30.10 °in,0.0 °in,Fair,2017 November 12,94301,Palo%20Alto
+11:53 PM,55 °F,49 °F,80 °%,SE,8 °mph,0 °mph,30.11 °in,0.0 °in,Fair,2017 November 12,94301,Palo%20Alto
+12:53 AM,53 °F,48 °F,83 °%,S,3 °mph,0 °mph,30.12 °in,0.0 °in,Fair,2017 November 12,94301,Palo%20Alto
+1:53 AM,53 °F,49 °F,86 °%,SE,6 °mph,0 °mph,30.04 °in,0.0 °in,Cloudy,2017 November 12,94303,Palo%20Alto
+2:53 AM,52 °F,49 °F,89 °%,E,3 °mph,0 °mph,30.04 °in,0.0 °in,Mostly Cloudy,2017 November 12,94303,Palo%20Alto
+3:53 AM,51 °F,47 °F,86 °%,SSE,3 °mph,0 °mph,30.04 °in,0.0 °in,Fair,2017 November 12,94303,Palo%20Alto
+4:53 AM,48 °F,46 °F,93 °%,SE,5 °mph,0 °mph,30.04 °in,0.0 °in,Fair,2017 November 12,94303,Palo%20Alto
+5:53 AM,50 °F,47 °F,89 °%,SE,3 °mph,0 °mph,30.06 °in,0.0 °in,Mostly Cloudy,2017 November 12,94303,Palo%20Alto
+6:33 AM,49 °F,47 °F,93 °%,E,5 °mph,0 °mph,30.06 °in,0.0 °in,Mostly Cloudy,2017 November 12,94303,Palo%20Alto
+6:53 AM,50 °F,47 °F,89 °%,SE,3 °mph,0 °mph,30.06 °in,0.0 °in,Mostly Cloudy,2017 November 12,94303,Palo%20Alto
+7:53 AM,48 °F,46 °F,93 °%,SE,7 °mph,0 °mph,30.06 °in,0.0 °in,Mostly Cloudy,2017 November 12,94303,Palo%20Alto
+8:53 AM,49 °F,47 °F,93 °%,SE,6 °mph,0 °mph,30.08 °in,0.0 °in,Partly Cloudy,2017 November 12,94303,Palo%20Alto
+9:53 AM,53 °F,49 °F,86 °%,SE,6 °mph,0 °mph,30.09 °in,0.0 °in,Fair,2017 November 12,94303,Palo%20Alto
+10:53 AM,59 °F,50 °F,72 °%,ESE,6 °mph,0 °mph,30.07 °in,0.0 °in,Partly Cloudy,2017 November 12,94303,Palo%20Alto
+11:53 AM,63 °F,48 °F,58 °%,CALM,0 °mph,0 °mph,30.07 °in,0.0 °in,Partly Cloudy,2017 November 12,94303,Palo%20Alto
+12:53 PM,65 °F,45 °F,48 °%,CALM,0 °mph,0 °mph,30.05 °in,0.0 °in,Fair,2017 November 12,94303,Palo%20Alto
+1:53 PM,67 °F,46 °F,47 °%,W,5 °mph,0 °mph,30.03 °in,0.0 °in,Fair,2017 November 12,94303,Palo%20Alto
+2:53 PM,68 °F,45 °F,43 °%,VAR,3 °mph,0 °mph,30.03 °in,0.0 °in,Partly Cloudy,2017 November 12,94303,Palo%20Alto
+3:53 PM,69 °F,45 °F,42 °%,VAR,3 °mph,0 °mph,30.02 °in,0.0 °in,Fair,2017 November 12,94303,Palo%20Alto
+4:53 PM,67 °F,46 °F,47 °%,WNW,9 °mph,0 °mph,30.03 °in,0.0 °in,Fair,2017 November 12,94303,Palo%20Alto
+5:53 PM,63 °F,49 °F,60 °%,WNW,10 °mph,0 °mph,30.03 °in,0.0 °in,Partly Cloudy,2017 November 12,94303,Palo%20Alto
+6:53 PM,60 °F,49 °F,67 °%,NW,7 °mph,0 °mph,30.05 °in,0.0 °in,Fair,2017 November 12,94303,Palo%20Alto
+7:53 PM,61 °F,50 °F,67 °%,CALM,0 °mph,0 °mph,30.06 °in,0.0 °in,Fair,2017 November 12,94303,Palo%20Alto
+8:53 PM,58 °F,50 °F,75 °%,SSW,5 °mph,0 °mph,30.07 °in,0.0 °in,Fair,2017 November 12,94303,Palo%20Alto
+9:53 PM,56 °F,49 °F,77 °%,CALM,0 °mph,0 °mph,30.09 °in,0.0 °in,Fair,2017 November 12,94303,Palo%20Alto
+10:53 PM,56 °F,49 °F,77 °%,SE,6 °mph,0 °mph,30.10 °in,0.0 °in,Fair,2017 November 12,94303,Palo%20Alto
+11:53 PM,55 °F,49 °F,80 °%,SE,8 °mph,0 °mph,30.11 °in,0.0 °in,Fair,2017 November 12,94303,Palo%20Alto
+12:53 AM,53 °F,48 °F,83 °%,S,3 °mph,0 °mph,30.12 °in,0.0 °in,Fair,2017 November 12,94303,Palo%20Alto
+1:53 AM,53 °F,49 °F,86 °%,SE,6 °mph,0 °mph,30.04 °in,0.0 °in,Cloudy,2017 November 12,94306,Palo%20Alto
+2:53 AM,52 °F,49 °F,89 °%,E,3 °mph,0 °mph,30.04 °in,0.0 °in,Mostly Cloudy,2017 November 12,94306,Palo%20Alto
+3:53 AM,51 °F,47 °F,86 °%,SSE,3 °mph,0 °mph,30.04 °in,0.0 °in,Fair,2017 November 12,94306,Palo%20Alto
+4:53 AM,48 °F,46 °F,93 °%,SE,5 °mph,0 °mph,30.04 °in,0.0 °in,Fair,2017 November 12,94306,Palo%20Alto
+5:53 AM,50 °F,47 °F,89 °%,SE,3 °mph,0 °mph,30.06 °in,0.0 °in,Mostly Cloudy,2017 November 12,94306,Palo%20Alto
+6:33 AM,49 °F,47 °F,93 °%,E,5 °mph,0 °mph,30.06 °in,0.0 °in,Mostly Cloudy,2017 November 12,94306,Palo%20Alto
+6:53 AM,50 °F,47 °F,89 °%,SE,3 °mph,0 °mph,30.06 °in,0.0 °in,Mostly Cloudy,2017 November 12,94306,Palo%20Alto
+7:53 AM,48 °F,46 °F,93 °%,SE,7 °mph,0 °mph,30.06 °in,0.0 °in,Mostly Cloudy,2017 November 12,94306,Palo%20Alto
+8:53 AM,49 °F,47 °F,93 °%,SE,6 °mph,0 °mph,30.08 °in,0.0 °in,Partly Cloudy,2017 November 12,94306,Palo%20Alto
+9:53 AM,53 °F,49 °F,86 °%,SE,6 °mph,0 °mph,30.09 °in,0.0 °in,Fair,2017 November 12,94306,Palo%20Alto
+10:53 AM,59 °F,50 °F,72 °%,ESE,6 °mph,0 °mph,30.07 °in,0.0 °in,Partly Cloudy,2017 November 12,94306,Palo%20Alto
+11:53 AM,63 °F,48 °F,58 °%,CALM,0 °mph,0 °mph,30.07 °in,0.0 °in,Partly Cloudy,2017 November 12,94306,Palo%20Alto
+12:53 PM,65 °F,45 °F,48 °%,CALM,0 °mph,0 °mph,30.05 °in,0.0 °in,Fair,2017 November 12,94306,Palo%20Alto
+1:53 PM,67 °F,46 °F,47 °%,W,5 °mph,0 °mph,30.03 °in,0.0 °in,Fair,2017 November 12,94306,Palo%20Alto
+2:53 PM,68 °F,45 °F,43 °%,VAR,3 °mph,0 °mph,30.03 °in,0.0 °in,Partly Cloudy,2017 November 12,94306,Palo%20Alto
+3:53 PM,69 °F,45 °F,42 °%,VAR,3 °mph,0 °mph,30.02 °in,0.0 °in,Fair,2017 November 12,94306,Palo%20Alto
+4:53 PM,67 °F,46 °F,47 °%,WNW,9 °mph,0 °mph,30.03 °in,0.0 °in,Fair,2017 November 12,94306,Palo%20Alto
+5:53 PM,63 °F,49 °F,60 °%,WNW,10 °mph,0 °mph,30.03 °in,0.0 °in,Partly Cloudy,2017 November 12,94306,Palo%20Alto
+6:53 PM,60 °F,49 °F,67 °%,NW,7 °mph,0 °mph,30.05 °in,0.0 °in,Fair,2017 November 12,94306,Palo%20Alto
+7:53 PM,61 °F,50 °F,67 °%,CALM,0 °mph,0 °mph,30.06 °in,0.0 °in,Fair,2017 November 12,94306,Palo%20Alto
+8:53 PM,58 °F,50 °F,75 °%,SSW,5 °mph,0 °mph,30.07 °in,0.0 °in,Fair,2017 November 12,94306,Palo%20Alto
+9:53 PM,56 °F,49 °F,77 °%,CALM,0 °mph,0 °mph,30.09 °in,0.0 °in,Fair,2017 November 12,94306,Palo%20Alto
+10:53 PM,56 °F,49 °F,77 °%,SE,6 °mph,0 °mph,30.10 °in,0.0 °in,Fair,2017 November 12,94306,Palo%20Alto
+11:53 PM,55 °F,49 °F,80 °%,SE,8 °mph,0 °mph,30.11 °in,0.0 °in,Fair,2017 November 12,94306,Palo%20Alto
+12:53 AM,53 °F,48 °F,83 °%,S,3 °mph,0 °mph,30.12 °in,0.0 °in,Fair,2017 November 12,94306,Palo%20Alto
+1:53 AM,52 °F,47 °F,83 °%,E,5 °mph,0 °mph,30.11 °in,0.0 °in,Fair,2017 November 13,94303,Palo%20Alto
+2:53 AM,53 °F,47 °F,80 °%,ESE,10 °mph,0 °mph,30.10 °in,0.0 °in,Fair,2017 November 13,94303,Palo%20Alto
+3:53 AM,52 °F,46 °F,80 °%,ESE,8 °mph,0 °mph,30.10 °in,0.0 °in,Fair,2017 November 13,94303,Palo%20Alto
+4:53 AM,52 °F,46 °F,80 °%,SSE,3 °mph,0 °mph,30.10 °in,0.0 °in,Fair,2017 November 13,94303,Palo%20Alto
+5:53 AM,53 °F,47 °F,80 °%,SE,6 °mph,0 °mph,30.11 °in,0.0 °in,Cloudy,2017 November 13,94303,Palo%20Alto
+6:53 AM,53 °F,47 °F,80 °%,ESE,9 °mph,0 °mph,30.12 °in,0.0 °in,Mostly Cloudy,2017 November 13,94303,Palo%20Alto
+7:53 AM,55 °F,47 °F,74 °%,SE,3 °mph,0 °mph,30.13 °in,0.0 °in,Cloudy,2017 November 13,94303,Palo%20Alto
+8:53 AM,56 °F,49 °F,77 °%,E,8 °mph,0 °mph,30.15 °in,0.0 °in,Mostly Cloudy,2017 November 13,94303,Palo%20Alto
+9:53 AM,57 °F,49 °F,74 °%,SE,10 °mph,0 °mph,30.17 °in,0.0 °in,Fair,2017 November 13,94303,Palo%20Alto
+10:53 AM,64 °F,49 °F,58 °%,ESE,10 °mph,0 °mph,30.16 °in,0.0 °in,Fair,2017 November 13,94303,Palo%20Alto
+11:53 AM,68 °F,53 °F,59 °%,S,8 °mph,0 °mph,30.15 °in,0.0 °in,Partly Cloudy,2017 November 13,94303,Palo%20Alto
+12:53 PM,70 °F,53 °F,55 °%,CALM,0 °mph,0 °mph,30.12 °in,0.0 °in,Partly Cloudy,2017 November 13,94303,Palo%20Alto
+1:53 PM,71 °F,52 °F,51 °%,VAR,5 °mph,0 °mph,30.10 °in,0.0 °in,Mostly Cloudy,2017 November 13,94303,Palo%20Alto
+2:53 PM,72 °F,53 °F,51 °%,VAR,5 °mph,0 °mph,30.09 °in,0.0 °in,Mostly Cloudy,2017 November 13,94303,Palo%20Alto
+3:53 PM,70 °F,53 °F,55 °%,WNW,10 °mph,0 °mph,30.09 °in,0.0 °in,Mostly Cloudy,2017 November 13,94303,Palo%20Alto
+4:53 PM,68 °F,55 °F,63 °%,NW,10 °mph,0 °mph,30.10 °in,0.0 °in,Mostly Cloudy,2017 November 13,94303,Palo%20Alto
+5:53 PM,65 °F,56 °F,73 °%,NNW,9 °mph,0 °mph,30.09 °in,0.0 °in,Mostly Cloudy,2017 November 13,94303,Palo%20Alto
+6:53 PM,64 °F,56 °F,75 °%,NNW,8 °mph,0 °mph,30.11 °in,0.0 °in,Mostly Cloudy,2017 November 13,94303,Palo%20Alto
+7:53 PM,64 °F,56 °F,75 °%,NNW,8 °mph,0 °mph,30.12 °in,0.0 °in,Mostly Cloudy,2017 November 13,94303,Palo%20Alto
+8:53 PM,63 °F,57 °F,81 °%,NW,7 °mph,0 °mph,30.13 °in,0.0 °in,Mostly Cloudy,2017 November 13,94303,Palo%20Alto
+9:28 PM,62 °F,58 °F,86 °%,NW,8 °mph,0 °mph,30.14 °in,0.0 °in,Mostly Cloudy,2017 November 13,94303,Palo%20Alto
+9:53 PM,62 °F,58 °F,86 °%,NNW,7 °mph,0 °mph,30.15 °in,0.0 °in,Mostly Cloudy,2017 November 13,94303,Palo%20Alto
+10:12 PM,62 °F,58 °F,86 °%,NNW,8 °mph,0 °mph,30.15 °in,0.0 °in,Cloudy,2017 November 13,94303,Palo%20Alto
+10:28 PM,62 °F,59 °F,90 °%,NW,8 °mph,0 °mph,30.15 °in,0.0 °in,Light Rain,2017 November 13,94303,Palo%20Alto
+10:45 PM,61 °F,58 °F,90 °%,NNW,9 °mph,0 °mph,30.16 °in,0.0 °in,Light Rain,2017 November 13,94303,Palo%20Alto
+10:53 PM,61 °F,59 °F,93 °%,NNW,8 °mph,0 °mph,30.16 °in,0.0 °in,Light Rain,2017 November 13,94303,Palo%20Alto
+11:19 PM,60 °F,58 °F,93 °%,NNW,6 °mph,0 °mph,30.16 °in,0.0 °in,Light Rain,2017 November 13,94303,Palo%20Alto
+11:53 PM,60 °F,58 °F,93 °%,N,5 °mph,0 °mph,30.16 °in,0.0 °in,Cloudy,2017 November 13,94303,Palo%20Alto
+12:53 AM,60 °F,58 °F,93 °%,NNW,3 °mph,0 °mph,30.17 °in,0.0 °in,Mostly Cloudy,2017 November 13,94303,Palo%20Alto

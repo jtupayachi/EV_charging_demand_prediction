@@ -1,0 +1,251 @@
+Time,Temperature,Dew Point,Humidity,Wind,Wind Speed,Wind Gust,Pressure,Precip.,Condition,date_collector,postal_code,city
+12:53 AM,54 °F,46 °F,75 °%,W,6 °mph,0 °mph,30.04 °in,0.0 °in,Fair,2018 April 28,94306,Palo%20Alto
+1:53 AM,53 °F,46 °F,77 °%,SSW,5 °mph,0 °mph,30.04 °in,0.0 °in,Fair,2018 April 28,94306,Palo%20Alto
+2:53 AM,52 °F,45 °F,77 °%,CALM,0 °mph,0 °mph,30.03 °in,0.0 °in,Fair,2018 April 28,94306,Palo%20Alto
+3:53 AM,51 °F,43 °F,74 °%,CALM,0 °mph,0 °mph,30.03 °in,0.0 °in,Fair,2018 April 28,94306,Palo%20Alto
+4:53 AM,49 °F,44 °F,83 °%,ESE,6 °mph,0 °mph,30.02 °in,0.0 °in,Fair,2018 April 28,94306,Palo%20Alto
+5:53 AM,50 °F,45 °F,83 °%,SSE,5 °mph,0 °mph,30.00 °in,0.0 °in,Mostly Cloudy,2018 April 28,94306,Palo%20Alto
+6:53 AM,51 °F,45 °F,80 °%,SE,3 °mph,0 °mph,30.02 °in,0.0 °in,Mostly Cloudy,2018 April 28,94306,Palo%20Alto
+7:53 AM,55 °F,46 °F,72 °%,VAR,3 °mph,0 °mph,30.03 °in,0.0 °in,Mostly Cloudy,2018 April 28,94306,Palo%20Alto
+8:53 AM,56 °F,47 °F,72 °%,E,5 °mph,0 °mph,30.03 °in,0.0 °in,Mostly Cloudy,2018 April 28,94306,Palo%20Alto
+9:53 AM,60 °F,48 °F,64 °%,CALM,0 °mph,0 °mph,30.03 °in,0.0 °in,Mostly Cloudy,2018 April 28,94306,Palo%20Alto
+10:53 AM,62 °F,45 °F,53 °%,CALM,0 °mph,0 °mph,30.03 °in,0.0 °in,Mostly Cloudy,2018 April 28,94306,Palo%20Alto
+11:53 AM,61 °F,47 °F,60 °%,NW,10 °mph,0 °mph,30.04 °in,0.0 °in,Mostly Cloudy,2018 April 28,94306,Palo%20Alto
+12:53 PM,65 °F,49 °F,56 °%,NNW,10 °mph,0 °mph,30.03 °in,0.0 °in,Mostly Cloudy,2018 April 28,94306,Palo%20Alto
+1:53 PM,63 °F,45 °F,52 °%,WNW,6 °mph,0 °mph,30.01 °in,0.0 °in,Mostly Cloudy,2018 April 28,94306,Palo%20Alto
+2:53 PM,64 °F,45 °F,50 °%,NNW,8 °mph,0 °mph,30.01 °in,0.0 °in,Mostly Cloudy,2018 April 28,94306,Palo%20Alto
+3:53 PM,66 °F,43 °F,43 °%,WNW,14 °mph,18 °mph,29.98 °in,0.0 °in,Mostly Cloudy,2018 April 28,94306,Palo%20Alto
+4:53 PM,64 °F,43 °F,46 °%,NW,17 °mph,0 °mph,29.97 °in,0.0 °in,Mostly Cloudy,2018 April 28,94306,Palo%20Alto
+5:30 PM,65 °F,42 °F,43 °%,W,15 °mph,23 °mph,29.97 °in,0.0 °in,Mostly Cloudy,2018 April 28,94306,Palo%20Alto
+5:53 PM,64 °F,43 °F,46 °%,W,15 °mph,0 °mph,29.97 °in,0.0 °in,Mostly Cloudy,2018 April 28,94306,Palo%20Alto
+6:53 PM,62 °F,43 °F,50 °%,W,15 °mph,0 °mph,29.98 °in,0.0 °in,Partly Cloudy,2018 April 28,94306,Palo%20Alto
+7:53 PM,58 °F,44 °F,60 °%,W,15 °mph,0 °mph,29.99 °in,0.0 °in,Partly Cloudy,2018 April 28,94306,Palo%20Alto
+8:53 PM,56 °F,44 °F,64 °%,W,10 °mph,0 °mph,30.00 °in,0.0 °in,Fair,2018 April 28,94306,Palo%20Alto
+9:53 PM,56 °F,44 °F,64 °%,WNW,7 °mph,0 °mph,30.02 °in,0.0 °in,Partly Cloudy,2018 April 28,94306,Palo%20Alto
+10:53 PM,55 °F,45 °F,69 °%,W,7 °mph,0 °mph,30.03 °in,0.0 °in,Fair,2018 April 28,94306,Palo%20Alto
+11:53 PM,53 °F,46 °F,77 °%,WNW,5 °mph,0 °mph,30.03 °in,0.0 °in,Partly Cloudy,2018 April 28,94306,Palo%20Alto
+12:53 AM,53 °F,46 °F,77 °%,NW,7 °mph,0 °mph,30.02 °in,0.0 °in,Fair,2018 April 29,94303,Palo%20Alto
+1:53 AM,54 °F,46 °F,75 °%,WNW,6 °mph,0 °mph,30.02 °in,0.0 °in,Cloudy,2018 April 29,94303,Palo%20Alto
+2:53 AM,55 °F,46 °F,72 °%,WNW,6 °mph,0 °mph,30.01 °in,0.0 °in,Cloudy,2018 April 29,94303,Palo%20Alto
+3:53 AM,55 °F,46 °F,72 °%,W,6 °mph,0 °mph,30.01 °in,0.0 °in,Cloudy,2018 April 29,94303,Palo%20Alto
+4:53 AM,54 °F,46 °F,75 °%,WSW,5 °mph,0 °mph,30.01 °in,0.0 °in,Cloudy,2018 April 29,94303,Palo%20Alto
+5:53 AM,54 °F,46 °F,75 °%,W,3 °mph,0 °mph,29.99 °in,0.0 °in,Mostly Cloudy,2018 April 29,94303,Palo%20Alto
+6:53 AM,55 °F,46 °F,72 °%,W,10 °mph,0 °mph,30.01 °in,0.0 °in,Mostly Cloudy,2018 April 29,94303,Palo%20Alto
+7:53 AM,56 °F,47 °F,72 °%,W,9 °mph,0 °mph,30.03 °in,0.0 °in,Mostly Cloudy,2018 April 29,94303,Palo%20Alto
+8:53 AM,57 °F,47 °F,69 °%,WNW,13 °mph,0 °mph,30.03 °in,0.0 °in,Mostly Cloudy,2018 April 29,94303,Palo%20Alto
+9:53 AM,58 °F,48 °F,70 °%,WNW,12 °mph,0 °mph,30.03 °in,0.0 °in,Mostly Cloudy,2018 April 29,94303,Palo%20Alto
+10:53 AM,59 °F,46 °F,62 °%,W,14 °mph,0 °mph,30.04 °in,0.0 °in,Mostly Cloudy,2018 April 29,94303,Palo%20Alto
+11:53 AM,59 °F,48 °F,67 °%,WNW,17 °mph,0 °mph,30.05 °in,0.0 °in,Mostly Cloudy,2018 April 29,94303,Palo%20Alto
+12:53 PM,60 °F,47 °F,62 °%,W,10 °mph,0 °mph,30.04 °in,0.0 °in,Mostly Cloudy,2018 April 29,94303,Palo%20Alto
+1:53 PM,62 °F,45 °F,53 °%,W,13 °mph,0 °mph,30.03 °in,0.0 °in,Mostly Cloudy,2018 April 29,94303,Palo%20Alto
+2:53 PM,63 °F,46 °F,54 °%,NW,9 °mph,0 °mph,30.01 °in,0.0 °in,Mostly Cloudy,2018 April 29,94303,Palo%20Alto
+3:53 PM,64 °F,46 °F,52 °%,NW,12 °mph,0 °mph,30.00 °in,0.0 °in,Mostly Cloudy,2018 April 29,94303,Palo%20Alto
+4:53 PM,62 °F,46 °F,56 °%,WNW,13 °mph,0 °mph,29.99 °in,0.0 °in,Mostly Cloudy,2018 April 29,94303,Palo%20Alto
+5:53 PM,62 °F,45 °F,53 °%,NW,15 °mph,0 °mph,29.98 °in,0.0 °in,Partly Cloudy,2018 April 29,94303,Palo%20Alto
+6:53 PM,61 °F,45 °F,56 °%,WNW,15 °mph,0 °mph,29.99 °in,0.0 °in,Partly Cloudy,2018 April 29,94303,Palo%20Alto
+7:53 PM,58 °F,46 °F,65 °%,WNW,15 °mph,0 °mph,30.00 °in,0.0 °in,Fair,2018 April 29,94303,Palo%20Alto
+8:53 PM,56 °F,46 °F,69 °%,WNW,13 °mph,0 °mph,30.03 °in,0.0 °in,Fair,2018 April 29,94303,Palo%20Alto
+9:53 PM,54 °F,47 °F,77 °%,WNW,7 °mph,0 °mph,30.04 °in,0.0 °in,Fair,2018 April 29,94303,Palo%20Alto
+10:53 PM,55 °F,46 °F,72 °%,WNW,6 °mph,0 °mph,30.04 °in,0.0 °in,Partly Cloudy,2018 April 29,94303,Palo%20Alto
+11:53 PM,53 °F,45 °F,74 °%,WNW,3 °mph,0 °mph,30.03 °in,0.0 °in,Fair,2018 April 29,94303,Palo%20Alto
+12:53 AM,53 °F,46 °F,77 °%,NW,7 °mph,0 °mph,30.02 °in,0.0 °in,Fair,2018 April 29,94301,Palo%20Alto
+1:53 AM,54 °F,46 °F,75 °%,WNW,6 °mph,0 °mph,30.02 °in,0.0 °in,Cloudy,2018 April 29,94301,Palo%20Alto
+2:53 AM,55 °F,46 °F,72 °%,WNW,6 °mph,0 °mph,30.01 °in,0.0 °in,Cloudy,2018 April 29,94301,Palo%20Alto
+3:53 AM,55 °F,46 °F,72 °%,W,6 °mph,0 °mph,30.01 °in,0.0 °in,Cloudy,2018 April 29,94301,Palo%20Alto
+4:53 AM,54 °F,46 °F,75 °%,WSW,5 °mph,0 °mph,30.01 °in,0.0 °in,Cloudy,2018 April 29,94301,Palo%20Alto
+5:53 AM,54 °F,46 °F,75 °%,W,3 °mph,0 °mph,29.99 °in,0.0 °in,Mostly Cloudy,2018 April 29,94301,Palo%20Alto
+6:53 AM,55 °F,46 °F,72 °%,W,10 °mph,0 °mph,30.01 °in,0.0 °in,Mostly Cloudy,2018 April 29,94301,Palo%20Alto
+7:53 AM,56 °F,47 °F,72 °%,W,9 °mph,0 °mph,30.03 °in,0.0 °in,Mostly Cloudy,2018 April 29,94301,Palo%20Alto
+8:53 AM,57 °F,47 °F,69 °%,WNW,13 °mph,0 °mph,30.03 °in,0.0 °in,Mostly Cloudy,2018 April 29,94301,Palo%20Alto
+9:53 AM,58 °F,48 °F,70 °%,WNW,12 °mph,0 °mph,30.03 °in,0.0 °in,Mostly Cloudy,2018 April 29,94301,Palo%20Alto
+10:53 AM,59 °F,46 °F,62 °%,W,14 °mph,0 °mph,30.04 °in,0.0 °in,Mostly Cloudy,2018 April 29,94301,Palo%20Alto
+11:53 AM,59 °F,48 °F,67 °%,WNW,17 °mph,0 °mph,30.05 °in,0.0 °in,Mostly Cloudy,2018 April 29,94301,Palo%20Alto
+12:53 PM,60 °F,47 °F,62 °%,W,10 °mph,0 °mph,30.04 °in,0.0 °in,Mostly Cloudy,2018 April 29,94301,Palo%20Alto
+1:53 PM,62 °F,45 °F,53 °%,W,13 °mph,0 °mph,30.03 °in,0.0 °in,Mostly Cloudy,2018 April 29,94301,Palo%20Alto
+2:53 PM,63 °F,46 °F,54 °%,NW,9 °mph,0 °mph,30.01 °in,0.0 °in,Mostly Cloudy,2018 April 29,94301,Palo%20Alto
+3:53 PM,64 °F,46 °F,52 °%,NW,12 °mph,0 °mph,30.00 °in,0.0 °in,Mostly Cloudy,2018 April 29,94301,Palo%20Alto
+4:53 PM,62 °F,46 °F,56 °%,WNW,13 °mph,0 °mph,29.99 °in,0.0 °in,Mostly Cloudy,2018 April 29,94301,Palo%20Alto
+5:53 PM,62 °F,45 °F,53 °%,NW,15 °mph,0 °mph,29.98 °in,0.0 °in,Partly Cloudy,2018 April 29,94301,Palo%20Alto
+6:53 PM,61 °F,45 °F,56 °%,WNW,15 °mph,0 °mph,29.99 °in,0.0 °in,Partly Cloudy,2018 April 29,94301,Palo%20Alto
+7:53 PM,58 °F,46 °F,65 °%,WNW,15 °mph,0 °mph,30.00 °in,0.0 °in,Fair,2018 April 29,94301,Palo%20Alto
+8:53 PM,56 °F,46 °F,69 °%,WNW,13 °mph,0 °mph,30.03 °in,0.0 °in,Fair,2018 April 29,94301,Palo%20Alto
+9:53 PM,54 °F,47 °F,77 °%,WNW,7 °mph,0 °mph,30.04 °in,0.0 °in,Fair,2018 April 29,94301,Palo%20Alto
+10:53 PM,55 °F,46 °F,72 °%,WNW,6 °mph,0 °mph,30.04 °in,0.0 °in,Partly Cloudy,2018 April 29,94301,Palo%20Alto
+11:53 PM,53 °F,45 °F,74 °%,WNW,3 °mph,0 °mph,30.03 °in,0.0 °in,Fair,2018 April 29,94301,Palo%20Alto
+12:53 AM,53 °F,46 °F,77 °%,NW,7 °mph,0 °mph,30.02 °in,0.0 °in,Fair,2018 April 29,94306,Palo%20Alto
+1:53 AM,54 °F,46 °F,75 °%,WNW,6 °mph,0 °mph,30.02 °in,0.0 °in,Cloudy,2018 April 29,94306,Palo%20Alto
+2:53 AM,55 °F,46 °F,72 °%,WNW,6 °mph,0 °mph,30.01 °in,0.0 °in,Cloudy,2018 April 29,94306,Palo%20Alto
+3:53 AM,55 °F,46 °F,72 °%,W,6 °mph,0 °mph,30.01 °in,0.0 °in,Cloudy,2018 April 29,94306,Palo%20Alto
+4:53 AM,54 °F,46 °F,75 °%,WSW,5 °mph,0 °mph,30.01 °in,0.0 °in,Cloudy,2018 April 29,94306,Palo%20Alto
+5:53 AM,54 °F,46 °F,75 °%,W,3 °mph,0 °mph,29.99 °in,0.0 °in,Mostly Cloudy,2018 April 29,94306,Palo%20Alto
+6:53 AM,55 °F,46 °F,72 °%,W,10 °mph,0 °mph,30.01 °in,0.0 °in,Mostly Cloudy,2018 April 29,94306,Palo%20Alto
+7:53 AM,56 °F,47 °F,72 °%,W,9 °mph,0 °mph,30.03 °in,0.0 °in,Mostly Cloudy,2018 April 29,94306,Palo%20Alto
+8:53 AM,57 °F,47 °F,69 °%,WNW,13 °mph,0 °mph,30.03 °in,0.0 °in,Mostly Cloudy,2018 April 29,94306,Palo%20Alto
+9:53 AM,58 °F,48 °F,70 °%,WNW,12 °mph,0 °mph,30.03 °in,0.0 °in,Mostly Cloudy,2018 April 29,94306,Palo%20Alto
+10:53 AM,59 °F,46 °F,62 °%,W,14 °mph,0 °mph,30.04 °in,0.0 °in,Mostly Cloudy,2018 April 29,94306,Palo%20Alto
+11:53 AM,59 °F,48 °F,67 °%,WNW,17 °mph,0 °mph,30.05 °in,0.0 °in,Mostly Cloudy,2018 April 29,94306,Palo%20Alto
+12:53 PM,60 °F,47 °F,62 °%,W,10 °mph,0 °mph,30.04 °in,0.0 °in,Mostly Cloudy,2018 April 29,94306,Palo%20Alto
+1:53 PM,62 °F,45 °F,53 °%,W,13 °mph,0 °mph,30.03 °in,0.0 °in,Mostly Cloudy,2018 April 29,94306,Palo%20Alto
+2:53 PM,63 °F,46 °F,54 °%,NW,9 °mph,0 °mph,30.01 °in,0.0 °in,Mostly Cloudy,2018 April 29,94306,Palo%20Alto
+3:53 PM,64 °F,46 °F,52 °%,NW,12 °mph,0 °mph,30.00 °in,0.0 °in,Mostly Cloudy,2018 April 29,94306,Palo%20Alto
+4:53 PM,62 °F,46 °F,56 °%,WNW,13 °mph,0 °mph,29.99 °in,0.0 °in,Mostly Cloudy,2018 April 29,94306,Palo%20Alto
+5:53 PM,62 °F,45 °F,53 °%,NW,15 °mph,0 °mph,29.98 °in,0.0 °in,Partly Cloudy,2018 April 29,94306,Palo%20Alto
+6:53 PM,61 °F,45 °F,56 °%,WNW,15 °mph,0 °mph,29.99 °in,0.0 °in,Partly Cloudy,2018 April 29,94306,Palo%20Alto
+7:53 PM,58 °F,46 °F,65 °%,WNW,15 °mph,0 °mph,30.00 °in,0.0 °in,Fair,2018 April 29,94306,Palo%20Alto
+8:53 PM,56 °F,46 °F,69 °%,WNW,13 °mph,0 °mph,30.03 °in,0.0 °in,Fair,2018 April 29,94306,Palo%20Alto
+9:53 PM,54 °F,47 °F,77 °%,WNW,7 °mph,0 °mph,30.04 °in,0.0 °in,Fair,2018 April 29,94306,Palo%20Alto
+10:53 PM,55 °F,46 °F,72 °%,WNW,6 °mph,0 °mph,30.04 °in,0.0 °in,Partly Cloudy,2018 April 29,94306,Palo%20Alto
+11:53 PM,53 °F,45 °F,74 °%,WNW,3 °mph,0 °mph,30.03 °in,0.0 °in,Fair,2018 April 29,94306,Palo%20Alto
+12:39 AM,53 °F,46 °F,77 °%,CALM,0 °mph,0 °mph,30.03 °in,0.0 °in,Mostly Cloudy,2018 April 30,94301,Palo%20Alto
+12:53 AM,54 °F,46 °F,75 °%,CALM,0 °mph,0 °mph,30.02 °in,0.0 °in,Mostly Cloudy,2018 April 30,94301,Palo%20Alto
+1:29 AM,52 °F,45 °F,77 °%,S,5 °mph,0 °mph,30.01 °in,0.0 °in,Partly Cloudy,2018 April 30,94301,Palo%20Alto
+1:53 AM,51 °F,45 °F,80 °%,CALM,0 °mph,0 °mph,30.00 °in,0.0 °in,Fair,2018 April 30,94301,Palo%20Alto
+2:53 AM,51 °F,45 °F,80 °%,CALM,0 °mph,0 °mph,30.00 °in,0.0 °in,Fair,2018 April 30,94301,Palo%20Alto
+3:53 AM,49 °F,44 °F,83 °%,CALM,0 °mph,0 °mph,30.00 °in,0.0 °in,Partly Cloudy,2018 April 30,94301,Palo%20Alto
+4:53 AM,47 °F,43 °F,86 °%,SE,3 °mph,0 °mph,30.00 °in,0.0 °in,Partly Cloudy,2018 April 30,94301,Palo%20Alto
+5:12 AM,49 °F,44 °F,83 °%,S,3 °mph,0 °mph,29.99 °in,0.0 °in,Mostly Cloudy,2018 April 30,94301,Palo%20Alto
+5:53 AM,48 °F,44 °F,86 °%,S,3 °mph,0 °mph,29.99 °in,0.0 °in,Mostly Cloudy,2018 April 30,94301,Palo%20Alto
+6:53 AM,49 °F,44 °F,83 °%,SE,5 °mph,0 °mph,30.00 °in,0.0 °in,Cloudy,2018 April 30,94301,Palo%20Alto
+7:53 AM,52 °F,45 °F,77 °%,ESE,3 °mph,0 °mph,30.01 °in,0.0 °in,Cloudy,2018 April 30,94301,Palo%20Alto
+8:53 AM,55 °F,46 °F,72 °%,CALM,0 °mph,0 °mph,30.02 °in,0.0 °in,Cloudy,2018 April 30,94301,Palo%20Alto
+9:53 AM,57 °F,45 °F,64 °%,S,8 °mph,0 °mph,30.00 °in,0.0 °in,Cloudy,2018 April 30,94301,Palo%20Alto
+10:53 AM,59 °F,45 °F,60 °%,CALM,0 °mph,0 °mph,29.99 °in,0.0 °in,Cloudy,2018 April 30,94301,Palo%20Alto
+11:53 AM,62 °F,44 °F,52 °%,S,7 °mph,0 °mph,29.99 °in,0.0 °in,Cloudy,2018 April 30,94301,Palo%20Alto
+12:53 PM,63 °F,43 °F,48 °%,VAR,7 °mph,0 °mph,29.97 °in,0.0 °in,Partly Cloudy,2018 April 30,94301,Palo%20Alto
+1:53 PM,65 °F,43 °F,45 °%,W,10 °mph,22 °mph,29.96 °in,0.0 °in,Partly Cloudy,2018 April 30,94301,Palo%20Alto
+2:53 PM,65 °F,42 °F,43 °%,W,10 °mph,20 °mph,29.94 °in,0.0 °in,Partly Cloudy,2018 April 30,94301,Palo%20Alto
+3:53 PM,64 °F,42 °F,45 °%,W,9 °mph,0 °mph,29.92 °in,0.0 °in,Partly Cloudy,2018 April 30,94301,Palo%20Alto
+4:53 PM,64 °F,42 °F,45 °%,W,8 °mph,0 °mph,29.90 °in,0.0 °in,Fair,2018 April 30,94301,Palo%20Alto
+5:53 PM,62 °F,42 °F,48 °%,W,12 °mph,0 °mph,29.89 °in,0.0 °in,Fair,2018 April 30,94301,Palo%20Alto
+6:53 PM,59 °F,41 °F,51 °%,W,13 °mph,0 °mph,29.89 °in,0.0 °in,Partly Cloudy,2018 April 30,94301,Palo%20Alto
+7:53 PM,55 °F,42 °F,62 °%,W,10 °mph,0 °mph,29.89 °in,0.0 °in,Fair,2018 April 30,94301,Palo%20Alto
+8:53 PM,53 °F,42 °F,66 °%,WNW,7 °mph,0 °mph,29.89 °in,0.0 °in,Fair,2018 April 30,94301,Palo%20Alto
+9:53 PM,52 °F,42 °F,69 °%,WNW,3 °mph,0 °mph,29.89 °in,0.0 °in,Fair,2018 April 30,94301,Palo%20Alto
+10:53 PM,52 °F,42 °F,69 °%,S,3 °mph,0 °mph,29.87 °in,0.0 °in,Fair,2018 April 30,94301,Palo%20Alto
+11:53 PM,50 °F,42 °F,74 °%,ESE,6 °mph,0 °mph,29.86 °in,0.0 °in,Fair,2018 April 30,94301,Palo%20Alto
+12:39 AM,53 °F,46 °F,77 °%,CALM,0 °mph,0 °mph,30.03 °in,0.0 °in,Mostly Cloudy,2018 April 30,94306,Palo%20Alto
+12:53 AM,54 °F,46 °F,75 °%,CALM,0 °mph,0 °mph,30.02 °in,0.0 °in,Mostly Cloudy,2018 April 30,94306,Palo%20Alto
+1:29 AM,52 °F,45 °F,77 °%,S,5 °mph,0 °mph,30.01 °in,0.0 °in,Partly Cloudy,2018 April 30,94306,Palo%20Alto
+1:53 AM,51 °F,45 °F,80 °%,CALM,0 °mph,0 °mph,30.00 °in,0.0 °in,Fair,2018 April 30,94306,Palo%20Alto
+2:53 AM,51 °F,45 °F,80 °%,CALM,0 °mph,0 °mph,30.00 °in,0.0 °in,Fair,2018 April 30,94306,Palo%20Alto
+3:53 AM,49 °F,44 °F,83 °%,CALM,0 °mph,0 °mph,30.00 °in,0.0 °in,Partly Cloudy,2018 April 30,94306,Palo%20Alto
+4:53 AM,47 °F,43 °F,86 °%,SE,3 °mph,0 °mph,30.00 °in,0.0 °in,Partly Cloudy,2018 April 30,94306,Palo%20Alto
+5:12 AM,49 °F,44 °F,83 °%,S,3 °mph,0 °mph,29.99 °in,0.0 °in,Mostly Cloudy,2018 April 30,94306,Palo%20Alto
+5:53 AM,48 °F,44 °F,86 °%,S,3 °mph,0 °mph,29.99 °in,0.0 °in,Mostly Cloudy,2018 April 30,94306,Palo%20Alto
+6:53 AM,49 °F,44 °F,83 °%,SE,5 °mph,0 °mph,30.00 °in,0.0 °in,Cloudy,2018 April 30,94306,Palo%20Alto
+7:53 AM,52 °F,45 °F,77 °%,ESE,3 °mph,0 °mph,30.01 °in,0.0 °in,Cloudy,2018 April 30,94306,Palo%20Alto
+8:53 AM,55 °F,46 °F,72 °%,CALM,0 °mph,0 °mph,30.02 °in,0.0 °in,Cloudy,2018 April 30,94306,Palo%20Alto
+9:53 AM,57 °F,45 °F,64 °%,S,8 °mph,0 °mph,30.00 °in,0.0 °in,Cloudy,2018 April 30,94306,Palo%20Alto
+10:53 AM,59 °F,45 °F,60 °%,CALM,0 °mph,0 °mph,29.99 °in,0.0 °in,Cloudy,2018 April 30,94306,Palo%20Alto
+11:53 AM,62 °F,44 °F,52 °%,S,7 °mph,0 °mph,29.99 °in,0.0 °in,Cloudy,2018 April 30,94306,Palo%20Alto
+12:53 PM,63 °F,43 °F,48 °%,VAR,7 °mph,0 °mph,29.97 °in,0.0 °in,Partly Cloudy,2018 April 30,94306,Palo%20Alto
+1:53 PM,65 °F,43 °F,45 °%,W,10 °mph,22 °mph,29.96 °in,0.0 °in,Partly Cloudy,2018 April 30,94306,Palo%20Alto
+2:53 PM,65 °F,42 °F,43 °%,W,10 °mph,20 °mph,29.94 °in,0.0 °in,Partly Cloudy,2018 April 30,94306,Palo%20Alto
+3:53 PM,64 °F,42 °F,45 °%,W,9 °mph,0 °mph,29.92 °in,0.0 °in,Partly Cloudy,2018 April 30,94306,Palo%20Alto
+4:53 PM,64 °F,42 °F,45 °%,W,8 °mph,0 °mph,29.90 °in,0.0 °in,Fair,2018 April 30,94306,Palo%20Alto
+5:53 PM,62 °F,42 °F,48 °%,W,12 °mph,0 °mph,29.89 °in,0.0 °in,Fair,2018 April 30,94306,Palo%20Alto
+6:53 PM,59 °F,41 °F,51 °%,W,13 °mph,0 °mph,29.89 °in,0.0 °in,Partly Cloudy,2018 April 30,94306,Palo%20Alto
+7:53 PM,55 °F,42 °F,62 °%,W,10 °mph,0 °mph,29.89 °in,0.0 °in,Fair,2018 April 30,94306,Palo%20Alto
+8:53 PM,53 °F,42 °F,66 °%,WNW,7 °mph,0 °mph,29.89 °in,0.0 °in,Fair,2018 April 30,94306,Palo%20Alto
+9:53 PM,52 °F,42 °F,69 °%,WNW,3 °mph,0 °mph,29.89 °in,0.0 °in,Fair,2018 April 30,94306,Palo%20Alto
+10:53 PM,52 °F,42 °F,69 °%,S,3 °mph,0 °mph,29.87 °in,0.0 °in,Fair,2018 April 30,94306,Palo%20Alto
+11:53 PM,50 °F,42 °F,74 °%,ESE,6 °mph,0 °mph,29.86 °in,0.0 °in,Fair,2018 April 30,94306,Palo%20Alto
+12:39 AM,53 °F,46 °F,77 °%,CALM,0 °mph,0 °mph,30.03 °in,0.0 °in,Mostly Cloudy,2018 April 30,94303,Palo%20Alto
+12:53 AM,54 °F,46 °F,75 °%,CALM,0 °mph,0 °mph,30.02 °in,0.0 °in,Mostly Cloudy,2018 April 30,94303,Palo%20Alto
+1:29 AM,52 °F,45 °F,77 °%,S,5 °mph,0 °mph,30.01 °in,0.0 °in,Partly Cloudy,2018 April 30,94303,Palo%20Alto
+1:53 AM,51 °F,45 °F,80 °%,CALM,0 °mph,0 °mph,30.00 °in,0.0 °in,Fair,2018 April 30,94303,Palo%20Alto
+2:53 AM,51 °F,45 °F,80 °%,CALM,0 °mph,0 °mph,30.00 °in,0.0 °in,Fair,2018 April 30,94303,Palo%20Alto
+3:53 AM,49 °F,44 °F,83 °%,CALM,0 °mph,0 °mph,30.00 °in,0.0 °in,Partly Cloudy,2018 April 30,94303,Palo%20Alto
+4:53 AM,47 °F,43 °F,86 °%,SE,3 °mph,0 °mph,30.00 °in,0.0 °in,Partly Cloudy,2018 April 30,94303,Palo%20Alto
+5:12 AM,49 °F,44 °F,83 °%,S,3 °mph,0 °mph,29.99 °in,0.0 °in,Mostly Cloudy,2018 April 30,94303,Palo%20Alto
+5:53 AM,48 °F,44 °F,86 °%,S,3 °mph,0 °mph,29.99 °in,0.0 °in,Mostly Cloudy,2018 April 30,94303,Palo%20Alto
+6:53 AM,49 °F,44 °F,83 °%,SE,5 °mph,0 °mph,30.00 °in,0.0 °in,Cloudy,2018 April 30,94303,Palo%20Alto
+7:53 AM,52 °F,45 °F,77 °%,ESE,3 °mph,0 °mph,30.01 °in,0.0 °in,Cloudy,2018 April 30,94303,Palo%20Alto
+8:53 AM,55 °F,46 °F,72 °%,CALM,0 °mph,0 °mph,30.02 °in,0.0 °in,Cloudy,2018 April 30,94303,Palo%20Alto
+9:53 AM,57 °F,45 °F,64 °%,S,8 °mph,0 °mph,30.00 °in,0.0 °in,Cloudy,2018 April 30,94303,Palo%20Alto
+10:53 AM,59 °F,45 °F,60 °%,CALM,0 °mph,0 °mph,29.99 °in,0.0 °in,Cloudy,2018 April 30,94303,Palo%20Alto
+11:53 AM,62 °F,44 °F,52 °%,S,7 °mph,0 °mph,29.99 °in,0.0 °in,Cloudy,2018 April 30,94303,Palo%20Alto
+12:53 PM,63 °F,43 °F,48 °%,VAR,7 °mph,0 °mph,29.97 °in,0.0 °in,Partly Cloudy,2018 April 30,94303,Palo%20Alto
+1:53 PM,65 °F,43 °F,45 °%,W,10 °mph,22 °mph,29.96 °in,0.0 °in,Partly Cloudy,2018 April 30,94303,Palo%20Alto
+2:53 PM,65 °F,42 °F,43 °%,W,10 °mph,20 °mph,29.94 °in,0.0 °in,Partly Cloudy,2018 April 30,94303,Palo%20Alto
+3:53 PM,64 °F,42 °F,45 °%,W,9 °mph,0 °mph,29.92 °in,0.0 °in,Partly Cloudy,2018 April 30,94303,Palo%20Alto
+4:53 PM,64 °F,42 °F,45 °%,W,8 °mph,0 °mph,29.90 °in,0.0 °in,Fair,2018 April 30,94303,Palo%20Alto
+5:53 PM,62 °F,42 °F,48 °%,W,12 °mph,0 °mph,29.89 °in,0.0 °in,Fair,2018 April 30,94303,Palo%20Alto
+6:53 PM,59 °F,41 °F,51 °%,W,13 °mph,0 °mph,29.89 °in,0.0 °in,Partly Cloudy,2018 April 30,94303,Palo%20Alto
+7:53 PM,55 °F,42 °F,62 °%,W,10 °mph,0 °mph,29.89 °in,0.0 °in,Fair,2018 April 30,94303,Palo%20Alto
+8:53 PM,53 °F,42 °F,66 °%,WNW,7 °mph,0 °mph,29.89 °in,0.0 °in,Fair,2018 April 30,94303,Palo%20Alto
+9:53 PM,52 °F,42 °F,69 °%,WNW,3 °mph,0 °mph,29.89 °in,0.0 °in,Fair,2018 April 30,94303,Palo%20Alto
+10:53 PM,52 °F,42 °F,69 °%,S,3 °mph,0 °mph,29.87 °in,0.0 °in,Fair,2018 April 30,94303,Palo%20Alto
+11:53 PM,50 °F,42 °F,74 °%,ESE,6 °mph,0 °mph,29.86 °in,0.0 °in,Fair,2018 April 30,94303,Palo%20Alto
+12:53 AM,50 °F,41 °F,71 °%,SE,6 °mph,0 °mph,29.84 °in,0.0 °in,Fair,2018 May 01,94301,Palo%20Alto
+1:53 AM,49 °F,42 °F,77 °%,SE,8 °mph,0 °mph,29.83 °in,0.0 °in,Fair,2018 May 01,94301,Palo%20Alto
+2:53 AM,50 °F,43 °F,77 °%,SE,12 °mph,0 °mph,29.83 °in,0.0 °in,Fair,2018 May 01,94301,Palo%20Alto
+3:53 AM,49 °F,43 °F,80 °%,SE,12 °mph,0 °mph,29.82 °in,0.0 °in,Fair,2018 May 01,94301,Palo%20Alto
+4:53 AM,49 °F,43 °F,80 °%,SE,13 °mph,0 °mph,29.82 °in,0.0 °in,Fair,2018 May 01,94301,Palo%20Alto
+5:53 AM,49 °F,43 °F,80 °%,SE,8 °mph,0 °mph,29.83 °in,0.0 °in,Mostly Cloudy,2018 May 01,94301,Palo%20Alto
+6:53 AM,50 °F,44 °F,80 °%,SSE,7 °mph,0 °mph,29.84 °in,0.0 °in,Mostly Cloudy,2018 May 01,94301,Palo%20Alto
+7:53 AM,51 °F,44 °F,77 °%,SE,7 °mph,0 °mph,29.84 °in,0.0 °in,Mostly Cloudy,2018 May 01,94301,Palo%20Alto
+8:53 AM,53 °F,45 °F,74 °%,SE,7 °mph,0 °mph,29.84 °in,0.0 °in,Mostly Cloudy,2018 May 01,94301,Palo%20Alto
+9:53 AM,57 °F,45 °F,64 °%,VAR,3 °mph,0 °mph,29.84 °in,0.0 °in,Partly Cloudy,2018 May 01,94301,Palo%20Alto
+10:53 AM,61 °F,45 °F,56 °%,CALM,0 °mph,0 °mph,29.84 °in,0.0 °in,Fair,2018 May 01,94301,Palo%20Alto
+11:53 AM,63 °F,46 °F,54 °%,WNW,6 °mph,0 °mph,29.83 °in,0.0 °in,Fair,2018 May 01,94301,Palo%20Alto
+12:53 PM,67 °F,45 °F,45 °%,VAR,5 °mph,0 °mph,29.81 °in,0.0 °in,Fair,2018 May 01,94301,Palo%20Alto
+1:53 PM,69 °F,45 °F,42 °%,NW,8 °mph,0 °mph,29.80 °in,0.0 °in,Partly Cloudy,2018 May 01,94301,Palo%20Alto
+2:53 PM,70 °F,45 °F,41 °%,W,9 °mph,0 °mph,29.78 °in,0.0 °in,Partly Cloudy,2018 May 01,94301,Palo%20Alto
+3:53 PM,72 °F,46 °F,40 °%,NW,13 °mph,0 °mph,29.77 °in,0.0 °in,Mostly Cloudy,2018 May 01,94301,Palo%20Alto
+4:53 PM,72 °F,45 °F,38 °%,NW,14 °mph,0 °mph,29.76 °in,0.0 °in,Mostly Cloudy,2018 May 01,94301,Palo%20Alto
+5:53 PM,69 °F,48 °F,47 °%,NW,15 °mph,0 °mph,29.76 °in,0.0 °in,Mostly Cloudy,2018 May 01,94301,Palo%20Alto
+6:53 PM,65 °F,47 °F,52 °%,NW,13 °mph,0 °mph,29.78 °in,0.0 °in,Mostly Cloudy,2018 May 01,94301,Palo%20Alto
+7:53 PM,61 °F,45 °F,56 °%,NW,15 °mph,0 °mph,29.79 °in,0.0 °in,Partly Cloudy,2018 May 01,94301,Palo%20Alto
+8:53 PM,57 °F,47 °F,69 °%,NW,13 °mph,0 °mph,29.81 °in,0.0 °in,Fair,2018 May 01,94301,Palo%20Alto
+9:53 PM,56 °F,46 °F,69 °%,NW,12 °mph,0 °mph,29.85 °in,0.0 °in,Fair,2018 May 01,94301,Palo%20Alto
+10:53 PM,53 °F,44 °F,71 °%,WNW,8 °mph,0 °mph,29.86 °in,0.0 °in,Fair,2018 May 01,94301,Palo%20Alto
+11:53 PM,54 °F,45 °F,72 °%,NW,7 °mph,0 °mph,29.85 °in,0.0 °in,Fair,2018 May 01,94301,Palo%20Alto
+12:53 AM,50 °F,41 °F,71 °%,SE,6 °mph,0 °mph,29.84 °in,0.0 °in,Fair,2018 May 01,94306,Palo%20Alto
+1:53 AM,49 °F,42 °F,77 °%,SE,8 °mph,0 °mph,29.83 °in,0.0 °in,Fair,2018 May 01,94306,Palo%20Alto
+2:53 AM,50 °F,43 °F,77 °%,SE,12 °mph,0 °mph,29.83 °in,0.0 °in,Fair,2018 May 01,94306,Palo%20Alto
+3:53 AM,49 °F,43 °F,80 °%,SE,12 °mph,0 °mph,29.82 °in,0.0 °in,Fair,2018 May 01,94306,Palo%20Alto
+4:53 AM,49 °F,43 °F,80 °%,SE,13 °mph,0 °mph,29.82 °in,0.0 °in,Fair,2018 May 01,94306,Palo%20Alto
+5:53 AM,49 °F,43 °F,80 °%,SE,8 °mph,0 °mph,29.83 °in,0.0 °in,Mostly Cloudy,2018 May 01,94306,Palo%20Alto
+6:53 AM,50 °F,44 °F,80 °%,SSE,7 °mph,0 °mph,29.84 °in,0.0 °in,Mostly Cloudy,2018 May 01,94306,Palo%20Alto
+7:53 AM,51 °F,44 °F,77 °%,SE,7 °mph,0 °mph,29.84 °in,0.0 °in,Mostly Cloudy,2018 May 01,94306,Palo%20Alto
+8:53 AM,53 °F,45 °F,74 °%,SE,7 °mph,0 °mph,29.84 °in,0.0 °in,Mostly Cloudy,2018 May 01,94306,Palo%20Alto
+9:53 AM,57 °F,45 °F,64 °%,VAR,3 °mph,0 °mph,29.84 °in,0.0 °in,Partly Cloudy,2018 May 01,94306,Palo%20Alto
+10:53 AM,61 °F,45 °F,56 °%,CALM,0 °mph,0 °mph,29.84 °in,0.0 °in,Fair,2018 May 01,94306,Palo%20Alto
+11:53 AM,63 °F,46 °F,54 °%,WNW,6 °mph,0 °mph,29.83 °in,0.0 °in,Fair,2018 May 01,94306,Palo%20Alto
+12:53 PM,67 °F,45 °F,45 °%,VAR,5 °mph,0 °mph,29.81 °in,0.0 °in,Fair,2018 May 01,94306,Palo%20Alto
+1:53 PM,69 °F,45 °F,42 °%,NW,8 °mph,0 °mph,29.80 °in,0.0 °in,Partly Cloudy,2018 May 01,94306,Palo%20Alto
+2:53 PM,70 °F,45 °F,41 °%,W,9 °mph,0 °mph,29.78 °in,0.0 °in,Partly Cloudy,2018 May 01,94306,Palo%20Alto
+3:53 PM,72 °F,46 °F,40 °%,NW,13 °mph,0 °mph,29.77 °in,0.0 °in,Mostly Cloudy,2018 May 01,94306,Palo%20Alto
+4:53 PM,72 °F,45 °F,38 °%,NW,14 °mph,0 °mph,29.76 °in,0.0 °in,Mostly Cloudy,2018 May 01,94306,Palo%20Alto
+5:53 PM,69 °F,48 °F,47 °%,NW,15 °mph,0 °mph,29.76 °in,0.0 °in,Mostly Cloudy,2018 May 01,94306,Palo%20Alto
+6:53 PM,65 °F,47 °F,52 °%,NW,13 °mph,0 °mph,29.78 °in,0.0 °in,Mostly Cloudy,2018 May 01,94306,Palo%20Alto
+7:53 PM,61 °F,45 °F,56 °%,NW,15 °mph,0 °mph,29.79 °in,0.0 °in,Partly Cloudy,2018 May 01,94306,Palo%20Alto
+8:53 PM,57 °F,47 °F,69 °%,NW,13 °mph,0 °mph,29.81 °in,0.0 °in,Fair,2018 May 01,94306,Palo%20Alto
+9:53 PM,56 °F,46 °F,69 °%,NW,12 °mph,0 °mph,29.85 °in,0.0 °in,Fair,2018 May 01,94306,Palo%20Alto
+10:53 PM,53 °F,44 °F,71 °%,WNW,8 °mph,0 °mph,29.86 °in,0.0 °in,Fair,2018 May 01,94306,Palo%20Alto
+11:53 PM,54 °F,45 °F,72 °%,NW,7 °mph,0 °mph,29.85 °in,0.0 °in,Fair,2018 May 01,94306,Palo%20Alto
+12:53 AM,50 °F,41 °F,71 °%,SE,6 °mph,0 °mph,29.84 °in,0.0 °in,Fair,2018 May 01,94303,Palo%20Alto
+1:53 AM,49 °F,42 °F,77 °%,SE,8 °mph,0 °mph,29.83 °in,0.0 °in,Fair,2018 May 01,94303,Palo%20Alto
+2:53 AM,50 °F,43 °F,77 °%,SE,12 °mph,0 °mph,29.83 °in,0.0 °in,Fair,2018 May 01,94303,Palo%20Alto
+3:53 AM,49 °F,43 °F,80 °%,SE,12 °mph,0 °mph,29.82 °in,0.0 °in,Fair,2018 May 01,94303,Palo%20Alto
+4:53 AM,49 °F,43 °F,80 °%,SE,13 °mph,0 °mph,29.82 °in,0.0 °in,Fair,2018 May 01,94303,Palo%20Alto
+5:53 AM,49 °F,43 °F,80 °%,SE,8 °mph,0 °mph,29.83 °in,0.0 °in,Mostly Cloudy,2018 May 01,94303,Palo%20Alto
+6:53 AM,50 °F,44 °F,80 °%,SSE,7 °mph,0 °mph,29.84 °in,0.0 °in,Mostly Cloudy,2018 May 01,94303,Palo%20Alto
+7:53 AM,51 °F,44 °F,77 °%,SE,7 °mph,0 °mph,29.84 °in,0.0 °in,Mostly Cloudy,2018 May 01,94303,Palo%20Alto
+8:53 AM,53 °F,45 °F,74 °%,SE,7 °mph,0 °mph,29.84 °in,0.0 °in,Mostly Cloudy,2018 May 01,94303,Palo%20Alto
+9:53 AM,57 °F,45 °F,64 °%,VAR,3 °mph,0 °mph,29.84 °in,0.0 °in,Partly Cloudy,2018 May 01,94303,Palo%20Alto
+10:53 AM,61 °F,45 °F,56 °%,CALM,0 °mph,0 °mph,29.84 °in,0.0 °in,Fair,2018 May 01,94303,Palo%20Alto
+11:53 AM,63 °F,46 °F,54 °%,WNW,6 °mph,0 °mph,29.83 °in,0.0 °in,Fair,2018 May 01,94303,Palo%20Alto
+12:53 PM,67 °F,45 °F,45 °%,VAR,5 °mph,0 °mph,29.81 °in,0.0 °in,Fair,2018 May 01,94303,Palo%20Alto
+1:53 PM,69 °F,45 °F,42 °%,NW,8 °mph,0 °mph,29.80 °in,0.0 °in,Partly Cloudy,2018 May 01,94303,Palo%20Alto
+2:53 PM,70 °F,45 °F,41 °%,W,9 °mph,0 °mph,29.78 °in,0.0 °in,Partly Cloudy,2018 May 01,94303,Palo%20Alto
+3:53 PM,72 °F,46 °F,40 °%,NW,13 °mph,0 °mph,29.77 °in,0.0 °in,Mostly Cloudy,2018 May 01,94303,Palo%20Alto
+4:53 PM,72 °F,45 °F,38 °%,NW,14 °mph,0 °mph,29.76 °in,0.0 °in,Mostly Cloudy,2018 May 01,94303,Palo%20Alto
+5:53 PM,69 °F,48 °F,47 °%,NW,15 °mph,0 °mph,29.76 °in,0.0 °in,Mostly Cloudy,2018 May 01,94303,Palo%20Alto
+6:53 PM,65 °F,47 °F,52 °%,NW,13 °mph,0 °mph,29.78 °in,0.0 °in,Mostly Cloudy,2018 May 01,94303,Palo%20Alto
+7:53 PM,61 °F,45 °F,56 °%,NW,15 °mph,0 °mph,29.79 °in,0.0 °in,Partly Cloudy,2018 May 01,94303,Palo%20Alto
+8:53 PM,57 °F,47 °F,69 °%,NW,13 °mph,0 °mph,29.81 °in,0.0 °in,Fair,2018 May 01,94303,Palo%20Alto
+9:53 PM,56 °F,46 °F,69 °%,NW,12 °mph,0 °mph,29.85 °in,0.0 °in,Fair,2018 May 01,94303,Palo%20Alto
+10:53 PM,53 °F,44 °F,71 °%,WNW,8 °mph,0 °mph,29.86 °in,0.0 °in,Fair,2018 May 01,94303,Palo%20Alto
+11:53 PM,54 °F,45 °F,72 °%,NW,7 °mph,0 °mph,29.85 °in,0.0 °in,Fair,2018 May 01,94303,Palo%20Alto
