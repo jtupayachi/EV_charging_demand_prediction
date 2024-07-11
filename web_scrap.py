@@ -335,7 +335,7 @@ for index, row in data.iterrows():
     # Check if 100 rows have been processed
     if counter % 10 == 0:
         # If 100 rows have been processed, create a new file or append to existing file
-        filename = 'output/output_'+str(row['Unnamed: 0'])+'.csv'
+        filename = 'weather_output/output_'+str(row['Unnamed: 0'])+'.csv'
         # Concatenate all DataFrames so far
         concatenated_df = pd.concat(all_dfs, ignore_index=True)
         # Save concatenated DataFrame to CSV
@@ -345,6 +345,6 @@ for index, row in data.iterrows():
 
 # After the loop, save any remaining DataFrames
 if all_dfs:
-    filename = 'output/output_'+str(row['Unnamed: 0'])+'.csv'
+    filename = 'weather_output/output_'+str(row['Unnamed: 0'])+'.csv'
     concatenated_df = pd.concat(all_dfs, ignore_index=True)
     concatenated_df.to_csv(filename, index=False)
